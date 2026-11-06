@@ -7,6 +7,7 @@
   "scripts": {
     "pipeline": "node scripts/pipeline.ts",
     "spotcheck": "node scripts/spotcheck.ts",
+    "serve": "node scripts/serve.ts",
     "typecheck": "tsc"
   },
   "devDependencies": {
