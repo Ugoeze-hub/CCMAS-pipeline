@@ -1,8 +1,8 @@
 /**
  * Sanity-check a parsed discipline: flag courses with missing parts and print samples to compare with the PDF.
  *
- *   node ccmas/scripts/spotcheck.ts computing              problems + one sample course per programme
- *   node ccmas/scripts/spotcheck.ts computing "COS 101"    show specific course(s) in every programme
+ *   npm run spotcheck -- computing           problems + one sample course per programme
+ *   npm run spotcheck -- computing "COS 101"  show specific course(s) in every programme
  */
 import { readFileSync } from "node:fs";
 import { dirname, join, resolve } from "node:path";

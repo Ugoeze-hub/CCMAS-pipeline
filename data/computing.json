@@ -9,10 +9,11 @@
   },
   "programmes": [
     {
-      "name": "B.Sc. Computer Science",
       "degree": "B.Sc.",
+      "name": "Computer Science",
+      "toc_name": "B.Sc. Computer Science",
       "start_page": 27,
-      "end_page": 55,
+      "end_page": 56,
       "courses": [
         {
           "code": "GST 111",
@@ -23,6 +24,7 @@
           "ph": 45,
           "page": 31,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify possible sound patterns in English language;",
@@ -45,6 +47,7 @@
           "ph": null,
           "page": 31,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the historical foundation of the Nigerian culture and arts in pre-colonial times;",
@@ -68,6 +71,7 @@
           "ph": null,
           "page": 32,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain basic definition of Set, Subset, Union, Intersection, Complements and use of Venn diagrams;",
@@ -88,6 +92,7 @@
           "ph": null,
           "page": 32,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "distinguish types of rules in Differentiation and Integration;",
@@ -106,6 +111,7 @@
           "ph": null,
           "page": 33,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "identify and deduce the physical quantities and their units;",
@@ -129,6 +135,7 @@
           "ph": null,
           "page": 33,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe the electric field and potential, and related concepts, for stationary charges;",
@@ -152,6 +159,7 @@
           "ph": 45,
           "page": 34,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -172,6 +180,7 @@
           "ph": 45,
           "page": 34,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "On completion, the student should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -193,6 +202,7 @@
           "ph": null,
           "page": 35,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain the differences between permutation and combination;",
@@ -212,6 +222,7 @@
           "ph": 45,
           "page": 35,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain basic components of computers and other computing devices;",
@@ -233,6 +244,7 @@
           "ph": 0,
           "page": 36,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain problem solving processes;",
@@ -254,6 +266,7 @@
           "ph": null,
           "page": 36,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "know the basic features of philosophy as an academic discipline;",
@@ -277,6 +290,7 @@
           "ph": 45,
           "page": 37,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concepts and theories of entrepreneurship, intrapreneurship, opportunity seeking, new value creation, and risk taking;",
@@ -300,6 +314,7 @@
           "ph": null,
           "page": 37,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "describe Real-valued functions of a real variable;",
@@ -318,6 +333,7 @@
           "ph": null,
           "page": 38,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "define the following: order and degree of a differential equation;",
@@ -336,6 +352,7 @@
           "ph": 45,
           "page": 38,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify different programming paradigms and their approaches to programming;",
@@ -359,6 +376,7 @@
           "ph": 45,
           "page": 39,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "develop solutions for a range of problems using object-oriented programming;",
@@ -381,6 +399,7 @@
           "ph": null,
           "page": 39,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, the students will be able to:",
           "outcomes": [
             "convert logical statements from informal language to propositional and predicate logic expressions;",
@@ -404,6 +423,7 @@
           "ph": 135,
           "page": 40,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this training, students should be able to:",
           "outcomes": [
             "explain how a typical computer firm/unit operates;",
@@ -422,6 +442,7 @@
           "ph": 45,
           "page": 40,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students will be able to:",
           "outcomes": [
             "explain why everything is data, including instructions, in computers;",
@@ -445,6 +466,7 @@
           "ph": 45,
           "page": 41,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students will be able to:",
           "outcomes": [
             "explain the organisation of the classical von Neumann machine and its major functional units;",
@@ -466,6 +488,7 @@
           "ph": null,
           "page": 41,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe the concept of the software life cycle;",
@@ -488,6 +511,7 @@
           "ph": null,
           "page": 42,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the concepts of peace, conflict and security;",
@@ -508,6 +532,7 @@
           "ph": 45,
           "page": 43,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students, through case study and practical approaches, should be able to:",
           "outcomes": [
             "describe the key steps in venture creation;",
@@ -532,6 +557,7 @@
           "ph": 45,
           "page": 43,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "discuss the appropriate use of built-in data structures;",
@@ -553,6 +579,7 @@
           "ph": 45,
           "page": 44,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "recognise operating system types and structures;",
@@ -575,6 +602,7 @@
           "ph": 45,
           "page": 44,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain AI fundamentals, concepts, goals, types, techniques, branches, applications, AI technology and tools;",
@@ -598,6 +626,7 @@
           "ph": null,
           "page": 46,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain business models;",
@@ -619,6 +648,7 @@
           "ph": 135,
           "page": 46,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this training, students should be able to:",
           "outcomes": [
             "explain how a typical computer firm/unit operates;",
@@ -637,6 +667,7 @@
           "ph": null,
           "page": 47,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain cybersecurity concepts, its methods, elements, and terminologies of cybersecurity -cyber, security, threat, attack, defence, and operations;",
@@ -658,6 +689,7 @@
           "ph": 45,
           "page": 48,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course the students should be able to:",
           "outcomes": [
             "describe the components of a database system and give examples of their use;",
@@ -680,6 +712,7 @@
           "ph": 45,
           "page": 48,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain data transmission over layered networks;",
@@ -698,6 +731,7 @@
           "ph": null,
           "page": 49,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "distinguish qualitative and quantitative research methodologies and their applications;",
@@ -720,6 +754,7 @@
           "ph": null,
           "page": 50,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain the use of big-O, omega, and theta notation to describe the amount of work done by an algorithm,",
@@ -743,6 +778,7 @@
           "ph": null,
           "page": 50,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "state laws and regulations related to ethics;",
@@ -764,6 +800,7 @@
           "ph": 135,
           "page": 51,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify a researchable project topic in Computer Science;",
@@ -786,6 +823,7 @@
           "ph": 135,
           "page": 51,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "demonstrate technical skills in Computer Science;",
@@ -806,6 +844,7 @@
           "ph": null,
           "page": 51,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe project management planning;",
@@ -814,16 +853,17 @@
             "discuss project procurement, monitoring and execution; and",
             "explain project communication and time management."
           ],
-          "contents": "Introduction to Project Management. The Project Management Lifecycle: Project management and systems development or acquisition. The project management context. Technology and techniques to support the project management lifecycle, and Project management processes. Managing Project Teams: Project team planning, motivating team members, Leadership, power and conflict in project teams, and managing global project teams. Managing project communication and enhancing team communication. Project Initiation and Planning. Managing Project Scope: Project initiation, how organisations choose projects, Activities, and Developing the project charter. Managing Project Scheduling: Common problems in project scheduling, and Techniques for project scheduling. Managing Project Resources: Types of resources (human, capital, time), and Techniques for managing resources. Project quality and tools to manage project quality. Managing project risk and tools for managing project risk. Managing Project Procurement: Alternatives to systems development, External acquisition, Outsourcing-domestic and offshore. Steps in the procurement process, and managing the procurement process. Project Execution, Control and Closure: Managing project execution, monitoring progress and managing change. Documentation and communication, and Common problems in project execution. Managing Project Control and Closure: Obtaining information, Cost control, Change control, administrative closure, Personnel closure, Contractual closure and Project auditing. Minimum Academic Standards Equipment A Computer Science programme should have at least three categories of laboratories: software, network and hardware laboratories. Best practice requires a staff to students’ ratio of 1:20 for laboratory practical. Therefore, multiple small laboratories are preferable to a few large ones. Courses with large enrolments should have the students partitioned into groups to ensure each student has a computer/practice equipment to himself or herself during practical sessions. Laboratory sessions should be conducted by staff to ensure close monitoring and effective achievement of Learning Outcomes. Software laboratory Software laboratory support programming and other courses requiring use of software tools. Requirements for the software laboratory include: 1. Computer systems with capacity to run software systems for all lab-based courses (e.g., Desktop PC with minimum of 1,6 GHz or faster processor with at least 2 GB RAM and 500 GB hard disk space.) A maximum of 3 students to 1 computer system is recommended. 2. Programming environment and tools (e.g., Compilers/interpreters, debuggers, etc. for Java, Python, compiler compilers, e.g., flex, yacc, SableCC, etc,) 3. Operating systems environments and tools (e.g., Windows, LINUX, TempOS, Nachos, Xinu or MiniOS) 4. Tools for systems analysis and design (e.g., Unified Modelling Language (UML)) 5. Computer maintenance tools like dust blowers and toolbox 6. Overhead projector 7. Power backup Network laboratory A separate network laboratory is required to expose students to practice on net-centric courses. Requirements for the network laboratory include: 1. Computer systems (hosts running LINUX or Windows). A maximum of 3 students to 1 computer system is recommended. 2. Routers, Switches, Radio modems, etc. 3. Dialup modems and PABXs 4. Patch panels 5. Simulation software like Packet tracer, NS Simulator or others 6. LAN testers, crimping tools, etc. 7. Practical consumables (RJ-45 connectors, twisted pair cable, etc.) Hardware laboratory The hardware laboratory should provide facilities required for hardware-related practicals. Requirements for the hardware laboratory include: 1. NAND, NOR, XOR, AND, OR gates 2. Multiplexers 3. Master-slave flip-flops 4. Digi-Designer Logic Board, etc 5. Dual–trace oscilloscope 6. Digital Proto-Board 7. Computer casing 8. Motherboard 9. ROMs/RAMs 10. Hard drives 11. CD ROMs 12. Display screens 13. Fans 14. Connectors/Jumpers, etc. Staffing Personnel Academic staff The guidelines on academic staff/student ratio of 1:20 for Computing Programmes shall apply. To start any programme in Computing, there should be a minimum of six academic staff. There is a need to have a reasonable number of staff with PhD degrees accounting for at least 70% of the total number and having adequate teaching experience for every programme in the discipline. The staff structure for the academic staff is expected to be 20: 35: 45 for Professors/Readers: Senior Lecturers: Lecturers 1 and below . Administrative support staff The services of the administrative support staff are indispensable in the proper administration of departments and faculty offices. It is important to recruit very competent, computer literate senior staff. Ratio of junior admin staff to academic staff shall be 1:10 Ratio of senior admin staff to academic staff shall be 1:10 Technical support personnel The services of technical support staff, which are indispensable in the proper running of laboratories and workshops, are required. It is important to recruit very competent senior technical staff to maintain teaching and research equipment. They are also to undergo regular training to keep them abreast of developments in equipment operation and maintenance. Ratio of Senior Technical Staff to Academic Staff shall be 1:10 Ratio of Junior Technical Staff to Academic Staff shall be 1:5 Library Universities should leverage available technology to put in place rich databases and other electronic/digital libraries and information resources. In addition, current hard copies of reference and other textual materials should be provided centrally at the level of the Faculty. A well-equipped network digital library should serve the entire university community. Availability of wireless facilities (WiFi) with adequate bandwidth should enhance access to these electronic resources. In any case, there should be internet-ready workstations available in the library for the students enrolled in each academic programme. The funding of the Library should be in line with NUC guidelines. Classrooms, Laboratories and Offices The NUC recommends the following physical space requirement: m2 Professor’s office - 18.50 Head of department’s office - 18.50 Tutorial teaching staff’s office - 13.50 Other teaching staff space - 7.00 Technical staff space - 7.00 Secretarial space - 7.00 Seminar space/per student - 1.85 Laboratory space per FTE - 7.50 Conference room - 37.0 Adequate space should be provided for the Department. Effort must be made to provide the Department with at least: Two (2) large laboratories calculated according to specifications of 7.5 m2 per FTE. At least two lecture rooms capable of seating at least sixty students at the specification of 1 m2 per FTE. 1. A departmental conference room. 2. A seminar room. 3. A staff common room. Office Equipment The following equipment should be provided in the offices: 1. Computers 2. Printers 3. Photocopying machines 4. Functional internet and e-mail facilities Classroom Space and Examination Theatres Adequate classrooms should be provided with enough chairs, tables and lecture delivery tools such as projector, whiteboards and smart boards. Examination halls and theatres should be provided to minimise the rate of examination malpractices. Classroom Equipment The following equipment should be provided in the classroom: 1. Multimedia projectors 2. Whiteboards or Smartboards 3. Functional internet and e-mail facilities",
+          "contents": "Introduction to Project Management. The Project Management Lifecycle: Project management and systems development or acquisition. The project management context. Technology and techniques to support the project management lifecycle, and Project management processes. Managing Project Teams: Project team planning, motivating team members, Leadership, power and conflict in project teams, and managing global project teams. Managing project communication and enhancing team communication. Project Initiation and Planning. Managing Project Scope: Project initiation, how organisations choose projects, Activities, and Developing the project charter. Managing Project Scheduling: Common problems in project scheduling, and Techniques for project scheduling. Managing Project Resources: Types of resources (human, capital, time), and Techniques for managing resources. Project quality and tools to manage project quality. Managing project risk and tools for managing project risk. Managing Project Procurement: Alternatives to systems development, External acquisition, Outsourcing-domestic and offshore. Steps in the procurement process, and managing the procurement process. Project Execution, Control and Closure: Managing project execution, monitoring progress and managing change. Documentation and communication, and Common problems in project execution. Managing Project Control and Closure: Obtaining information, Cost control, Change control, administrative closure, Personnel closure, Contractual closure and Project auditing.",
           "lab_work": null
         }
       ]
     },
     {
-      "name": "B.Sc. Cybersecurity",
       "degree": "B.Sc.",
+      "name": "Cybersecurity",
+      "toc_name": "B.Sc. Cybersecurity",
       "start_page": 56,
-      "end_page": 92,
+      "end_page": 93,
       "courses": [
         {
           "code": "GST 112",
@@ -834,6 +874,7 @@
           "ph": null,
           "page": 61,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the historical foundation of the Nigerian culture and arts in pre-colonial times;",
@@ -857,6 +898,7 @@
           "ph": null,
           "page": 61,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "understand the basic definition of Set, Subset, Union, Intersection, Complements, and use of Venn diagrams;",
@@ -877,6 +919,7 @@
           "ph": null,
           "page": 62,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "understand types of rules in Differentiation and Integration;",
@@ -895,6 +938,7 @@
           "ph": null,
           "page": 62,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "identify and deduce the physical quantities and their units;",
@@ -918,6 +962,7 @@
           "ph": null,
           "page": 63,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe the electric field and potential, and related concepts, for stationary charges;",
@@ -941,6 +986,7 @@
           "ph": 45,
           "page": 63,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -961,6 +1007,7 @@
           "ph": 45,
           "page": 64,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -982,6 +1029,7 @@
           "ph": null,
           "page": 64,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain the basic concepts of descriptive statistics.",
@@ -1003,6 +1051,7 @@
           "ph": 45,
           "page": 65,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain basic components of computers and other computing devices;",
@@ -1024,6 +1073,7 @@
           "ph": 0,
           "page": 65,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain problem solving processes;",
@@ -1053,6 +1103,7 @@
           "ph": 45,
           "page": 66,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concepts and theories of entrepreneurship, intrapreneurship, opportunity seeking, new value creation, and risk taking;",
@@ -1076,6 +1127,7 @@
           "ph": 45,
           "page": 67,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the principles of good programming and structured programming concepts;",
@@ -1096,6 +1148,7 @@
           "ph": 45,
           "page": 68,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "demonstrate the principles of good programming and structured programming concepts;",
@@ -1116,6 +1169,7 @@
           "ph": null,
           "page": 68,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain cybersecurity concepts, its methods, elements, and terminologies of cybersecurity, security, threat, attack, defence, and operations;",
@@ -1137,6 +1191,7 @@
           "ph": null,
           "page": 69,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "discuss cybercrimes, including computer crimes, internet fraud, e-commerce, and threats to the national infrastructure;",
@@ -1158,6 +1213,7 @@
           "ph": 135,
           "page": 70,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this training, students should be able to:",
           "outcomes": [
             "assess their knowledge of cybersecurity, its application, preventive measures and defence of the cyber environment;",
@@ -1177,6 +1233,7 @@
           "ph": 45,
           "page": 70,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe system requirements gathering techniques;",
@@ -1184,7 +1241,23 @@
             "explain process modelling technique (data flow diagram);",
             "describe system architectural design;",
             "describe process and database design; and",
-            "explain user interface design. At the end of this course, students should be able to:",
+            "explain user interface design."
+          ],
+          "contents": "Structured approach to analysis and design of information systems for businesses. Software development life cycle. Structured top-down and bottom-up design. Dataflow diagramming. Entity relationship modelling. Computer aided software engineering. Input and output, prototyping design and validation. File and database design. Design of user interfaces. Comparison of structured and object-oriented design.",
+          "lab_work": "Practical exercises on software development life cycle (SDLC) activities with different case studies. Use of different information systems case studies to apply the knowledge of structured top-down and bottom –up design, dataflow diagram and entity relationship models."
+        },
+        {
+          "code": "SEN 201",
+          "title": "Introduction to Software Engineering",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 71,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the end of this course, students should be able to:",
+          "outcomes": [
             "describe the concept of the software life cycle;",
             "explain the phases of requirements analysis, design, development, testing and maintenance in a typical software life cycle;",
             "differentiate amongst the various software development models;",
@@ -1198,8 +1271,8 @@
             "enumerate security and peace building strategies; and",
             "describe roles of international organisations, media, and traditional institutions in peace building."
           ],
-          "contents": "Structured approach to analysis and design of information systems for businesses. Software development life cycle. Structured top-down and bottom-up design. Dataflow diagramming. Entity relationship modelling. Computer aided software engineering. Input and output, prototyping design and validation. File and database design. Design of user interfaces. Comparison of structured and object-oriented design. Software Engineering concepts and principles. Design, development and testing of software systems. Software processes: software lifecycle and process models. Process assessment models. Software process metrics. Life cycle of software system. Software requirements and specifications. Software design. Software architecture. Software metrics. Software quality and testing. Software architecture. Software validation. Software evolution: software maintenance; characteristics of maintainable software; re-engineering; legacy systems; software reuse. Software Engineering and its place as a computing discipline. Software project management: team management; project scheduling; software measurement and estimation techniques; risk analysis; software quality assurance; software configuration management. Software Engineering and law. 300 Level (2 Units C: LH 30) GST 312: Peace and Conflict Resolution Concepts of Peace, Conflict, and Security in a multi-ethnic nation. Types and Theories of Conflicts: Ethnic, Religious, Economic, Geo-political Conflicts; Structural Conflict Theory, Realist Theory of Conflict, Frustration-Aggression Conflict Theory. Root causes of Conflict and Violence in Africa: Indigene and settlers Phenomenon; Boundaries/border disputes; Political disputes; Ethnic disputes and rivalries; Economic Inequalities; Social disputes; Nationalist Movements and Agitations; Selected Conflict Case Studies – Tiv-Jukun; Zango Kataf, Chieftaincy, and Land disputes, etc. Peace Building, Management of Conflicts and Security: Peace & Human Development. Approaches to Peace & Conflict Management --- (Religious, Government, Community Leaders, etc.). Elements of Peace Studies and Conflict Resolution: Conflict dynamics assessment Scales: Constructive & Destructive. Justice and Legal framework: Concepts of Social Justice; The Nigeria Legal System. Insurgency and Terrorism. Peace Mediation and Peace Keeping. Peace & Security Council (International, National, and Local levels) Agents of Conflict resolution – Conventions, Treaties Community Policing: Evolution and Imperatives. Alternative Dispute Resolution, ADR. a) Dialogue b). Arbitration, c). Negotiation d). Collaboration, etc. Roles of International Organisations in Conflict Resolution. (a). The United Nations, UN, and its Conflict Resolution Organs. (b). The African Union & Peace Security Council (c). ECOWAS in Peace Keeping. Media and Traditional Institutions in Peace Building. Managing Post-Conflict Situations/Crisis: Refugees. Internally Displaced Persons, IDPs. The role of NGOs in Post-Conflict Situations/Crisis",
-          "lab_work": "Practical exercises on software development life cycle (SDLC) activities with different case studies. Use of different information systems case studies to apply the knowledge of structured top-down and bottom –up design, dataflow diagram and entity relationship models. SEN 201: Introduction to Software Engineering (2 units; C) (LH 30)"
+          "contents": "Software Engineering concepts and principles. Design, development and testing of software systems. Software processes: software lifecycle and process models. Process assessment models. Software process metrics. Life cycle of software system. Software requirements and specifications. Software design. Software architecture. Software metrics. Software quality and testing. Software architecture. Software validation. Software evolution: software maintenance; characteristics of maintainable software; re-engineering; legacy systems; software reuse. Software Engineering and its place as a computing discipline. Software project management: team management; project scheduling; software measurement and estimation techniques; risk analysis; software quality assurance; software configuration management. Software Engineering and law. 300 Level (2 Units C: LH 30) GST 312: Peace and Conflict Resolution Concepts of Peace, Conflict, and Security in a multi-ethnic nation. Types and Theories of Conflicts: Ethnic, Religious, Economic, Geo-political Conflicts; Structural Conflict Theory, Realist Theory of Conflict, Frustration-Aggression Conflict Theory. Root causes of Conflict and Violence in Africa: Indigene and settlers Phenomenon; Boundaries/border disputes; Political disputes; Ethnic disputes and rivalries; Economic Inequalities; Social disputes; Nationalist Movements and Agitations; Selected Conflict Case Studies – Tiv-Jukun; Zango Kataf, Chieftaincy, and Land disputes, etc. Peace Building, Management of Conflicts and Security: Peace & Human Development. Approaches to Peace & Conflict Management --- (Religious, Government, Community Leaders, etc.). Elements of Peace Studies and Conflict Resolution: Conflict dynamics assessment Scales: Constructive & Destructive. Justice and Legal framework: Concepts of Social Justice; The Nigeria Legal System. Insurgency and Terrorism. Peace Mediation and Peace Keeping. Peace & Security Council (International, National, and Local levels) Agents of Conflict resolution – Conventions, Treaties Community Policing: Evolution and Imperatives. Alternative Dispute Resolution, ADR. a) Dialogue b). Arbitration, c). Negotiation d). Collaboration, etc. Roles of International Organisations in Conflict Resolution. (a). The United Nations, UN, and its Conflict Resolution Organs. (b). The African Union & Peace Security Council (c). ECOWAS in Peace Keeping. Media and Traditional Institutions in Peace Building. Managing Post-Conflict Situations/Crisis: Refugees. Internally Displaced Persons, IDPs. The role of NGOs in Post-Conflict Situations/Crisis",
+          "lab_work": null
         },
         {
           "code": "ENT 312",
@@ -1210,6 +1283,7 @@
           "ph": 45,
           "page": 72,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students, through case study and practical approaches, should be able to:",
           "outcomes": [
             "describe the key steps in venture creation;",
@@ -1234,6 +1308,7 @@
           "ph": 45,
           "page": 73,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "define cryptography means, simple cryptosystems, symmetric and asymmetric cryptography, symmetric cryptosystems and asymmetric cryptosystems;",
@@ -1255,6 +1330,7 @@
           "ph": 45,
           "page": 73,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "discuss biometric algorithms and data analysis along with digital image/signal processing;",
@@ -1277,6 +1353,7 @@
           "ph": null,
           "page": 74,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe the cybersecurity risks, how to avoid/prevent them and state the cybersecurity challenges and the path forward;",
@@ -1299,6 +1376,7 @@
           "ph": 45,
           "page": 75,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe information security, big data, big data characteristics, techniques, tools and technologies, operational and analytical big data;",
@@ -1322,6 +1400,7 @@
           "ph": 45,
           "page": 76,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "develop basic knowledge on digital forensic and digital evidence;",
@@ -1344,6 +1423,7 @@
           "ph": 45,
           "page": 77,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "explain business models;",
@@ -1365,6 +1445,7 @@
           "ph": 135,
           "page": 77,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this training, students should be able to:",
           "outcomes": [
             "explain how a typical cybersecurity firm operates;",
@@ -1383,6 +1464,7 @@
           "ph": 45,
           "page": 78,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain Artificial Intelligence(AI) fundamentals, concepts, goals, types, techniques, branches, applications, AI technology and tools;",
@@ -1406,6 +1488,7 @@
           "ph": null,
           "page": 79,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain research, types, approaches and significance of research;",
@@ -1426,6 +1509,7 @@
           "ph": 45,
           "page": 79,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "define systems vulnerability, assessment methods and the testing methods using techniques to effectively identify and mitigate risks to the security of a company’s infrastructure;",
@@ -1447,6 +1531,7 @@
           "ph": 45,
           "page": 80,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "discuss secret writing and different methods and tools used for each;",
@@ -1469,6 +1554,7 @@
           "ph": null,
           "page": 81,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "employ the techniques for detecting, responding to and defeating organised cybercrimes and cyberwar activities;",
@@ -1491,6 +1577,7 @@
           "ph": null,
           "page": 82,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "review the concept of cloud, cloud computing, and benefits of the cloud and knowledge of cloud-enabling technologies, virtualisation and multi-tenanting;",
@@ -1513,6 +1600,7 @@
           "ph": 45,
           "page": 82,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe the concept of ethical hacking, attacks, threats, hackers, measures and countermeasures;",
@@ -1535,6 +1623,7 @@
           "ph": 45,
           "page": 83,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "review Deep and Dark web terminologies;",
@@ -1557,6 +1646,7 @@
           "ph": 135,
           "page": 84,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify a researchable project topic in cybersecurity, work on the introductory aspect, under the guidance of the supervisor;",
@@ -1579,6 +1669,7 @@
           "ph": 135,
           "page": 85,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "Upon completion of the project, students should be able to:",
           "outcomes": [
             "conduct research methodology, analyse collected data, document the project report using the recommended format, and referencing style;",
@@ -1586,16 +1677,17 @@
             "produce the report; and",
             "prepare the PowerPoint presentation and defend the project in the final oral examination in the presence of the external examiner."
           ],
-          "contents": "This is a continuation of CYB 497. This includes the research methodology, analysis of data using statistical tools, performance evaluation, standard documentation of the project, referencing style, programming of the prototype/simulation model, plagiarism and grammarly check, and PowerPoint presentation skill. The formal written report made up of chapters four and five approved by the supervisor will be submitted to the Department for final grading. An oral presentation is required. Minimum Academic Standards Equipment The Cybersecurity programme should have at least three categories of laboratories/workshop: software and simulation, cybernetic workshop, and forensic laboratories. Best practice requires a staff to student’ ratio of 1:20 for laboratory practical. The students can be separated into groups to ensure each student uses the required tool/equipment for themselves during practical sessions. Laboratory sessions should be conducted by staff to ensure close monitoring and effective achievement of Learning Outcomes. Students should always document their practical exercise in the course lab manual. 1. Software and simulation laboratory This laboratory houses the cybersecurity software and is used for various laboratory and simulation exercises. There should be a maximum of three students to a computer system for effective learning and practice. The Cybersecurity software and simulation laboratory is a dedicated space in which students can safely engage in cyber related activities, including malware detection and deactivation, and penetration testing, in a contained and controlled environment without possible impact to other campus networks. The fundamental purpose of this laboratory is to carry out various cybersecurity software related practical on computer-based simulation environments. The laboratory would developed modelling and simulation solutions/scenarios for web threat management, two-factor authentication, teaching vulnerability scanning, AI/Machine learning, behavioural analytics, IOC verification, comprehensive reporting, incident management, endpoint and incident management, whitelisting, and blacklisting, working on Security Automation and Orchestration (SOAR) Platform; SIEM Security, Event Log Management & Big Data Analytics Platform; and Cyber Risk Framework and Fraud Detection, in order to provide more realistic student interaction. The laboratory is equipped with high-tech facilities with equipment for use in research and teaching, having various computer systems of high storage and processing speed, accessories, tools, devices, servers and software used for practical exercises and research projects. Some remarkable software for protecting and testing systems such as CISCO FlexPod (connects all the PCs in the labs together), OPNET (improves network strengths), NetBrain (configures networks automatically), and FireEye (used to check for intruder activity and to analyse cyber-attacks on the system) are to be acquired for the lab. Tools for systems analysis and design practical, such as the Unified Modelling Language (UML). Programming languages: Software to obtain for the software and Simulation Lab, which also serves other Cybersecurity courses are Java, Python, Lisp, Prolog, and C++ The cybersecurity system software such as SiteLock, Heimdal CORP, AppTrana, Acunetix, WebTitan, Teramind, Barkly, Indeni, JumpCloud DaaS, ThreatAdvice, FileWall, Log360, DNIF, Tines, and Cyber Control software should be obtained for hands-on practical exercises in finding vulnerabilities; removing malware; performing WordPress database scanning; defending against all DDoS attacks; providing endpoint web security solution for malware monitoring; software management; internet traffic reporting; web scanning and filtering; DNS based web content filter; blocking malware, ransomware, and phishing; providing complete control over the web and public WIFI; detecting insider threats; preventing data loss; providing user-centric security approach to monitor and allows real-time access; identifying the risk posture of an application, patches vulnerabilities immediately; improving website performance through whole site acceleration; proactive remediation against DDoS/emerging threats through continuous monitoring in a single place; crowd-sourced cybersecurity platform for network and security infrastructure; log management; monitoring critical changes in groups and track suspicious users’ behaviour. Biometric software: Three or more of the biometric software can be obtained for the required practical - Biometric FingerPrint, MegaMatcher Standard, EasyClocking for Mac, Unlock Fingerprint for Android, BIO Key for Windows, Secret Double Octopus, LastPass, Imprivata OneSign, RSA SecurID Suite, BIO key PortalGuard IDaaS, and HyperVerge Identity Verification. Big Data software and tools: Four or more of these open source software should be used in Information and Big Data Security practical - Hadoop, Atlas.ti, HPCC, Storm, Qubole, Cassandra, Statwing, CouchDB, Pentaho, Flink, Cloudera, Openrefine, Rapidminer, DataCleaner, Kaggle, and Hive. Ethical hacking and penetration software and tools: Four or more of these open source software should be used in ethical hacking practical exercises - Netsparker, Acunetix, Intruder, Traceroute NG, Burp Suite, SolarWinds Security Event Manager, Aircrack, Ettercap, Angry IP Scanner, LiveAction, QualysGuard, WebInspect, Hashcat, L0phtCrack, Rainbow Crack, IKECrack, Sboxr, Medusa, NetStumbler, SQLMap, Nessus, and Zenmap. along with the Titania Nipper, Pentest-Tools.com, Cobalt Strike, Detectify, Defendify, Bugcrowd, Horizon3.ai. These tools and software are open source and available to obtain. Cryptography tools: These tools, namely Security Token/Authentication Token, CertMgr.exe, JCA, Docker, SignTool.exe and Authentication using Key, should be used to guide the students in the cryptography practicals. Steganography software:Four or more of these open source software should be used in required practical situations. Hide’N’Send, OpenStego, Steghide, SSuite Piscel, QuickStego, RSteg, Crypture, Camouflage, Our Secret, Steganofile, SteganPEG, SteganographX Plus, Trojan, Anubis, Xiao Steganography, Image Steganography, SilentEye,Shusssh!, Clotho, StegoStick beta, OpenPuff, and Dound’s Steganography. Others include: 1. Computer systems 2. Software – specialised software according to area of application such as listed above. It is open source and free 3. Printers - a colour Deskjet and a LaserJet printer 4. Projector 5. Whiteboard 6. Smartboard 7. Inverter - adequate for the lab functions as backup electricity 8. Computer lab tables 9. Computer lab chairs 10. Other software tools required 2. Cybernetics workshop The workshop will be the construction, developing and modelling testbed for new and emerging technologies and ideas in AI, Robotics, Machine Learning, Deep Learning, Augmented Reality, IoT, Intelligence Analytics, etc. Following experimentations in the various labs, the workshop provides a demonstration and production platform to merge and realise ideas from different fields of Cybersecurity discipline. S/N Components 1 Simonk Firmware 30A ESC Electronic Speed Controller with 5V 3A BEC 2 920KV CW Brushless Motor 3 920KV CCW Brushless Motor 4 APM 2.8 No Compass Flight Controller Board Bent Pin with Case 5 M7N GPS with Compass 6 4400mAh 3S1P 11.1V 30C battery 7 Radio Link T8FB 2.4GHz 8ch RC Transmitter R8EF Receiver Combo Remote control 8 IMAX RC B3 Pro Compact Balance Charger 9 Universal GPS Folding Antenna Mount Holder Metal 10 10cm Servo Receiver Extension Lead Wire Cable M/M 11 Male XT60 with Wire 14AWG 10cm 12 A Pair XT60 Bullet Connectors Plugs 13 5X Hook and & Loop Fastening Tape 14 Thick Gold Plated 3.5mm Bullet Connector ( banana plug ) 15 Wireless Wi-Fi Module APM Pixhawk Radio Telemetry Transmitter 16 Pairs 10x4.7 3K Carbon Fibre Propeller CW CCW 1047 Props Cons 17 Lipo Battery Voltage Tester 1S-8S Low Voltage Buzzer Alarm 18 500mm Multi-Rotor Air Frame Kit S500-PCB With Circuit Board 19 Gopro camera 20 Gimbel Mount 21 2 N single drive, single idler sprocket tank track system 22 4 wheel rack drive, mecanum wheel system 23 Rack and pinion steering system 24 Futaba continuous rotation savo motor (varying diameters) 25 Tamiya Track and Wheel Set 26 Polobus DC motor 27 Single and dual motor controllers of varying capacity 28 Arduino microcontroller 29 Raspberry pi board 30 Radio frequency remote control transceiver module 31 Push buttons and contact switches, range finders (ultrasonic, infrared, laser) 32 Localisation circuit system, GPS circuits, encoders 33 Stereo camera system 34 Light and sound sensors systems 35 Thermal cameras and sensors 36 Digital compass, gyroscopes and accelerometer 37 Piezoelectrics and RFID sensors 38 Rero Robot Construction Kit 39 Rechargeable 12 volts batteries Tools 1 Small and regular screwdriver sets 2 Longnose pliers 3 Cable strippers and cutters 4 Rotary tools and drills 5 Saws, vise 6 Breadboards and jumper wires 7 Breadboard power supply 8 Soldering tool kit 9 Multimeter 10 Wall adapters and Extension boxes 11 Adjustable temperature soldering section 12 Brass sponges 13 Variable power supply 14 Logic analyser 15 22 gauge hook up wire 16 Hot glue gum and tapes 17 Third hand 18 Thicker wires 19 Complete Set of Tool Box Software 1 CAD software 2 Programming softwares, connection interfaces and drives 3 Schematics and PCBs. Four of the AI Software such as Google Cloud Machine Learning Engine, Azure Machine Learning Studio, TensorFlow, H20.AI, Cortana, IBM Watson, Salesforce Einstein, Infosys Nia, Amazon Alexa, Google Assistance, Ayasdi, Meya, Scikit learn, Viv and Blockchain can be obtained for the required practical depending on what aspect of AI, machine learning and deep learning that is needed. Raw material 1 Plastic and metal sheets 2 Cardboard and woods 3 Nuts and bolts 4 Screws and clips Workshop furniture 1 Workshop Tables 2 Workshop Stools 3 Shelves and Cabinets 3. Digital forensic laboratory 1. Hardware requirement - FRED DX Forensic Workstation with 2 RAIDs, VPER Kit with EnCase, UltraKit v4.1 + TX1, Forensic Imager TX1 with Case, and Forensic Imager TD3 with Case. 2. Software requirement - EnCase Forensic V8 + Subscription and Forensic Toolkit + Subscription FTK 6. 3. Mobile forensics - UFED Touch Ultimate, UFED Analytics Desktop, UFED Camera Kit, Paraben E3: UNIVERSAL SOFTWARE, and XRY Mobile forensic extractor. **Other specialised laboratories for universities to make available for the programme are Artificial Intelligence Laboratory, Cyber Physical Systems & Hardware Security Laboratory, IoT Enabling and Security Research Laboratory. Staffing Personnel Academic staff The guidelines on academic staff/student ratio of 1:20 for Computing Programmes shall apply. To start any programme in Computing, there should be a minimum of six academic staff. There is a need to have a reasonable number of staff with PhD degrees accounting for at least 70% of the total number and having adequate teaching experience for every programme in the discipline. The staff structure for the academic staff is expected to be 20: 35: 45 for Professors/Readers: Senior Lecturers: Lecturers 1 and below. Administrative support staff The services of the administrative support staff are indispensable in the proper administration of departments and faculty offices. It is important to recruit very competent, computer literate senior staff. Ratio of junior admin staff to academic staff shall be 1:10 Ratio of senior admin staff to academic Staff shall be 1:10 Technical support personnel The services of technical support staff, which are indispensable in the proper running of laboratories and workshops, are required. It is important to recruit very competent senior technical staff to maintain teaching and research equipment. They are also to undergo regular training to keep them abreast of developments in equipment operation and maintenance. Ratio of Senior Technical Staff to Academic Staff shall be 1:10 Ratio of Junior Technical Staff to Academic Staff shall be 1:5 Library Universities should leverage available technology to put in place rich databases and other electronic/digital libraries and information resources. In addition, current hard copies of reference and other textual materials should be provided centrally at the level of the Faculty. A well-equipped network digital library should serve the entire university community. Availability of wireless facilities (WiFi) with adequate bandwidth should enhance access to these electronic resources. In any case, there should be internet-ready workstations available in the library for the students enrolled in each academic programme. The funding of the Library should be in line with NUC guidelines. Classrooms, Laboratories and Offices The NUC recommends the following physical space requirement: 1. Professor’s office - m2 2. Head of department’s office - 18.50 18.50 3. Tutorial teaching staff’s office - 13.50 7.00 4. Other teaching staff space - 7.00 7.00 5. Technical staff space - 1.85 7.50 6. Secretarial space - 37.0 7. Seminar space/per student - 8. Laboratory space per FTE - 9. Conference room - Adequate space should be provided for the department. Effort must be made to provide the department with at least: Two (2) large laboratories calculated according to specifications of 7.5 m2 per FTE. At least two lecture rooms capable of seating at least sixty students at the specification of 1 m2 per FTE. A departmental conference room. A seminar room. A staff common room. Office Equipment The following equipment should be provided in the offices: 1. Computers; 2. Printers; 3. Photocopying machines; and 4. Functional internet and e-mail facilities. Classroom Space and Examination Theatres Adequate classrooms should be provided with enough chairs, tables and lecture delivery tools such as projector, whiteboards and smart boards. Examination halls and theatres should be provided to minimise the rate of examination malpractices. Classroom Equipment The following equipment should be provided in the classroom: 1. Multimedia projectors; 2. Whiteboards or Smartboards; and 3. Functional internet and e-mail facilities.",
+          "contents": "This is a continuation of CYB 497. This includes the research methodology, analysis of data using statistical tools, performance evaluation, standard documentation of the project, referencing style, programming of the prototype/simulation model, plagiarism and grammarly check, and PowerPoint presentation skill. The formal written report made up of chapters four and five approved by the supervisor will be submitted to the Department for final grading. An oral presentation is required.",
           "lab_work": null
         }
       ]
     },
     {
-      "name": "B.Sc. Data Science",
       "degree": "B.Sc.",
+      "name": "Data Science",
+      "toc_name": "B.Sc. Data Science",
       "start_page": 93,
-      "end_page": 119,
+      "end_page": 120,
       "courses": [
         {
           "code": "GST 111",
@@ -1606,6 +1698,7 @@
           "ph": 45,
           "page": 97,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify possible sound patterns in English Language;",
@@ -1628,6 +1721,7 @@
           "ph": null,
           "page": 97,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the historical foundation of the Nigerian culture and arts in pre-colonial times;",
@@ -1651,6 +1745,7 @@
           "ph": null,
           "page": 98,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "understand the basic definition of Set, Subset, Union, Intersection, Complements and use of Venn diagrams;",
@@ -1671,6 +1766,7 @@
           "ph": null,
           "page": 98,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "understand types of rules in Differentiation and Integration;",
@@ -1689,6 +1785,7 @@
           "ph": null,
           "page": 99,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain the basic concepts of descriptive statistics.",
@@ -1710,6 +1807,7 @@
           "ph": null,
           "page": 99,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "identify and deduce the physical quantities and their units;",
@@ -1733,6 +1831,7 @@
           "ph": null,
           "page": 100,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe the electric field and potential, and related concepts, for stationary charges;",
@@ -1756,6 +1855,7 @@
           "ph": 45,
           "page": 100,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -1776,6 +1876,7 @@
           "ph": 45,
           "page": 101,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -1796,6 +1897,7 @@
           "ph": 45,
           "page": 101,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain basic components of computers and other computing devices;",
@@ -1817,6 +1919,7 @@
           "ph": 0,
           "page": 102,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain problem solving processes;",
@@ -1846,6 +1949,7 @@
           "ph": 45,
           "page": 103,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concepts and theories of entrepreneurship, intrapreneurship, opportunity seeking, new value creation, and risk taking;",
@@ -1869,6 +1973,7 @@
           "ph": 45,
           "page": 103,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the principles of good programming and structured programming concepts;",
@@ -1889,6 +1994,7 @@
           "ph": 45,
           "page": 104,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "demonstrate the principles of good programming and structured programming concepts;",
@@ -1909,6 +2015,7 @@
           "ph": null,
           "page": 105,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "understand Real-valued functions of a real variable;",
@@ -1927,6 +2034,7 @@
           "ph": null,
           "page": 105,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "solve various problems using the concepts of set theory;",
@@ -1945,6 +2053,7 @@
           "ph": null,
           "page": 105,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "solve some numerical solutions of algebraic and transcendental equations;",
@@ -1966,6 +2075,7 @@
           "ph": 45,
           "page": 106,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "demonstrate the principles of working with data across distributions, sizes and ranges;",
@@ -1984,6 +2094,7 @@
           "ph": null,
           "page": 106,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "make conclusions based on statistical assumptions, models and results;",
@@ -2004,6 +2115,7 @@
           "ph": 45,
           "page": 107,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "utilise the R programming language for data-driven functions and utilities that have been lauded across the computing industry;",
@@ -2023,6 +2135,7 @@
           "ph": 135,
           "page": 108,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "explain how a typical Data Science firm operates;",
@@ -2041,6 +2154,7 @@
           "ph": null,
           "page": 108,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "convert logical statements from informal language to propositional and predicate logic expressions;",
@@ -2064,6 +2178,7 @@
           "ph": null,
           "page": 109,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the concepts of peace, conflict and security;",
@@ -2084,6 +2199,7 @@
           "ph": 45,
           "page": 109,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students, through case study and practical approaches, should be able to:",
           "outcomes": [
             "describe the key steps in venture creation;",
@@ -2108,6 +2224,7 @@
           "ph": 45,
           "page": 110,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course the students should be able to:",
           "outcomes": [
             "identify Big Data;",
@@ -2127,6 +2244,7 @@
           "ph": 45,
           "page": 111,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course the students should be able to:",
           "outcomes": [
             "describe the components of a database system and give examples of their use;",
@@ -2149,6 +2267,7 @@
           "ph": null,
           "page": 111,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "identify ethical challenges and considerations when working with data of various sources, context, and compositions; and",
@@ -2166,6 +2285,7 @@
           "ph": null,
           "page": 112,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course the students should be able to:",
           "outcomes": [
             "analyse and interpret real-world statistical events;",
@@ -2185,6 +2305,7 @@
           "ph": 45,
           "page": 112,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain business models;",
@@ -2206,6 +2327,7 @@
           "ph": 135,
           "page": 113,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "appreciate the realities of the computing industry beyond the walls of the University, through an attachment with an organisation in the computing industry; and",
@@ -2223,6 +2345,7 @@
           "ph": null,
           "page": 113,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain cybersecurity concepts, its methods, elements, and terminologies of cybersecurity, threat, attack, defence, and operations;",
@@ -2244,6 +2367,7 @@
           "ph": null,
           "page": 114,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe research, types, approaches, significance of research, research methods, research process, criteria and strategy for good research;",
@@ -2265,6 +2389,7 @@
           "ph": 45,
           "page": 115,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "utilise techniques that are applied in preparing and producing data into a form that meets the needs of particular and varied audiences; and",
@@ -2282,6 +2407,7 @@
           "ph": 135,
           "page": 115,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify a researchable project topic in Data Science;",
@@ -2304,6 +2430,7 @@
           "ph": 135,
           "page": 115,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "demonstrate technical skills in Data Science;",
@@ -2324,6 +2451,7 @@
           "ph": null,
           "page": 116,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe project management planning;",
@@ -2332,16 +2460,17 @@
             "discuss project procurement, monitoring and execution; and",
             "explain project communication and time management."
           ],
-          "contents": "Introduction to Project Management; The Project Management Lifecycle: Project management and systems development or acquisition, The project management context, Technology and techniques to support the project management lifecycle, and Project management processes; Managing Project Teams: Project team planning, Motivating team members, Leadership, power and conflict in project teams, and Managing global project teams; Managing Project Communication and enhancing team communication; Project Initiation and Planning; Managing Project Scope: Project initiation, How organisations choose projects, Activities, and Developing the project charter; Managing Project Scheduling: Common problems in project scheduling, and Techniques for project scheduling; Managing Project Resources: Types of resources (human, capital, time), and Techniques for managing resources; Project quality and tools to manage project quality; Managing project risk and tools for managing project risk; Managing Project Procurement: Alternatives to systems development, External acquisition, Outsourcing-domestic and offshore, Steps in the procurement process, and Managing the procurement process; Project Execution, Control and Closure: Managing project execution, Monitoring progress and managing change, Documentation and communication, and Common problems in project execution; Managing Project Control and Closure: Obtaining information, Cost control, Change control, Administrative closure, Personnel closure, Contractual closure and Project auditing. Minimum Academic Standards Equipment A Data Science programme should have at least three categories of laboratories: software, hardware laboratories. Best practice requires a staff to students’ ratio of 1:20 for laboratory practical. Therefore, multiple small laboratories are preferable to a few large ones. Courses with large enrolments should have the students partitioned into groups to ensure each student has a computer/practice equipment to themselves during practical sessions. Laboratory sessions should be conducted by staff to ensure close monitoring and effective achievement of Learning Outcomes. Software laboratory Software laboratories support programming and other courses requiring use of software tools. Requirements for the software laboratory include: 1. Computer systems with capacity to run software systems for all lab-based courses (e.g., Desktop PC with minimum of 1,6 GHz or faster processor with at least 2 GB RAM and 500 GB hard disk space.) A maximum of 3 students to 1 computer system is recommended. 2. Programming environment and tools (e.g., Compilers/interpreters, debuggers, etc. for Java, Python, compiler compilers, e.g., flex, yacc, SableCC, etc,) 3. Operating systems environments and tools (e.g., Windows, LINUX, TempOS, Nachos, Xinu or MiniOS) 4. Tools for systems analysis and design (e.g., Unified Modelling Language (UML)) 5. Computer maintenance tools like dust blowers and toolbox 6. Overhead projector 7. Power backup Hardware laboratory The hardware laboratory should provide facilities required for hardware-related practicals. Requirements for the hardware laboratory include: 1. NAND, NOR, XOR, AND, OR gates 2. Multiplexers 3. Master-slave flip-flops 4. Digi-Designer Logic Board, etc 5. Dual–trace oscilloscope 6. Digital Proto-Board 7. Computer casing 8. Motherboard 9. ROMs/RAMs 10. Hard drives 11. CD ROMs 12. Display screens 13. Fans 14. Connectors/Jumpers, etc. Data Science Laboratory It should have the following: a) medium- to high-end computing resources for running practicals in data analytics and visualisation. b) A data bank / repository / warehouse which contains a variety of datasets collated from across various business and industry cases, to be used a testing and training resources for students enrolled to the degree programme. c) Fully-licensed, multi-client data science tools and applications, including: E-views, Tableau, Hadoop, R Studio, JetBrains PyCharm, Jupiter Python Toolkit, amongst others. There should be a resident data scientist with industry-recognised certifications in the field of Data Science, to help facilitate and guide laboratory classes and practical sessions for students. Staffing Personnel Academic staff The guidelines on academic staff/student ratio of 1:20 for Computing Programmes shall apply. To start any programme in Computing, there should be a minimum of six academic staff. There is a need to have a reasonable number of staff with PhD degrees accounting for at least 70% of the total number and having adequate teaching experience for every programme in the discipline. The staff structure for the academic staff is expected to be 20: 35: 45 for Professors/Readers: Senior Lecturers: Lecturers 1 and below. Administrative support staff The services of the administrative support staff are indispensable in the proper administration of departments and faculty offices. It is important to recruit very competent, computer literate senior staff. Ratio of junior admin staff to academic staff shall be 1:10 Ratio of senior admin staff to academic staff shall be 1:10 Technical support personnel The services of technical support staff, which are indispensable in the proper running of laboratories and workshops, are required. It is important to recruit very competent senior technical staff to maintain teaching and research equipment. They are also to undergo regular training to keep them abreast of developments in equipment operation and maintenance. Ratio of Senior Technical Staff to Academic Staff shall be 1:10 Ratio of Junior Technical Staff to Academic Staff shall be 1:5 Library Universities should leverage available technology to put in place rich databases and other electronic/digital libraries and information resources. In addition, current hard copies of reference and other textual materials should be provided centrally at the level of the Faculty. A well-equipped network digital library should serve the entire university community. Availability of wireless facilities (WiFi) with adequate bandwidth should enhance access to these electronic resources. In any case, there should be internet-ready workstations available in the library for the students enrolled in each academic programme. The funding of the Library should be in line with NUC guidelines. Classrooms, Laboratories and Offices The NUC recommends the following physical space requirement: m2 1. Professor’s office - 18.50 2. Head of department’s office - 18.50 3. Tutorial teaching staff’s office - 13.50 4. Other teaching staff space - 7.00 5. Technical staff space - 7.00 6. Secretarial space - 7.00 7. Seminar space/per student - 1.85 8. Laboratory space per FTE - 7.50 9. Conference room - 37.0 Adequate space should be provided for the Department. Effort must be made to provide the Department with at least: 1. Two (2) large laboratories calculated according to specifications of 7.5 m2 per FTE. At least two lecture rooms capable of seating at least sixty students at the specification of 1 m2 per FTE. 2. A departmental conference room. 3. A seminar room. 4. A staff common room. Office Equipment The following equipment should be provided in the offices: 1. Computers 2. Printers 3. Photocopying Machines 4. Functional internet and e-mail facilities Classroom Space and Examination Theatres Adequate classrooms should be provided with enough chairs, tables and lecture delivery tools such as projector, whiteboards and smart boards. Examination halls and theatres should be provided to minimise the rate of examination malpractices. Classroom Equipment The following equipment should be provided in the classroom: 1. Multimedia projectors 2. Whiteboards or Smartboards 3. Functional internet and e-mail facilities",
+          "contents": "Introduction to Project Management; The Project Management Lifecycle: Project management and systems development or acquisition, The project management context, Technology and techniques to support the project management lifecycle, and Project management processes; Managing Project Teams: Project team planning, Motivating team members, Leadership, power and conflict in project teams, and Managing global project teams; Managing Project Communication and enhancing team communication; Project Initiation and Planning; Managing Project Scope: Project initiation, How organisations choose projects, Activities, and Developing the project charter; Managing Project Scheduling: Common problems in project scheduling, and Techniques for project scheduling; Managing Project Resources: Types of resources (human, capital, time), and Techniques for managing resources; Project quality and tools to manage project quality; Managing project risk and tools for managing project risk; Managing Project Procurement: Alternatives to systems development, External acquisition, Outsourcing-domestic and offshore, Steps in the procurement process, and Managing the procurement process; Project Execution, Control and Closure: Managing project execution, Monitoring progress and managing change, Documentation and communication, and Common problems in project execution; Managing Project Control and Closure: Obtaining information, Cost control, Change control, Administrative closure, Personnel closure, Contractual closure and Project auditing.",
           "lab_work": null
         }
       ]
     },
     {
-      "name": "B.Sc. Information and Communication Technology",
       "degree": "B.Sc.",
+      "name": "Information and Communication Technology",
+      "toc_name": "B.Sc. Information and Communication Technology",
       "start_page": 120,
-      "end_page": 147,
+      "end_page": 148,
       "courses": [
         {
           "code": "GST 111",
@@ -2352,6 +2481,7 @@
           "ph": 45,
           "page": 124,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify possible sound patterns in English Language;",
@@ -2374,6 +2504,7 @@
           "ph": null,
           "page": 124,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the historical foundation of the Nigerian culture and arts in pre-colonial times;",
@@ -2397,6 +2528,7 @@
           "ph": 45,
           "page": 125,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain basic components of computers and other computing devices;",
@@ -2418,6 +2550,7 @@
           "ph": 0,
           "page": 126,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain problem solving processes;",
@@ -2439,6 +2572,7 @@
           "ph": null,
           "page": 126,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "understand basic definition of Set, Subset, Union, Intersection, Complements and use of Venn diagrams;",
@@ -2459,6 +2593,7 @@
           "ph": null,
           "page": 127,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "carry out differentiation and Integration according to the rules thereof;",
@@ -2477,6 +2612,7 @@
           "ph": null,
           "page": 127,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "identify and deduce the physical quantities and their units;",
@@ -2500,6 +2636,7 @@
           "ph": null,
           "page": 127,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe the electric field and potential, and related concepts, for stationary charges;",
@@ -2523,6 +2660,7 @@
           "ph": 45,
           "page": 128,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the student should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -2543,6 +2681,7 @@
           "ph": 45,
           "page": 128,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "On completion, the student should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -2550,7 +2689,23 @@
             "identify and evaluate some common experimental errors;",
             "plot and analyse graphs;",
             "draw conclusions from numerical and graphical analysis of data; and",
-            "prepare and present practical reports. At the end of the course, students should be able to:",
+            "prepare and present practical reports."
+          ],
+          "contents": "This practical course is a continuation of PHY 107 and is intended to be taught during the second semester of the 100 level to cover the practical aspect of the theoretical courses that have been covered with emphasis on quantitative measurements, the treatment of measurement errors, and graphical analysis. However, emphasis should be placed on the basic physical techniques for observation, measurements, data collection, analysis and deduction.",
+          "lab_work": null
+        },
+        {
+          "code": "STA 111",
+          "title": "Descriptive statistics",
+          "units": 3,
+          "status": "C",
+          "lh": 45,
+          "ph": null,
+          "page": 129,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the end of the course, students should be able to:",
+          "outcomes": [
             "explain the basic concepts of descriptive statistics.",
             "present data in graphs and charts.",
             "differentiate between measures of location, dispersion and partition.",
@@ -2558,7 +2713,7 @@
             "differentiate rates from ratio and how they are use.",
             "compute the different types of index number from a given data set and interpret the output."
           ],
-          "contents": "This practical course is a continuation of PHY 107 and is intended to be taught during the second semester of the 100 level to cover the practical aspect of the theoretical courses that have been covered with emphasis on quantitative measurements, the treatment of measurement errors, and graphical analysis. However, emphasis should be placed on the basic physical techniques for observation, measurements, data collection, analysis and deduction. STA 111: Descriptive statistics: (3 Units; C) (LH 45) Statistical data. Types, sources and methods of collection. Presentation of data. Tables chart and graph. Errors and approximations. Frequency and cumulative distributions. Measures of location, partition, dispersion, skewness and Kurtosis. Rates, ratios and index numbers. 200 Level",
+          "contents": "Statistical data. Types, sources and methods of collection. Presentation of data. Tables chart and graph. Errors and approximations. Frequency and cumulative distributions. Measures of location, partition, dispersion, skewness and Kurtosis. Rates, ratios and index numbers. 200 Level",
           "lab_work": null
         },
         {
@@ -2570,6 +2725,7 @@
           "ph": null,
           "page": 129,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": null,
           "outcomes": [
             "At the end of this course, students should be able to",
@@ -2594,6 +2750,7 @@
           "ph": 45,
           "page": 130,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concepts and theories of entrepreneurship, intrapreneurship, opportunity seeking, new value creation, and risk-taking;",
@@ -2617,6 +2774,7 @@
           "ph": 45,
           "page": 130,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "identify different programming paradigms and their approach to programming;",
@@ -2640,6 +2798,7 @@
           "ph": 45,
           "page": 131,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "demonstrate the principles of good programming and structured programming concepts;",
@@ -2660,6 +2819,7 @@
           "ph": 45,
           "page": 132,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "identify components of the computer and know-how the components communicate;",
@@ -2668,12 +2828,28 @@
             "identify and be able to use different communication ports;",
             "know the software types;",
             "state different computer network topologies and their sizes; and",
-            "be able to use office applications and the internet. At the end of the course students should be able to:",
+            "be able to use office applications and the internet."
+          ],
+          "contents": "Basic principle of computers. Computer \"backbone\". Data transmission. Random Access Memory. Permanent Memory. Graphic processing. Communication Ports. Input and Output Devices. Software types. Accessibility options. Computer types. Portable digital devices. Network Types. Internet. Instant messaging. Voice over Internet Protocol. Really Simple Syndication. Network communication. Internet data transfer. Data rate units. Internet access. Virtual (online) communities. Computer in the workplace. Office Applications (word processing, spreadsheets, presentation, etc.). Other well-known applications. Telecommuting (telework).",
+          "lab_work": null
+        },
+        {
+          "code": "MTH 201",
+          "title": "Mathematical Methods",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 132,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the end of the course students should be able to:",
+          "outcomes": [
             "Understand the Real-valued functions of a real variable;",
             "Solve some problems using the Mean value Theorem and Taylor Series expansion; and",
             "Evaluate Line Integral, Surface Integral, and Volume Integrals."
           ],
-          "contents": "Basic principle of computers. Computer \"backbone\". Data transmission. Random Access Memory. Permanent Memory. Graphic processing. Communication Ports. Input and Output Devices. Software types. Accessibility options. Computer types. Portable digital devices. Network Types. Internet. Instant messaging. Voice over Internet Protocol. Really Simple Syndication. Network communication. Internet data transfer. Data rate units. Internet access. Virtual (online) communities. Computer in the workplace. Office Applications (word processing, spreadsheets, presentation, etc.). Other well-known applications. Telecommuting (telework). MTH 201: Mathematical Methods (2 Units; C) (LH 30) Real-valued functions of a real variable. Review of differentiation and integration and their applications. Mean value theorem. Taylor series. Real-valued functions of two and three variables. Partial derivatives chain rule, extrema, lagrangian multipliers. Increments, differentials and linear approximations. Evaluation of line, integrals. Multiple integrals.",
+          "contents": "Real-valued functions of a real variable. Review of differentiation and integration and their applications. Mean value theorem. Taylor series. Real-valued functions of two and three variables. Partial derivatives chain rule, extrema, lagrangian multipliers. Increments, differentials and linear approximations. Evaluation of line, integrals. Multiple integrals.",
           "lab_work": null
         },
         {
@@ -2685,6 +2861,7 @@
           "ph": null,
           "page": 133,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "define the following: order and degree of a differential equation;",
@@ -2703,6 +2880,7 @@
           "ph": 135,
           "page": 133,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": null,
           "outcomes": [],
           "contents": "Students are attached to private and public organisations for a period of three months with a view to making them acquire practical experience and to the extent possible, develop skills in all areas of ICT. Students are supervised during the training period and shall be expected to keep records designed for the purpose of monitoring their performance. They are also expected to submit a report on the experience gained and defend their reports.",
@@ -2717,6 +2895,7 @@
           "ph": null,
           "page": 133,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "convert logical statements from informal language to propositional and predicate logic expressions;",
@@ -2740,6 +2919,7 @@
           "ph": 45,
           "page": 134,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "discuss the foundations and concept of the human-computer interface;",
@@ -2759,6 +2939,7 @@
           "ph": 45,
           "page": 134,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "state the origin of the internet and the world wide web;",
@@ -2778,6 +2959,7 @@
           "ph": null,
           "page": 135,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the concepts of peace, conflict and security;",
@@ -2798,6 +2980,7 @@
           "ph": 45,
           "page": 135,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students, through case study and practical approaches, should be able to:",
           "outcomes": [
             "describe the key steps in venture creation;",
@@ -2822,6 +3005,7 @@
           "ph": 45,
           "page": 136,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe the various Satellite communication Technologies;",
@@ -2842,6 +3026,7 @@
           "ph": 45,
           "page": 137,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should able to:",
           "outcomes": [
             "define various terminologies relating to Data communication;",
@@ -2862,6 +3047,7 @@
           "ph": 45,
           "page": 138,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe mobile communication systems and their protocols;",
@@ -2881,6 +3067,7 @@
           "ph": null,
           "page": 138,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain business models;",
@@ -2902,6 +3089,7 @@
           "ph": 135,
           "page": 139,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "Upon the completion of the training, the students should be able to:",
           "outcomes": [
             "interact with experts, thus making them gain extra knowledge outside the school environment;",
@@ -2923,6 +3111,7 @@
           "ph": 45,
           "page": 139,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "recognise operating system types and structures;",
@@ -2945,6 +3134,7 @@
           "ph": 45,
           "page": 140,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "define cryptography means, simple cryptosystems, symmetric and asymmetric cryptography, symmetric cryptosystems and asymmetric cryptosystems;",
@@ -2966,6 +3156,7 @@
           "ph": null,
           "page": 141,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should have learned to:",
           "outcomes": [
             "distinguish qualitative and quantitative research methodologies and their applications;",
@@ -2988,6 +3179,7 @@
           "ph": 45,
           "page": 141,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe health and safety standards in electrical installations;",
@@ -3008,6 +3200,7 @@
           "ph": 135,
           "page": 142,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "Upon completion of the project, students should be able to:",
           "outcomes": [
             "identify researchable project topics in information and communication technology’",
@@ -3030,6 +3223,7 @@
           "ph": 135,
           "page": 142,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "Upon completion of the project, students should be able to:",
           "outcomes": [
             "demonstrate technical skills in Information and Communication Technology;",
@@ -3050,6 +3244,7 @@
           "ph": 45,
           "page": 143,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe the principles underlying wireless data communications;",
@@ -3070,6 +3265,7 @@
           "ph": null,
           "page": 143,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should have learned to:",
           "outcomes": [
             "summarise and describe general properties, challenges, and characteristics of distributed systems;",
@@ -3090,6 +3286,7 @@
           "ph": null,
           "page": 144,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe project management planning;",
@@ -3098,16 +3295,17 @@
             "discuss project procurement, monitoring and execution; and",
             "explain project communication and time management."
           ],
-          "contents": "Introduction to Project Management. The Project Management Lifecycle. Project Execution, Control and Closure. Project management and systems development or acquisition. The project management context, technology and techniques. Project management processes. Managing Project Teams: Project team planning, Leadership in project management. Power and conflict in project teams. Communication among project stakeholders. Scope management. Managing Project Scheduling: Common problems in project scheduling. Resource management. Project quality management. Managing project risk and tools for managing project risk. Managing Project Procurement: Alternatives to systems development, External acquisition, Outsourcing-domestic and offshore, Steps in the procurement process. Project auditing. Minimum Academic Standards Laboratory Infrastructure The Information and Communication Technology programme should have at least three categories of laboratories: Software, Digital logic, and Network laboratories. Best practice requires staff to student’s ratio of about 1 to 25 for laboratory practicals. Therefore, multiple small laboratories are desirable to few large ones. Courses with large enrolments of students should have the students divided into groups to ensure each student has computer/practice equipment to themselves during practical sessions. Laboratory sessions should be conducted by qualified personnel to ensure close monitoring and effective achievement of Learning Outcomes. Software laboratory There should be a software laboratory that can support the best practice staff to student ratio for all lab-based courses in the programme. Software laboratory support programming courses and other courses requiring the use of software tools. Requirements for the software laboratory include: 1. Computer systems with the capacity to run software systems for all lab-based courses (e.g., Intel-based desktop PC with a minimum of 166MHz or faster processor with at least 64 MB RAM and 100 MB free disk space) 2. Programming environment and tools (e.g., Compilers/interpreters, debuggers, etc. for Java, Python, compiler compilers, e.g., flex, yacc, SableCC, etc.) 3. Operating systems environments and tools (e.g., Windows, LINUX, TempOS, Nachos, Xinu or MiniOS) 4. Tools for systems analysis and design, e.g., Unified Modelling Language (UML) 5. Computer maintenance tools like dust blowers 6. Overhead projector 7. Power backup Digital logic laboratory The digital logic or hardware laboratory should provide facilities required for hardware-related practicals. Requirements for the digital logic laboratory include: 1. NAND, NOR, XOR, AND, OR gates 2. Multiplexers, Demultiplexers, Decoders, Counters 3. Master-slave flip-flops 4. Digi-Designer Logic Board, etc. 5. Dual–trace oscilloscope 6. Digital Proto-Board 7. Microprocessor Demonstration System 8. ROMs, RAMs Network laboratory A separate network laboratory is required to expose students to practice on net-centric courses. Requirements for the network laboratory are not limited to the following: 1. Laptop (CORE i7, 1TB, 8GB RAM) 2. Mikrotik Cloud Switch Router 3. Mikrotik RB2011uais Router 4. Cloud core Router (12GB port, 4SFP) 5. Cisco Switches at least 12 6. Gigabit Switch (24 port) 7. Workstation (1TB, 8GB RAM) 8. Wireless Router 9. Crimping tool 10. LAN Cable Tester 11. CAT6b Cable 12. GNS3 13. Cisco Packet Tracer 14. Putty 15. Secure CRT 16. Microsoft Visio 17. PRTG Network Monitor 18. WIRESHARK 19. EVE-NG 20. Network Simulator -NS3 21. SNMP Agent Simulator 22. VIRL Network Emulator 23. Oracle Virtual Box 24. Clouds 25. BOINC 26. Cable Crimpers 27. PHP/HTML, XML 28. MATLAB 29. Air Blowers 30. Workstations 31. Severs 32. VSAT Installation devices:  Low Noise Block (LNB) which is a down converter and receiver  Block Up Converter (BUC) this is the up converter and transmitter  Ortho-Mode Transducer (OMT) the Tx and Rx waveguide joint 33. Licensed Software Staffing Personnel Academic staff The guidelines on academic staff/student ratio of 1:20 for Computing Programmes shall apply. To start any programme in Computing, there should be a minimum of six academic staff. There is a need to have a reasonable number of staff with PhD degrees accounting for at least 70% of the total number and having adequate teaching experience for every programme in the discipline. The staff structure forthe academic staff is expected to be 20: 35: 45 for Professors/Readers: Senior Lecturers: Lecturers 1 and below. Administrative support staff The services of the administrative support staff are indispensable in the proper administration of departments and faculty offices. It is important to recruit very competent, computer literate senior staff. Ratio of junior admin staff to academic staff shall be 1:10 Ratio of senior admin staff to academic staff shall be 1:10 Technical support personnel The services of technical support staff, which are indispensable in the proper running of laboratories and workshops, are required. It is important to recruit very competent senior technical staff to maintain teaching and research equipment. They are also to undergo regular training to keep them abreast of developments in equipment operation and maintenance. Ratio of Senior Technical Staff to Academic Staff shall be 1:10 Ratio of Junior Technical Staff to Academic Staff shall be 1:5 Library Universities should leverage available technology to put in place rich databases and other electronic/digital libraries and information resources. In addition, current hard copies of reference and other textual materials should be provided centrally at the level of the Faculty. A well-equipped network digital library should serve the entire university community. Availability of wireless facilities (WiFi) with adequate bandwidth should enhance access to these electronic resources. In any case, there should be internet-ready workstations available in the library for the students enrolled in each academic programme. The funding of the library should be in line with NUC guidelines. Classrooms, Laboratories and Offices The NUC recommends the following physical space requirement: m2 Professor’s office - 18.50 Head of department’s office - 18.50 Tutorial teaching staff’s office - 13.50 Other teaching staff space - 7.00 Technical staff space - 7.00 Secretarial space - 7.00 Seminar space/per student - 1.85 Laboratory space per FTE - 7.50 Conference room - 37.0 Adequate space should be provided for the Department. Effort must be made to provide the Department with at least: 1. Two (2) large laboratories calculated according to specifications of 7.5 m2 per FTE. At least two lecture rooms capable of seating at least sixty students at the specification of 1 m2 per FTE. 2. A departmental conference room. 3. A seminar room. 4. A staff common room. Office Equipment The following equipment should be provided in the offices: 1. Computers 2. Printers 3. Photocopying machines 4. Functional internet and e-mail facilities Classroom Space and Examination Theatres Adequate classrooms should be provided with enough chairs, tables and lecture delivery tools such as projector, whiteboards and smart boards. Examination halls and theatres should be provided to minimise the rate of examination malpractices. Classroom Equipment The following equipment should be provided in the classroom: 1. Multimedia projectors 2. Whiteboards or Smartboards 3. Functional internet and e-mail facilities",
+          "contents": "Introduction to Project Management. The Project Management Lifecycle. Project Execution, Control and Closure. Project management and systems development or acquisition. The project management context, technology and techniques. Project management processes. Managing Project Teams: Project team planning, Leadership in project management. Power and conflict in project teams. Communication among project stakeholders. Scope management. Managing Project Scheduling: Common problems in project scheduling. Resource management. Project quality management. Managing project risk and tools for managing project risk. Managing Project Procurement: Alternatives to systems development, External acquisition, Outsourcing-domestic and offshore, Steps in the procurement process. Project auditing.",
           "lab_work": null
         }
       ]
     },
     {
-      "name": "B.Sc. Information Systems",
       "degree": "B.Sc.",
+      "name": "Information Systems",
+      "toc_name": "B.Sc. Information Systems",
       "start_page": 148,
-      "end_page": 173,
+      "end_page": 174,
       "courses": [
         {
           "code": "GST 111",
@@ -3118,6 +3316,7 @@
           "ph": 45,
           "page": 151,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify possible sound patterns in English Language;",
@@ -3140,6 +3339,7 @@
           "ph": null,
           "page": 152,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the historical foundation of the Nigerian culture and arts in pre-colonial times;",
@@ -3163,6 +3363,7 @@
           "ph": null,
           "page": 153,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "understand basic definition of Set, Subset, Union, Intersection, Complements and use of Venn diagrams;",
@@ -3183,6 +3384,7 @@
           "ph": null,
           "page": 153,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "understand types of rules in Differentiation and Integration;",
@@ -3201,6 +3403,7 @@
           "ph": null,
           "page": 153,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": null,
           "outcomes": [
             "On completion, the student should be able to;",
@@ -3225,6 +3428,7 @@
           "ph": null,
           "page": 154,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe the electric field and potential, and related concepts, for stationary charges;",
@@ -3248,6 +3452,7 @@
           "ph": 45,
           "page": 155,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the student should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -3268,6 +3473,7 @@
           "ph": 45,
           "page": 155,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the student should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -3289,6 +3495,7 @@
           "ph": null,
           "page": 155,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain the basic concepts of descriptive statistics.",
@@ -3310,6 +3517,7 @@
           "ph": 45,
           "page": 156,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain basic components of computers and other computing devices;",
@@ -3331,6 +3539,7 @@
           "ph": 0,
           "page": 156,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain problem solving processes;",
@@ -3352,6 +3561,7 @@
           "ph": null,
           "page": 157,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": null,
           "outcomes": [
             "At the end of this course, students should be able to",
@@ -3376,6 +3586,7 @@
           "ph": 45,
           "page": 157,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concepts and theories of entrepreneurship, intrapreneurship, opportunity seeking, new value creation, and risk taking;",
@@ -3399,6 +3610,7 @@
           "ph": null,
           "page": 158,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify the various functional areas of business and describe their contribution to the organization;",
@@ -3418,6 +3630,7 @@
           "ph": null,
           "page": 159,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "Upon the completion of these courses, the students should be able to:",
           "outcomes": [
             "be able to differentiate population from sample as well as point from interval estimate;",
@@ -3437,6 +3650,7 @@
           "ph": 45,
           "page": 159,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the principles of good programming and structured programming concepts;",
@@ -3457,6 +3671,7 @@
           "ph": 45,
           "page": 159,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "demonstrate the principles of good programming and structured programming concepts;",
@@ -3477,6 +3692,7 @@
           "ph": 45,
           "page": 160,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "discuss the foundations and concept of human-computer interface;",
@@ -3496,6 +3712,7 @@
           "ph": 45,
           "page": 160,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe system requirements gathering techniques;",
@@ -3517,6 +3734,7 @@
           "ph": null,
           "page": 161,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain system concepts and organisational processes;",
@@ -3536,6 +3754,7 @@
           "ph": null,
           "page": 161,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": null,
           "outcomes": [],
           "contents": "Students are attached to private and public organisations for a period of three months with a view to making them acquire practical experience and to the extent possible, develop skills in all areas of computing. Students are supervised during the training period and shall be expected to keep records designed for the purpose of monitoring their performance. They are also expected to submit a report on the experience gained and defend their reports. 300 Level",
@@ -3550,6 +3769,7 @@
           "ph": null,
           "page": 161,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the concepts of peace, conflict and security;",
@@ -3570,6 +3790,7 @@
           "ph": 45,
           "page": 162,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students, through case study and practical approaches, should be able to:",
           "outcomes": [
             "describe the key steps in venture creation;",
@@ -3594,6 +3815,7 @@
           "ph": 45,
           "page": 163,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe database systems concepts and design;",
@@ -3613,6 +3835,7 @@
           "ph": 45,
           "page": 163,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain basic knowledge on digital forensic and digital evidence;",
@@ -3636,6 +3859,7 @@
           "ph": 45,
           "page": 164,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should able to:",
           "outcomes": [
             "define various terminologies relating to Data communication;",
@@ -3656,6 +3880,7 @@
           "ph": null,
           "page": 165,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concepts of operation management in an organisation;",
@@ -3674,6 +3899,7 @@
           "ph": null,
           "page": 165,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concepts, principles and techniques of management;",
@@ -3692,6 +3918,7 @@
           "ph": 45,
           "page": 166,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain e-business application design and development;",
@@ -3710,6 +3937,7 @@
           "ph": null,
           "page": 166,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain business models;",
@@ -3731,6 +3959,7 @@
           "ph": 135,
           "page": 166,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": null,
           "outcomes": [],
           "contents": "Students are attached to private and public organisations for a period of three months with a view to making them acquire practical experience and to the extent possible, develop skills in all areas of computing. Students are supervised during the training period and shall be expected to keep records designed for the purpose of monitoring their performance. They are also expected to submit a report on the experience gained and defend their reports.",
@@ -3745,6 +3974,7 @@
           "ph": 45,
           "page": 167,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": null,
           "outcomes": [
             "At the end of this course, students should be able to",
@@ -3768,6 +3998,7 @@
           "ph": null,
           "page": 167,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe research, types, approaches, significance of research, research methods, research process, criteria and strategy for good research;",
@@ -3789,6 +4020,7 @@
           "ph": 45,
           "page": 168,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the principles and best practices of managing data with efficiency and effectiveness;",
@@ -3808,6 +4040,7 @@
           "ph": null,
           "page": 169,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe project management planning;",
@@ -3828,6 +4061,7 @@
           "ph": null,
           "page": 169,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concept of business process re-engineering;",
@@ -3846,6 +4080,7 @@
           "ph": 135,
           "page": 169,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "Upon completion of the project, students should be able to:",
           "outcomes": [
             "identify researchable project topics in information systems;",
@@ -3868,6 +4103,7 @@
           "ph": 135,
           "page": 170,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "Upon completion of the project, students should be able to:",
           "outcomes": [
             "demonstrate technical skills in Information Systems",
@@ -3876,16 +4112,17 @@
             "defend the written project report",
             "appreciate the art of carrying out a full-fledged research"
           ],
-          "contents": "This is a continuation of INS 497. This contains the implementation and the evaluation of the project. A formal written report, chapters 4 - 5 has to be approved by the supervisor. A final report comprising chapters 1 - 5 will be submitted to the department for final grading. An oral presentation is required. Minimum Academic Standards Equipment The Information Systems programme should have at least three categories of laboratories: software, network and hardware laboratories. Best practice requires a staff to students’ ratio of 1:20 for laboratory practical. Therefore, multiple small laboratories are preferable to a few large ones. Courses with large enrolments should have the students partitioned into groups to ensure each student has a computer/practice equipment to themselves during practical sessions. Laboratory sessions should be conducted by staff to ensure close monitoring and effective achievement of Learning Outcomes. Software laboratory Software laboratory support programming and other courses requiring use of software tools. Requirements for the software laboratory include: 1. Computer systems with capacity to run software systems for all lab-based courses (e.g., Desktop PC with minimum of 1,6 GHz or faster processor with at least 2 GB RAM and 500 GB hard disk space.) A maximum of 3 students to 1 computer system is recommended. 2. Programming environment and tools (e.g., Compilers/interpreters, debuggers, etc. for Java, Python, compiler compilers, e.g., flex, yacc, SableCC, etc,) 3. Operating systems environments and tools (e.g., Windows, LINUX, TempOS, Nachos, Xinu or MiniOS) 4. Tools for systems analysis and design (e.g., Unified Modelling Language (UML)) 5. Computer maintenance tools like dust blowers and toolbox 6. Overhead projector 7. Power backup Network laboratory A separate network laboratory is required to expose students to practice on net-centric courses. Requirements for the network laboratory include: 1. Computer systems (hosts running LINUX or Windows). A maximum of 3 students to 1 computer system is recommended. 2. Routers, Switches, Radio modems, etc. 3. Dialup modems and PABXs 4. Patch panels 5. Simulation software like Packet tracer, NS Simulator or others 6. LAN testers, crimping tools, etc. 7. Practical consumables (RJ-45 connectors, twisted pair cable, etc.) Hardware laboratory The hardware laboratory should provide facilities required for hardware-related practicals. Requirements for the hardware laboratory include: 1. NAND, NOR, XOR, AND, OR gates 2. Multiplexers 3. Master-slave flip-flops 4. Digi-Designer Logic Board, etc 5. Dual–trace oscilloscope 6. Digital Proto-Board 7. Computer casing 8. Motherboard 9. ROMs/RAMs 10. Hard drives 11. CD ROMs 12. Display screens 13. Fans 14. Connectors/Jumpers, etc. Staffing Personnel Academic staff The guidelines on academic staff/student ratio of 1:20 for Computing Programmes shall apply. To start any programme in Computing, there should be a minimum of six academic staff. There is a need to have a reasonable number of staff with PhD degrees accounting for at least 70% of the total number and having adequate teaching experience for every programme in the discipline. The staff structure for the academic staff is expected to be 20: 35: 45 for Professors/Readers: Senior Lecturers: Lecturers 1 and below. Administrative support staff The services of the administrative support staff are indispensable in the proper administration of departments and faculty offices. It is important to recruit very competent, computer literate senior staff. Ratio of junior admin staff to academic staff shall be 1:10 Ratio of senior admin staff to academic staff shall be 1:10 Technical support personnel The services of technical support staff, which are indispensable in the proper running of laboratories and workshops, are required. It is important to recruit very competent senior technical staff to maintain teaching and research equipment. They are also to undergo regular training to keep them abreast of developments in equipment operation and maintenance. Ratio of Senior Technical Staff to Academic Staff shall be 1:10 Ratio of Junior Technical Staff to Academic Staff shall be 1:5 Library Universities should leverage available technology to put in place rich databases and other electronic/digital libraries and information resources. In addition, current hard copies of reference and other textual materials should be provided centrally at the level of the Faculty. A well-equipped network digital library should serve the entire university community. Availability of wireless facilities (WiFi) with adequate bandwidth should enhance access to these electronic resources. In any case, there should be internet-ready workstations available in the library for the students enrolled in each academic programme. The funding of the Library should be in line with NUC guidelines. Classrooms, Laboratories and Offices The NUC recommends the following physical space requirement: m2 1. Professor’s office - 18.50 2. Head of department’s office - 18.50 3. Tutorial teaching staff’s office - 13.50 4. Other teaching staff space - 7.00 5. Technical staff space - 7.00 6. Secretarial space - 7.00 7. Seminar space/per student - 1.85 8. Laboratory space per FTE - 7.50 9. Conference room - 37.0 Adequate space should be provided for the department. Effort must be made to provide the department with at least: 1. Two (2) large laboratories calculated according to specifications of 7.5 m2 per FTE. At least two lecture rooms capable of seating at least sixty students at the specification of 1 m2 per FTE. 2. A departmental conference room. 3. A seminar room. 4. A staff common room. Office Equipment The following equipment should be provided in the offices: 1. Computers 2. Printers 3. Photocopying Machines 4. Functional internet and e-mail facilities Classroom Space and Examination Theatres Adequate classrooms should be provided with enough chairs, tables and lecture delivery tools such as projector, whiteboards and smart boards. Examination halls and theatres should be provided to minimise the rate of examination malpractices. Classroom Equipment The following equipment should be provided in the classroom: 1. Multimedia projectors 2. Whiteboards or Smartboards 3. Functional internet and e-mail facilities",
+          "contents": "This is a continuation of INS 497. This contains the implementation and the evaluation of the project. A formal written report, chapters 4 - 5 has to be approved by the supervisor. A final report comprising chapters 1 - 5 will be submitted to the department for final grading. An oral presentation is required.",
           "lab_work": null
         }
       ]
     },
     {
-      "name": "B.Sc. Information Technology",
       "degree": "B.Sc.",
+      "name": "Information Technology",
+      "toc_name": "B.Sc. Information Technology",
       "start_page": 174,
-      "end_page": 201,
+      "end_page": 202,
       "courses": [
         {
           "code": "GST 111",
@@ -3896,6 +4133,7 @@
           "ph": 45,
           "page": 177,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify possible sound patterns in the English language;",
@@ -3918,6 +4156,7 @@
           "ph": null,
           "page": 178,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the historical foundation of the Nigerian culture and arts in pre-colonial times;",
@@ -3941,6 +4180,7 @@
           "ph": null,
           "page": 179,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "tell the basic definition of Set, Subset, Union, Intersection, Complements, and use of Venn diagrams;",
@@ -3961,6 +4201,7 @@
           "ph": null,
           "page": 179,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "explain the fundamental concept of Differentiation and Integration;",
@@ -3979,6 +4220,7 @@
           "ph": null,
           "page": 179,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "identify and deduce the physical quantities and their units;",
@@ -4002,6 +4244,7 @@
           "ph": null,
           "page": 180,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe the electric field and potential, and related concepts, for stationary charges;",
@@ -4025,6 +4268,7 @@
           "ph": 45,
           "page": 180,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "On completion, the student should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -4045,6 +4289,7 @@
           "ph": 45,
           "page": 181,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the student should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -4066,6 +4311,7 @@
           "ph": null,
           "page": 181,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain the basic concepts of descriptive statistics.",
@@ -4087,6 +4333,7 @@
           "ph": 45,
           "page": 182,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain basic components of computers and other computing devices;",
@@ -4108,6 +4355,7 @@
           "ph": 0,
           "page": 182,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain problem-solving processes;",
@@ -4129,6 +4377,7 @@
           "ph": null,
           "page": 183,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": null,
           "outcomes": [
             "At the end of this course, students should be able to",
@@ -4153,6 +4402,7 @@
           "ph": 45,
           "page": 183,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concepts and theories of entrepreneurship, intrapreneurship, opportunity seeking, new value creation, and risk-taking;",
@@ -4176,6 +4426,7 @@
           "ph": 45,
           "page": 184,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the principles of good programming and structured programming concepts;",
@@ -4196,6 +4447,7 @@
           "ph": 45,
           "page": 185,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "demonstrate the principles of good programming and structured programming concepts;",
@@ -4216,6 +4468,7 @@
           "ph": 45,
           "page": 185,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "state the origin of the internet and the world wide web;",
@@ -4235,6 +4488,7 @@
           "ph": null,
           "page": 186,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "explain the history and development of information technologies;",
@@ -4255,6 +4509,7 @@
           "ph": 45,
           "page": 186,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students will be able to:",
           "outcomes": [
             "explain why everything is data, including instructions, in computers;",
@@ -4278,6 +4533,7 @@
           "ph": 45,
           "page": 187,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students will be able to:",
           "outcomes": [
             "explain the organisation of the classical von Neumann machine and its major functional units;",
@@ -4299,6 +4555,7 @@
           "ph": 135,
           "page": 188,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "Upon the completion of the training, the students should be able to:",
           "outcomes": [
             "demonstrate competence by interacting with experts outside the school environment;",
@@ -4318,6 +4575,7 @@
           "ph": 45,
           "page": 188,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "discuss the foundations and concept of the human-computer interface;",
@@ -4337,6 +4595,7 @@
           "ph": null,
           "page": 188,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the concepts of peace, conflict, and security;",
@@ -4357,6 +4616,7 @@
           "ph": 45,
           "page": 189,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students, through case study and practical approaches, should be able to:",
           "outcomes": [
             "describe the key steps in venture creation;",
@@ -4381,6 +4641,7 @@
           "ph": 45,
           "page": 190,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the lecture, the students should be able to:",
           "outcomes": [
             "design and implement simple client-side and server-side web applications;",
@@ -4400,6 +4661,7 @@
           "ph": 45,
           "page": 190,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "develop a basic knowledge of web technology;",
@@ -4420,6 +4682,7 @@
           "ph": null,
           "page": 191,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "By the end of the course, the students should be able to:",
           "outcomes": [
             "describe laws and regulations related to ethics;",
@@ -4440,6 +4703,7 @@
           "ph": 45,
           "page": 191,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course the students should be able to:",
           "outcomes": [
             "identify the basic knowledge on mobile application environment and technology;",
@@ -4461,6 +4725,7 @@
           "ph": 45,
           "page": 192,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain business models;",
@@ -4482,6 +4747,7 @@
           "ph": 45,
           "page": 192,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "analyse IPv6 networking concepts and practices for communications over VPNs;",
@@ -4502,6 +4768,7 @@
           "ph": 135,
           "page": 193,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "Upon the completion of the training, the students should be able to:",
           "outcomes": [
             "interact with experts, thus making them gain extra knowledge outside the school environment;",
@@ -4523,6 +4790,7 @@
           "ph": 45,
           "page": 193,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "recognise operating system types and structure;",
@@ -4545,6 +4813,7 @@
           "ph": 45,
           "page": 194,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, the students should be able to:",
           "outcomes": [
             "identify various network services, characteristics, elements, standards, and technologies;",
@@ -4566,6 +4835,7 @@
           "ph": null,
           "page": 195,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe research, types, and approaches, the significance of the research, research methods, research process, criteria, and strategy for good research;",
@@ -4587,6 +4857,7 @@
           "ph": 45,
           "page": 195,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe the concepts of programming mobile devices and pervasive computing;",
@@ -4606,6 +4877,7 @@
           "ph": null,
           "page": 196,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "discuss systems integration activities as a part of the development lifecycle;",
@@ -4625,6 +4897,7 @@
           "ph": 45,
           "page": 196,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe the principles underlying wireless data communications;",
@@ -4646,6 +4919,7 @@
           "ph": 135,
           "page": 197,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "Upon completion of the project, students should be able to:",
           "outcomes": [
             "identify researchable project topics in information technology;",
@@ -4668,6 +4942,7 @@
           "ph": 135,
           "page": 197,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "Upon completion of the project, students should be able to:",
           "outcomes": [
             "demonstrate technical skills in Information Technology;",
@@ -4688,6 +4963,7 @@
           "ph": null,
           "page": 198,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe project management planning;",
@@ -4696,14 +4972,15 @@
             "discuss project procurement, monitoring, and execution; and",
             "explain project communication and time management."
           ],
-          "contents": "Introduction to Project Management. The Project Management Lifecycle: Project management and systems development or acquisition, The project management context, Technology and techniques to support the project management lifecycle, and Project management processes. Managing Project Teams: Project team planning, Motivating team members, Leadership, power and conflict in project teams, and managing global project teams; Managing Project Communication and enhancing team communication; Project Initiation and Planning. Managing Project Scope: Project initiation, How organisations choose projects, Activities, and Developing the project charter; Managing Project Scheduling: Common problems in project scheduling, and Techniques for project scheduling; Managing Project Resources: Types of resources (human, capital, time), and Techniques for managing resources. Project quality and tools to manage project quality. Managing project risk and tools for managing project risk. Managing Project Procurement: Alternatives to systems development, External acquisition, Outsourcing-domestic and offshore, Steps in the procurement process, and managing the procurement process. Project Execution, Control, and Closure: Managing project execution, monitoring progress, and managing change, Documentation, and communication, and common problems in project execution; Managing Project Control and Closure: Obtaining information, Cost control, Change control, Administrative closure, Personnel closure, Contractual closure, and Project auditing. Minimum Academic Standards Equipment The Information Technology programme should have at least three categories of laboratories: Software, Digital logic, and Network laboratories. Best practice requires staff to student’s ratio of about 1 to 25 for laboratory practicals. Therefore, multiple small laboratories are desirable to few large ones. Courses with large enrolments of students should have the students divided into groups to ensure each student has computer/practice equipment to themselves during practical sessions. Laboratory sessions should be conducted by qualified personnel to ensure close monitoring and effective achievement of Learning Outcomes. Software laboratory There should be a software laboratory that can support the best practice staff to student ratio for all lab-based courses in the programme. Software laboratory support programming courses and other courses requiring the use of software tools. Requirements for the software laboratory include: 1. Computer systems with the capacity to run software systems for all lab-based courses (e.g., Intel-based desktop PC with a minimum of 166MHz or faster processor with at least 64 MB RAM and 100 MB free disk space) 2. Programming environment and tools (e.g., Compilers/interpreters, debuggers, etc. for Java, Python, compiler compilers, e.g., flex, yacc, SableCC, etc.) 3. Operating systems environments and tools (e.g., Windows, LINUX, TempOS, Nachos, Xinu or MiniOS) 4. Tools for systems analysis and design, e.g., Unified Modelling Language (UML) 5. Computer maintenance tools like dust blowers 6. Overhead projector 7. Power backup Digital logic laboratory The digital logic or hardware laboratory should provide facilities required for hardware-related practicals. Requirements for the digital logic laboratory include: 1. NAND, NOR, XOR, AND, OR gates 2. Multiplexers, Demultiplexers, Decoders, Counters 3. Master-slave flip-flops 4. Digi-Designer Logic Board, etc. 5. Dual–trace oscilloscope 6. Digital Proto-Board 7. Microprocessor Demonstration System 8. ROMs, RAMs Network laboratory A separate network laboratory is required to expose students to practice on net-centric courses. Requirements for the network laboratory are not limited to the following: 1. Laptop (CORE i7, 1TB, 8GB RAM) 2. Mikrotik Cloud Switch Router 3. Mikrotik RB2011uais Router 4. Cloud core Router (12GB port, 4SFP) 5. Cisco Switches at least 12 6. Gigabit Switch (24 port) 7. Workstation (1TB, 8GB RAM) 8. Wireless Router 9. Crimping tool 10. LAN Cable Tester 11. CAT6b Cable 12. GNS3 13. Cisco Packet Tracer 14. Putty 15. Secure CRT 16. Microsoft Visio 17. PRTG Network Monitor 18. WIRESHARK 19. EVE-NG 20. Network Simulator -NS3 21. SNMP Agent Simulator 22. VIRL Network Emulator 23. Oracle Virtual Box 24. Clouds 25. BOINC 26. Cable Crimpers 27. PHP/HTML, XML 28. MATLAB 29. Air Blowers 30. Workstations 31. Severs 32. Licensed Software Staffing Personnel Academic staff The guidelines on academic staff/student ratio of 1:20 for Computing Programmes shall apply. To start any programme in Computing, there should be a minimum of six academic staff. There is a need to have a reasonable number of staff with PhD degrees accounting for at least 70% of the total number and having adequate teaching experience for every programme in the discipline. The staff structure for the academic staff is expected to be 20: 35: 45 for Professors/Readers: Senior Lecturers: Lecturers 1 and below. Administrative support staff The services of the administrative support staff are indispensable in the proper administration of departments and faculty offices. It is important to recruit very competent, computer literate senior staff. Ratio of junior admin staff to academic staff shall be 1:10 Ratio of senior admin staff to academic staff shall be 1:10 Technical support personnel The services of technical support staff, which are indispensable in the proper running of laboratories and workshops, are required. It is important to recruit very competent senior technical staff to maintain teaching and research equipment. They are also to undergo regular training to keep them abreast of developments in equipment operation and maintenance. Ratio of Senior Technical Staff to Academic Staff shall be 1:10 Ratio of Junior Technical Staff to Academic Staff shall be 1:5 Library Universities should leverage available technology to put in place rich databases and other electronic/digital libraries and information resources. In addition, current hard copies of reference and other textual materials should be provided centrally at the level of the faculty. A well-equipped network digital library should serve the entire university community. Availability of wireless facilities (Wi-Fi) with adequate bandwidth should enhance access to these electronic resources. In any case, there should be internet-ready workstations available in the library for the students enrolled in each academic programme. The funding of the library should be in line with NUC guidelines. Classrooms, Laboratories and Offices The NUC recommends the following physical space requirement: m2 1. Professor’s office - 18.50 2. Head of department’s office - 18.50 3. Tutorial teaching staff’s office - 13.50 4. Other teaching staff space - 7.00 5. Technical staff space - 7.00 6. Secretarial space - 7.00 7. Seminar space/per student - 1.85 8. Laboratory space per FTE - 7.50 9. Conference room - 37.0 Adequate space should be provided for the department. Effort must be made to provide the department with at least: 1. Two (2) large laboratories calculated according to specifications of 7.5 m2 per FTE. At least two lecture rooms capable of seating at least sixty students at the specification of 1 m2 per FTE. 2. A departmental conference room 3. A seminar room 4. A staff common room Office Equipment The following equipment should be provided in the offices: 1. Computers 2. Printers 3. Photocopying machines 4. Functional internet and e-mail facilities Classroom Space and Examination Theatres Adequate classrooms should be provided with enough chairs, tables and lecture delivery tools such as projector, whiteboards and smart boards. Examination halls and theatres should be provided to minimise the rate of examination malpractices. Classroom Equipment The following equipment should be provided in the classroom: 1. Multimedia projectors 2. Whiteboards or Smartboards 3. Functional internet and e-mail facilities",
+          "contents": "Introduction to Project Management. The Project Management Lifecycle: Project management and systems development or acquisition, The project management context, Technology and techniques to support the project management lifecycle, and Project management processes. Managing Project Teams: Project team planning, Motivating team members, Leadership, power and conflict in project teams, and managing global project teams; Managing Project Communication and enhancing team communication; Project Initiation and Planning. Managing Project Scope: Project initiation, How organisations choose projects, Activities, and Developing the project charter; Managing Project Scheduling: Common problems in project scheduling, and Techniques for project scheduling; Managing Project Resources: Types of resources (human, capital, time), and Techniques for managing resources. Project quality and tools to manage project quality. Managing project risk and tools for managing project risk. Managing Project Procurement: Alternatives to systems development, External acquisition, Outsourcing-domestic and offshore, Steps in the procurement process, and managing the procurement process. Project Execution, Control, and Closure: Managing project execution, monitoring progress, and managing change, Documentation, and communication, and common problems in project execution; Managing Project Control and Closure: Obtaining information, Cost control, Change control, Administrative closure, Personnel closure, Contractual closure, and Project auditing.",
           "lab_work": null
         }
       ]
     },
     {
-      "name": "B.Sc. Software Engineering",
       "degree": "B.Sc.",
+      "name": "Software Engineering",
+      "toc_name": "B.Sc. Software Engineering",
       "start_page": 202,
       "end_page": 228,
       "courses": [
@@ -4716,6 +4993,7 @@
           "ph": 45,
           "page": 205,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify possible sound patterns in English language;",
@@ -4738,6 +5016,7 @@
           "ph": null,
           "page": 206,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the historical foundation of the Nigerian culture and arts in pre-colonial times;",
@@ -4761,6 +5040,7 @@
           "ph": null,
           "page": 207,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "understand the basic definition of Set, Subset, Union, Intersection, Complements and use of Venn diagrams;",
@@ -4781,6 +5061,7 @@
           "ph": null,
           "page": 207,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "understand types of rules in Differentiation and Integration;",
@@ -4799,6 +5080,7 @@
           "ph": null,
           "page": 207,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course students should be able to:",
           "outcomes": [
             "identify and deduce the physical quantities and their units;",
@@ -4822,6 +5104,7 @@
           "ph": null,
           "page": 208,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "describe the electric field and potential, and related concepts, for stationary charges;",
@@ -4845,6 +5128,7 @@
           "ph": 45,
           "page": 208,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -4865,6 +5149,7 @@
           "ph": 45,
           "page": 209,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "conduct measurements of some physical quantities;",
@@ -4886,6 +5171,7 @@
           "ph": null,
           "page": 209,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain the basic concepts of descriptive statistics.",
@@ -4907,6 +5193,7 @@
           "ph": 45,
           "page": 209,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "explain basic components of computers and other computing devices;",
@@ -4928,6 +5215,7 @@
           "ph": 0,
           "page": 210,
           "level": 100,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain problem solving processes;",
@@ -4949,6 +5237,7 @@
           "ph": null,
           "page": 211,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": null,
           "outcomes": [
             "At the end of this course, students should be able to",
@@ -4973,6 +5262,7 @@
           "ph": null,
           "page": 211,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concepts and theories of entrepreneurship, intrapreneurship, opportunity seeking, new value creation, and risk taking;",
@@ -4996,6 +5286,7 @@
           "ph": null,
           "page": 212,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "understand Real-valued functions of a real variable;",
@@ -5014,6 +5305,7 @@
           "ph": null,
           "page": 212,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "define the following: order and degree of a differential equation;",
@@ -5032,6 +5324,7 @@
           "ph": 45,
           "page": 213,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the principles of good programming and structured programming concepts;",
@@ -5052,6 +5345,7 @@
           "ph": 45,
           "page": 213,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "demonstrate the principles of good programming and structured programming concepts;",
@@ -5072,6 +5366,7 @@
           "ph": null,
           "page": 214,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe the concept of the software life cycle;",
@@ -5094,6 +5389,7 @@
           "ph": null,
           "page": 214,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "convert logical statements from informal language to propositional and predicate logic expressions;",
@@ -5117,6 +5413,7 @@
           "ph": 45,
           "page": 215,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe system requirements gathering techniques;",
@@ -5138,6 +5435,7 @@
           "ph": 45,
           "page": 215,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, student should be able to:",
           "outcomes": [
             "explain why everything is data, including instructions, in computers;",
@@ -5161,6 +5459,7 @@
           "ph": 45,
           "page": 216,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, student should be able to:",
           "outcomes": [
             "explain different instruction formats, such as addresses per instruction and variable length vs. fixed length formats;",
@@ -5184,6 +5483,7 @@
           "ph": 135,
           "page": 216,
           "level": 200,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this training, students should be able to:",
           "outcomes": [
             "explain how a typical software engineering firm operates;",
@@ -5202,6 +5502,7 @@
           "ph": null,
           "page": 217,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of the course, students should be able to:",
           "outcomes": [
             "analyse the concepts of peace, conflict and security;",
@@ -5222,6 +5523,7 @@
           "ph": 45,
           "page": 218,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students, through case study and practical approaches, should be able to:",
           "outcomes": [
             "describe the key steps in venture creation;",
@@ -5246,6 +5548,7 @@
           "ph": 45,
           "page": 218,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain the concept of the object-oriented approach to modelling;",
@@ -5265,6 +5568,7 @@
           "ph": 45,
           "page": 219,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this Course, students should be able to:",
           "outcomes": [
             "state the critical importance of software testing in ensuring software quality;",
@@ -5284,6 +5588,7 @@
           "ph": 45,
           "page": 219,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this Course, students should be able to:",
           "outcomes": [
             "explain the importance of Software Construction and the key construction decisions;",
@@ -5303,6 +5608,7 @@
           "ph": null,
           "page": 220,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "explain business models;",
@@ -5324,6 +5630,7 @@
           "ph": 135,
           "page": 220,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this training, students should be able to:",
           "outcomes": [
             "explain how a typical software engineering firm operates;",
@@ -5342,6 +5649,7 @@
           "ph": 45,
           "page": 221,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this Course, students should be able to:",
           "outcomes": [
             "discuss the appropriate use of built-in data structures;",
@@ -5363,6 +5671,7 @@
           "ph": 45,
           "page": 221,
           "level": 300,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "recognise operating system types and structure;",
@@ -5385,6 +5694,7 @@
           "ph": null,
           "page": 222,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe research, types, approaches, significance of research, research methods, research process, criteria and strategy for good research;",
@@ -5406,6 +5716,7 @@
           "ph": 45,
           "page": 222,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "state the importance of software configuration management;",
@@ -5424,6 +5735,7 @@
           "ph": 45,
           "page": 223,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe design patterns, frameworks and architectures;",
@@ -5442,6 +5754,7 @@
           "ph": 135,
           "page": 223,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "identify researchable project topics in Software Engineering;",
@@ -5465,6 +5778,7 @@
           "ph": 135,
           "page": 224,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "Upon completion of the project, students should be able to:",
           "outcomes": [
             "demonstrate technical skills in Software Engineering;",
@@ -5485,6 +5799,7 @@
           "ph": null,
           "page": 224,
           "level": 400,
+          "prerequisites": null,
           "outcomes_intro": "At the end of this course, students should be able to:",
           "outcomes": [
             "describe project management planning;",
@@ -5493,7 +5808,7 @@
             "discuss project procurement, monitoring and execution; and",
             "explain project communication and time management;"
           ],
-          "contents": "Introduction to Project Management. The Project Management Lifecycle. Project management and systems development or acquisition. The project management context, technology and techniques to support the project management lifecycle, and Project management processes. Managing Project Teams: Project team planning, Motivating team members, Leadership, power and conflict in project teams, and Managing global project teams. Managing Project Communication and enhancing team communication. Managing Project Scope: Project initiation, how organisations choose projects, activities, and developing the project charter. Managing Project Scheduling: Common problems in project scheduling, and Techniques for project scheduling. Managing Project Resources: Types of resources (human, capital, time), and techniques for managing resources. Project quality and tools to manage project quality. Managing project risk and tools for managing project risk. Managing Project Procurement: Alternatives to systems development, External acquisition, Outsourcing-domestic and offshore, Steps in the procurement process, and Managing the procurement process. Project Execution, Control and Closure: Managing project execution, monitoring progress and managing change, Documentation and communication, and Common problems in project execution; Managing Project Control and Closure: Obtaining information, Cost control, Change control, Administrative closure, Personnel closure, Contractual closure and Project auditing Minimum Academic Standards Equipment The following laboratories together with their software requirements are required for the B.Sc. Software Engineering programme. Software Engineering Laboratory The hardware requirements for this laboratory are as follows: 1. PCs with CPU with minimum of 4 GB of main memory, 1 TB HDD (ideally there should be a minimum of one PC per every three students); 2. Multifunctional laser printers (minimum of two) to be networked with the PCs; and 3. External Hard Disk, 500GB (minimum of two). (Maximum of three students per computer system) The minimum software requirements are as follows: Software requirements tools: 1. Requirements gathering tools; 2. UML modelling tools; and 3. Requirements management tools. Software design tools: 1. UML-based Design tools; 2. Object-oriented Design tools; 3. Design Analysis tools; 4. CASE tools; 5. Process Modelling tools; 6. Project Management tools; and Software testing tools: 1. Automation Testing tools; 2. Black-box and White-box Testing tools; 3. Unit testing, Integration Testing and System Testing tools; 4. Regression Testing tools; 5. Test Generation tools; and 6. Test Management tools. Software Construction and Development Laboratory The hardware requirements the laboratory are as follows: 1. PCs with CPU with minimum of 4 GB of main memory, 1 TB HDD (ideally there should be a minimum of one PC per every three students) 2. Multifunctional laser printers (minimum of two) to be networked with the PCs 3. External Hard Disk, 500GB (minimum of two) (Maximum of three students per computer system) The minimum software requirements are as follows: 1. Integrated Development Environments (IDEs) with support for different programming languages 2. Debuggers, Automated Bug-finders, Programme Differencing tools 3. Static and Dynamic Programme Analysis tools 4. Compilation Managers and Build Scripts 5. Software Construction Collaboration tools 6. Software Development Frameworks 7. Cloud Tools Digital Logic Laboratory The digital logic or hardware laboratory should provide facilities required for hardware-related practicals. Requirements for the digital logic laboratory include: 1. NAND, NOR, XOR, AND, OR gates 2. Multiplexers 3. Master-slave flip-flops 4. Digi-Designer Logic Board, etc 5. Dual–trace oscilloscope 6. Digital Proto-Board 7. Computer casing 8. Motherboard 9. Microprocessor Emulator System 10. ROMs/RAMs 11. Hard drives 12. CD ROMs 13. Display screens 14. Fans 15. Connectors/Jumpers, etc. Staffing Personnel Academic Staff The guidelines on academic staff/student ratio of 1:20 for Computing programmes shall apply. To start any programme in Computing, there should be a minimum of six academic staff. There is a need to have a reasonable number of staff with PhD degrees accounting for at least 70% of the total number and having adequate teaching experience for every programme in the discipline. The staff structure for the academic staff is expected to be 20: 35: 45 for Professors/Readers: Senior Lecturers: Lecturers 1 and below. To start up a Software Engineering programme, a minimum of five (5) Academic staff core to the subject areas are required. The ratio of Academic staff to students shall be 1:20. The staff structure for the academic staff is expected to be 20:35:45 for Professors/Readers: Senior Lecturers: Lecturers 1 and below respectively. Administrative Support Staff The services of the administrative support staff are indispensable in the proper administration of departments and faculty offices. It is important to recruit very competent, computer literate senior staff. Ratio of junior admin staff to academic staff shall be 1:10 Ratio of senior admin staff to academic staff shall be 1:10 Technical support personnel The services of technical support staff, which are indispensable in the proper running of laboratories and workshops, are required. It is important to recruit very competent senior technical staff to maintain teaching and research equipment. They are also to undergo regular training to keep them abreast of developments in equipment operation and maintenance. Ratio of senior technical staff to academic staff shall be 1:10 Ratio of junior technical staff to academic staff shall be 1:5 Library Universities should leverage available technology to put in place rich databases and other electronic/digital libraries and information resources. In addition, current hard copies of reference and other textual materials should be provided centrally at the level of the Faculty. A well-equipped network digital library should serve the entire university community. Availability of wireless facilities (WiFi) with adequate bandwidth should enhance access to these electronic resources. In any case, there should be internet-ready workstations available in the library for the students enrolled in each academic programme. The funding of the library should be in line with NUC guidelines. Classrooms, Laboratories And Offices The NUC recommends the following physical space requirement: m2 1. Professor’s office - 18.50 2. Head of department’s office - 18.50 3. Tutorial teaching staff’s office - 13.50 4. Other teaching staff space - 7.00 5. Technical staff space - 7.00 6. Secretarial space - 7.00 7. Seminar space/per student - 1.85 8. Laboratory space per FTE - 7.50 9. Conference room - 37.0 Adequate space should be provided for the department. Effort must be made to provide the department with at least: 1. A high-end functional computing laboratory calculated according to specifications of 7.5 m2 per FTE. 2. At least two lecture rooms capable of seating at least sixty students at the specification of 1 m2 per FTE. 3. A departmental conference room. 4. A seminar room. 5. A staff common room. Office Equipment The following equipment should be provided in the offices: 1. Computers 2. Printers 3. Photocopying machines 4. Functional internet and e-mail facilities Classroom Space and Examination Theatres Adequate classrooms should be provided with enough chairs, tables and lecture delivery tools such as projector, whiteboards and smart boards. Examination halls and theatres should be provided to minimise the rate of examination malpractices. To achieve the benchmark statements for any programme, there should be: 1. A minimum number of identifiable and adequately equipped laboratories which should be in accordance with the recommended space requirements; and 2. At least one software and hardware laboratory, reasonably equipped for teaching and research, along with specialised laboratories. Classroom Equipment For effective learning the following equipment should be provided: 1. scientific equipment for specific areas of specialisations 2. computers 3. photocopying machines 4. video cameras 5. tape recorders 6. internet and e-mail facilities 7. multimedia projectors 8. other specialised equipment",
+          "contents": "Introduction to Project Management. The Project Management Lifecycle. Project management and systems development or acquisition. The project management context, technology and techniques to support the project management lifecycle, and Project management processes. Managing Project Teams: Project team planning, Motivating team members, Leadership, power and conflict in project teams, and Managing global project teams. Managing Project Communication and enhancing team communication. Managing Project Scope: Project initiation, how organisations choose projects, activities, and developing the project charter. Managing Project Scheduling: Common problems in project scheduling, and Techniques for project scheduling. Managing Project Resources: Types of resources (human, capital, time), and techniques for managing resources. Project quality and tools to manage project quality. Managing project risk and tools for managing project risk. Managing Project Procurement: Alternatives to systems development, External acquisition, Outsourcing-domestic and offshore, Steps in the procurement process, and Managing the procurement process. Project Execution, Control and Closure: Managing project execution, monitoring progress and managing change, Documentation and communication, and Common problems in project execution; Managing Project Control and Closure: Obtaining information, Cost control, Change control, Administrative closure, Personnel closure, Contractual closure and Project auditing",
           "lab_work": null
         }
       ]

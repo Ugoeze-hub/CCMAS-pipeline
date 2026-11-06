@@ -1,0 +1,1989 @@
+{
+  "discipline": "Veterinary Medicine",
+  "slug": "veterinary-medicine",
+  "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Veterinary-Medicine-CCMAS-2023-FINAL.pdf",
+  "text_quality": {
+    "pages": 73,
+    "words": 22901,
+    "near_empty_pages": 2
+  },
+  "programmes": [
+    {
+      "degree": "DVM",
+      "name": "Veterinary Medicine",
+      "toc_name": "Doctor of Veterinary Medicine (DVM)",
+      "start_page": 14,
+      "end_page": 73,
+      "courses": [
+        {
+          "code": "GST 111",
+          "title": "Communication in English",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 20,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the end of this course, students should be able to:",
+          "outcomes": [
+            "identify possible sound patterns in English Language;",
+            "list notable Language skills;",
+            "classify word formation processes;",
+            "construct simple and fairly complex sentences in English;",
+            "apply logical and critical reasoning skills for meaningful presentations;",
+            "demonstrate an appreciable level of the art of public speaking and listening; and",
+            "write simple and technical reports."
+          ],
+          "contents": "Sound patterns in English Language (vowels and consonants, phonetics and phonology). English word classes (lexical and grammatical words, definitions, forms, functions, usages, collocations). Sentence in English (types: structural and functional, simple and complex). Grammar and Usage (tense, mood, modality and concord, aspects of language use in everyday life). Logical and Critical Thinking and Reasoning Methods (Logic and Syllogism, Inductive and Deductive Argument and Reasoning Methods, Analogy, Generalisation and Explanations). Ethical considerations, Copyright Rules and Infringements. Writing Activities: (Pre-writing , Writing, Post writing, Editing and Proofreading; Brainstorming, outlining, Paragraphing, Types of writing, Summary, Essays, Letter, Curriculum Vitae, Report writing, Note making etc. Mechanics of writing). Comprehension Strategies: (Reading and types of Reading, Comprehension Skills, 3RsQ). Information and Communication Technology in modern Language Learning. Language skills for effective communication. Major word formation processes. Writing and reading comprehension strategies. Logical and critical reasoning for meaningful presentations. Art of public speaking and listening. Report writing.",
+          "lab_work": null
+        },
+        {
+          "code": "GST 112",
+          "title": "Nigerian Peoples and Cultures",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 21,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the end of the course, students should be able to:",
+          "outcomes": [
+            "analyse the historical foundation of the Nigerian culture and arts in pre-colonial times;",
+            "list and identify the major linguistic groups in Nigeria;",
+            "explain the gradual evolution of Nigeria as a political unit;",
+            "analyse the concepts of Trade, Economic and Self-reliance status of the Nigerian peoples towards national development;",
+            "enumerate the challenges of the Nigerian State towards Nation building",
+            "analyse the role of the Judiciary in upholding people’s fundamental rights",
+            "identify acceptable norms and values of the major ethnic groups in Nigeria; and",
+            "list and suggest possible solutions to identifiable Nigerian environmental, moral and value problems. Courses Contents Nigerian history, culture and art up to 1800 (Yoruba, Hausa and Igbo peoples and culture; peoples and culture of the ethnic minority groups). Nigeria under colonial rule (advent of colonial rule in Nigeria; Colonial administration of Nigeria). Evolution of Nigeria as a political unit (amalgamation of Nigeria in 1914; formation of political parties in Nigeria; Nationalist movement and struggle for independence). Nigeria and challenges of nation building (military intervention in Nigerian politics; Nigerian Civil War). Concept of trade and economics of self- reliance (indigenous trade and market system; indigenous apprenticeship system among Nigeria people; trade, skill acquisition and self-reliance). Social justices and national development (law definition and classification. Judiciary and fundamental rights. Individual, norms and values (basic Nigeria norms and values, patterns of citizenship acquisition; citizenship and civic responsibilities; indigenous languages, usage and development; negative attitudes and conducts. Cultism, kidnapping and other related social vices). Re-orientation, moral and national values (The 3R’s – Reconstruction, Rehabilitation and Re-orientation; Re- orientation Strategies: Operation Feed the Nation (OFN), Green Revolution, Austerity Measures, War Against Indiscipline (WAI), War Against Indiscipline and Corruption(WAIC), Mass Mobilization for Self-Reliance, Social Justice and Economic Recovery (MAMSER), National Orientation Agency (NOA). Current socio-political and cultural developments in Nigeria."
+          ],
+          "contents": "",
+          "lab_work": null
+        },
+        {
+          "code": "BIO 101",
+          "title": "General Biology I",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 21,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "explain cell structure and organizations;",
+            "summarise functions of cellular organelles;",
+            "characterise living organisms and state their general reproduction;",
+            "describe the interrelationship that exists between organisms;",
+            "discuss the concept of heredity and evolution; and",
+            "enumerate habitat types and their characteristics."
+          ],
+          "contents": "Cell structure and organisation, functions of cellular organelles, characteristics and classification of living things, chromosomes, genes and their relationships and importance, general reproduction, interrelationships of organisms (competitions, parasitism, predation, symbiosis, commensalisms, mutualism, saprophytism), heredity and evolution (introduction to Darwinism and Lamarkism, Mendelian laws, explanation of key genetic terms), elements of ecology and types of habitat.",
+          "lab_work": null
+        },
+        {
+          "code": "BIO 102",
+          "title": "General Biology II",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 22,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "state the unique characteristics of plant and animal kingdoms;",
+            "describe ecological adaptations in the plant and animal kingdoms;",
+            "give a summary of the physiology of plants and animals;",
+            "explain nutrition, respiration, excretion and reproduction in plants and animals; and",
+            "describe growth and development in plants and animals."
+          ],
+          "contents": "A general survey of the plant and animal kingdoms based mainly on study of similarities and differences in the external features, ecological adaptations of these forms. Briefs on physiology to include nutrition, respiration, circulatory systems, excretion, reproduction, growth and development.",
+          "lab_work": null
+        },
+        {
+          "code": "BIO 107",
+          "title": "General Biology Practical I",
+          "units": 1,
+          "status": "C",
+          "lh": null,
+          "ph": 45,
+          "page": 22,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "outline common laboratory hazards;",
+            "provide precautions on laboratory hazards;",
+            "state the functions of the different parts of microscope;",
+            "use the microscope and describe its maintenance;",
+            "draw biological diagrams and illustrations; and",
+            "apply scaling and proportion to biological diagrams."
+          ],
+          "contents": "Common laboratory hazards: prevention and first aid; measurements in biology; uses and care of microscope; compound and dissecting microscope. Biological drawings and illustration, scaling, accuracy and proportion; use of common laboratory apparatus and laboratory experiments designed to illustrate the topics covered in BIO 101.",
+          "lab_work": null
+        },
+        {
+          "code": "BIO 108",
+          "title": "General Biology Practical II",
+          "units": 1,
+          "status": "C",
+          "lh": null,
+          "ph": 45,
+          "page": 22,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe the anatomy of flowering plants;",
+            "differentiate types of fruit and seeds;",
+            "state ways of handling and caring for biological wares;",
+            "describe the basic histology of animal tissues; and",
+            "identify various groups in the animal kingdom."
+          ],
+          "contents": "Anatomy of flowering plants, primary vegetative body: stem, leaf and root to show the mature tissues namely parenchyma, collenchyma, sclerenchyma, xylem and phloem. Types of fruits and seeds. Care and use of dissecting kits and other biological wares. Dissection and general histology of animal tissues based on vertebrate forms. Morphology and functions of epithelial, muscular, nervous and connective tissues. Examination of various groups of lower invertebrates under microscopes, identification of various groups of organisms in Animal Kingdom, and any experiment designed to emphasise the practical aspects of topics in BIO 102.",
+          "lab_work": null
+        },
+        {
+          "code": "CHM 101",
+          "title": "General Chemistry I",
+          "units": 3,
+          "status": "C",
+          "lh": 45,
+          "ph": null,
+          "page": 23,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "define atom, molecules and chemical reactions;",
+            "discuss the Modern electronic theory of atoms;",
+            "write electronic configurations of elements on the periodic table;",
+            "rationalise the trends of atomic radii, ionisation energies, electronegativity of the elements based on their position in the periodic table;",
+            "identify and balance oxidation – reduction equation and solve redox titration problems;",
+            "draw shapes of simple molecules and hybridised orbitals;",
+            "identify the characteristics of acids, bases and salts, and solve problems based on their quantitative relationship;",
+            "apply the principles of equilibrium to aqueous systems using LeChatelier’s principle to predict the effect of concentration, pressure and temperature changes on equilibrium mixtures;",
+            "analyse and perform calculations with the thermodynamic functions, enthalpy, entropy and free energy; and",
+            "determine rates of reactions and its dependence on concentration, time and temperature."
+          ],
+          "contents": "Atoms, molecules, elements and compounds and chemical reactions. Modern electronic theory of atoms. Electronic configuration, periodicity and building up of the periodic table. Hybridisation and shapes of simple molecules. Valence Forces; Structure of solids. Chemical equations and stoichiometry; Chemical bonding and intermolecular forces, kinetic theory of matter. Elementary thermochemistry; rates of reaction, equilibrium and thermodynamics. Acids, bases and salts. Properties of gases. Redox reactions and introduction to electrochemistry. Radioactivity.",
+          "lab_work": null
+        },
+        {
+          "code": "CHM 102",
+          "title": "General Chemistry II",
+          "units": 3,
+          "status": "C",
+          "lh": 45,
+          "ph": null,
+          "page": 23,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "state the importance and development of organic chemistry;",
+            "define fullerenes and its applications;",
+            "discuss electronic theory;",
+            "determine the qualitative and quantitative of structures in organic chemistry;",
+            "state rules guiding nomenclature and functional group classes of organic chemistry;",
+            "determine rate of reaction to predict mechanisms of reaction;",
+            "identify classes of organic functional group with brief description of their chemistry;",
+            "discuss comparative chemistry of group 1A, IIA and IVA elements; and",
+            "describe basic properties of Transition metals."
+          ],
+          "contents": "Historical survey of the development and importance of Organic Chemistry; Fullerenes as fourth allotrope of carbon, uses as nanotubules, nanostructures, nanochemistry. Electronic theory in organic chemistry. Isolation and purification of organic compounds. Determination of structures of organic compounds including qualitative and quantitative analysis in Organic Chemistry. Nomenclature and functional group classes of organic compounds. Introductory reaction mechanism and kinetics. Stereochemistry. The chemistry of alkanes, alkenes, alkynes, alcohols, ethers, amines, alkyl halides, nitriles, aldehydes, ketones, carboxylic acids and derivatives. The chemistry of selected metals and non-metals. Comparative chemistry of group IA, IIA and IVA elements. Introduction to transition metal chemistry.",
+          "lab_work": null
+        },
+        {
+          "code": "CHM 107",
+          "title": "General Chemistry Practical I",
+          "units": 1,
+          "status": "C",
+          "lh": null,
+          "ph": 45,
+          "page": 24,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "state the general laboratory rules and safety procedures;",
+            "collect scientific data and correctly carrying out Chemical experiments;",
+            "identify the basic glassware and equipment in the laboratory;",
+            "state the differences between primary and secondary standards;",
+            "perform redox titration;",
+            "recording observations and measurements in the laboratory notebooks; and",
+            "analyse the data to arrive at scientific conclusions."
+          ],
+          "contents": "Laboratory experiments designed to reflect topics presented in courses CHM 101 and CHM 102. These include acid-base titrations, qualitative analysis, redox reactions, gravimetric analysis, data analysis and presentation.",
+          "lab_work": null
+        },
+        {
+          "code": "CHM 108",
+          "title": "General Chemistry Practical II",
+          "units": 1,
+          "status": "C",
+          "lh": null,
+          "ph": 45,
+          "page": 24,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "state the general laboratory rules and safety procedures;",
+            "collect scientific data and correctly carrying out Chemical experiments;",
+            "identify the basic glassware and equipment in the laboratory;",
+            "identify and carry out preliminary tests which includes ignition, boiling point, melting point, test on known and unknown organic compounds;",
+            "carry out solubility tests on known and unknown organic compounds; and",
+            "carry out elemental tests on known and unknown compounds;"
+          ],
+          "contents": "Continuation of CHM 107. Additional laboratory experiments to include functional group analysis, quantitative analysis using volumetric methods. Carryout functional group/confirmatory test on known and unknown compounds which could be acidic/basic/neutral organic compounds.",
+          "lab_work": null
+        },
+        {
+          "code": "PHY 101",
+          "title": "General Physics I (Mechanics)",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 25,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At completion of the course, students should be able to:",
+          "outcomes": [
+            "identify and deduce the physical quantities and their units;",
+            "differentiate between vectors and scalars;",
+            "describe and evaluate motion of systems on the basis of the fundamental laws of mechanics;",
+            "apply Newton’s laws to describe and solve simple problems of motion;",
+            "evaluate work, energy, velocity, momentum, acceleration, and torque of moving or rotating objects;",
+            "explain and apply the principles of conservation of energy, linear and angular momentum;",
+            "describe the laws governing motion under gravity; and",
+            "explain motion under gravity and quantitatively determine behaviour of objects moving under gravity."
+          ],
+          "contents": "Space and time; units and dimension, vectors and scalars, differentiation of vectors: displacement, velocity and acceleration; kinematics; Newton laws of motion (Inertial frames, Impulse, force and action at a distance, momentum conservation); relative motion; application of Newtonian mechanics; Equations of motion; Conservation principles in physics, Conservative forces, conservation of linear momentum, Kinetic energy and work, Potential energy, System of particles, Centre of mass; Rotational motion; Torque, vector product, moment, rotation of coordinate axes and angular momentum. Polar coordinates; conservation of angular momentum; Circular motion; Moments of inertia, gyroscopes and precession; Gravitation: Newton’s Law of Gravitation, Kepler’s Laws of Planetary Motion, Gravitational Potential Energy, Escape velocity, Satellites motion and orbits.",
+          "lab_work": null
+        },
+        {
+          "code": "PHY 103",
+          "title": "General Physics III (Electricity and Magnetism)",
+          "units": 3,
+          "status": "C",
+          "lh": 45,
+          "ph": null,
+          "page": 25,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": null,
+          "outcomes": [
+            "At the completion of this course, the Students should be able to;",
+            "describe the electric field and potential, and related concepts, for stationary charges;",
+            "calculate electrostatic properties of simple charge distributions using Coulomb’s law, Gauss’s law and electric potential;",
+            "describe and determine the magnetic field for steady and moving charges;",
+            "determine the magnetic properties of simple current distributions using Biot-Savart and Ampere’s law;",
+            "describe electromagnetic induction and related concepts, and make calculations using Faraday and Lenz’s laws;",
+            "explain the basic physical of Maxwell’s equations in integral form;",
+            "evaluate DC circuits to determine the electrical parameters; and",
+            "determine the characteristics of ac voltages and currents in resistors, capacitors, and inductors."
+          ],
+          "contents": "Forces in nature; Electrostatics; electric charge and its properties, methods of charging; Coulomb’s law and superposition; electric field and potential; Gauss’s law; Capacitance; Electric dipoles; Energy in electric fields; Conductors and insulators, current, voltage and resistance, Ohm’s law and analysis of DC circuits; Magnetic fields; Lorentz force; Biot-Savart and Ampère’s laws; magnetic dipoles; Dielectrics; Energy in magnetic fields; Electromotive force; Electromagnetic induction; Self and mutual inductances; Faraday and Lenz’s laws; Step up and step down transformers: Maxwell's equations; Electromagnetic oscillations and waves; AC voltages and currents applied to inductors, capacitors, resistance, and combinations.",
+          "lab_work": null
+        },
+        {
+          "code": "PHY 107",
+          "title": "General Practical Physics I",
+          "units": 1,
+          "status": "C",
+          "lh": null,
+          "ph": 45,
+          "page": 26,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "On completion, the student should be able to:",
+          "outcomes": [
+            "conduct measurements of some physical quantities;",
+            "make observations of events, collect and tabulate data;",
+            "identify and evaluate some common experimental errors;",
+            "plot and analyse graphs; and",
+            "draw conclusions from numerical and graphical analysis of data."
+          ],
+          "contents": "This introductory course emphasizes quantitative measurements. Experimental techniques. The treatment of measurement errors. Graphical analysis. The experiments include studies of meters, the oscilloscope, mechanical systems, electrical and mechanical resonant systems, light, heat, viscosity, etc. (covered in PHY 101, 102, 103 and PHY 104). However, emphasis should be placed on the basic physical techniques for observation, measurements, data collection, analysis, and deduction.",
+          "lab_work": null
+        },
+        {
+          "code": "PHY 108",
+          "title": "General Practical Physics II",
+          "units": 1,
+          "status": "C",
+          "lh": null,
+          "ph": 45,
+          "page": 26,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "On completion, the student should be able to:",
+          "outcomes": [
+            "conduct measurements of some physical quantities;",
+            "make observations of events, collect and tabulate data;",
+            "identify and evaluate some common experimental errors;",
+            "plot and analyse graphs;",
+            "draw conclusions from numerical and graphical analysis of data; and",
+            "prepare and present practical reports."
+          ],
+          "contents": "This practical course is a continuation of PHY 107 and is intended to be taught during the second semester of the 100 level to cover the practical aspect of the theoretical courses that have been covered with emphasis on quantitative measurements, the treatment of measurement errors, and graphical analysis. However, emphasis should be placed on the basic physical techniques for observation, measurements, data collection, analysis and deduction.",
+          "lab_work": null
+        },
+        {
+          "code": "VMD 101",
+          "title": "Introduction to Veterinary Medicine",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 26,
+          "level": 100,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, student should be able to:",
+          "outcomes": [
+            "present an overview of the discipline of Veterinary Medicine and existing opportunities;",
+            "describe the different phases of the programme; and",
+            "explain the importance of the different subjects to Veterinary practice."
+          ],
+          "contents": "History of the Veterinary profession in Nigeria. Organisation of veterinary services in Nigeria and clinical practice with reference to small animals, laboratory and exotic animals as well as equine practice. Nigerian livestock production (Ruminant, Swine, Poultry and Fish). Public Health and the concept of ‘One World, One Health’. The importance of theriogenology and surgery in veterinary clinical practice. Prospects and job opportunities in the Veterinary profession.",
+          "lab_work": null
+        },
+        {
+          "code": "GST 212",
+          "title": "Philosophy, Logic and Human Existence",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 27,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "A student who has successfully gone through this course should be able to:",
+          "outcomes": [
+            "enumerate the basic features of philosophy as an academic discipline;",
+            "identify the main branches of philosophy & the centrality of logic in philosophical discourse;",
+            "determine the elementary rules of reasoning;",
+            "distinguish between valid and invalid arguments;",
+            "provide critical thinking and assess arguments in texts, conversations and day-to-day discussions;",
+            "critically asses the rationality or otherwise of human conduct under different existential conditions;",
+            "develop the capacity to extrapolate and deploy expertise in logic to other areas of knowledge; and",
+            "explain his or her actions, using the knowledge and expertise acquired in philosophy and logic."
+          ],
+          "contents": "Scope of philosophy; notions, meanings, branches and problems of philosophy. Logic as an indispensable tool of philosophy. Elements of syllogism, symbolic logic— the first nine rules of inference. Informal fallacies, laws of thought, nature of arguments. Valid and invalid arguments, logic of form and logic of content — deduction, induction and inferences. Creative and critical thinking. Impact of philosophy on human existence. Philosophy and politics, philosophy and human conduct, philosophy and religion, philosophy and human values, philosophy and character moulding, etc.",
+          "lab_work": null
+        },
+        {
+          "code": "ENT 211",
+          "title": "Entrepreneurship and Innovation",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 27,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the end of this course, students should be able to:",
+          "outcomes": [
+            "explain the concepts and theories of entrepreneurship, intrapreneurship, opportunity seeking, new value creation, and risk taking",
+            "state the characteristics of an entrepreneur;",
+            "analyze the importance of micro and small businesses in wealth creation, employment, and financial independence",
+            "engage in entrepreneurial thinking;",
+            "identify key elements in innovation;",
+            "describe stages in enterprise formation, partnership and networking including business planning;",
+            "describe contemporary entrepreneurial issues in Nigeria, Africa and the rest of the world;",
+            "state the basic principles of e-commerce."
+          ],
+          "contents": "Concept of entrepreneurship (entrepreneurship, intrapreneurship/corporate entrepreneurship,). theories, rationale and relevance of entrepreneurship (schumpeterian and other perspectives, risk-taking, necessity and opportunity-based entrepreneurship and creative destruction). Characteristics of entrepreneurs (opportunity seeker, risk taker, natural and nurtured, problem solver and change agent, innovator and creative thinker). Entrepreneurial thinking (critical thinking, reflective thinking, and creative thinking). Innovation (concept of innovation, dimensions of innovation, change and innovation, knowledge and innovation). Enterprise formation, partnership and networking (basics of business plan, forms of business ownership, business registration and forming alliances and joint ventures). Contemporary entrepreneurship issues (knowledge, skills and technology, intellectual property, virtual office, networking). Entrepreneurship in nigeria (biography of inspirational entrepreneurs, youth and women entrepreneurship, entrepreneurship support institutions, youth enterprise networks and environmental and cultural barriers to entrepreneurship). Basic principles of e-commerce.",
+          "lab_work": null
+        },
+        {
+          "code": "VHM 201",
+          "title": "Food Animal Production and Management",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 28,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "identify livestock species (cattle, sheep and goats) by breed;",
+            "handle food animals; and",
+            "explain production systems and health management practices on farms."
+          ],
+          "contents": "Introduction to livestock husbandry. Livestock species, breeds and distribution. Animal behaviour. Livestock production systems: extensive, semi-intensive, intensive. Estimation of live-weight and age. Emphasis on birth weight, litter size, weaning age/weight, growth rate. Disbudding, dry hoof trimming. Tagging and branding. Restraint techniques and handling. Animal transportation. Nomadism, pasture management, animal housing.",
+          "lab_work": null
+        },
+        {
+          "code": "VHM 202",
+          "title": "Companion and Wild Animal Management",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 28,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate the handling of companion animals such as dogs, cats, horses, etc and analyse their behaviour; and",
+            "demonstrate how to handle and provide care for wild animals in captivity."
+          ],
+          "contents": "Housing and grooming of companion animals. Types/breeds of dogs and cats. Uses of dogs. Bathing tips, tooth care. Basic training of puppies and adult dogs. Husbandry of camels, horses, buffaloes, donkeys and their uses. Restraint techniques and animal handling. Feeds and feeding of companion animals. Kennel and stable management. Application of modern techniques in routine management and health of companion and wild animals. Animal transportation. Care of the hoof.",
+          "lab_work": null
+        },
+        {
+          "code": "VHM 203",
+          "title": "Poultry and Fish Production and Management",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 28,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "identify the types and breeds of poultry and fish; and",
+            "explain housing, feeding and other health management practices necessary for poultry and fish production."
+          ],
+          "contents": "History of the domestic fowl. Types and breeds of poultry. Special husbandry (housing and feeding) requirements of broilers, layers, breeders and cockerels. Special husbandry requirements of turkey, guinea fowl, duck, ostrich and quail. Hatchery management. Inspection and care of day-old chicks. Biosecurity measures on poultry farms. Conditions that affect the health of fish stock. Aquaculture biosecurity protocols. Strategies to manage and maintain the health and well-being of fish in aquaculture facilities. Monitoring fish health. Health consideration in fishpond management.",
+          "lab_work": null
+        },
+        {
+          "code": "VHM 204",
+          "title": "Animal Welfare",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 29,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "state the legal and regulatory framework for animal welfare and animal euthanasia;",
+            "demonstrate social responsibility for animal well-being and reducing animal suffering;",
+            "determine the effective measures to apply when adverse events occur in animals; and",
+            "select the best practices for animal use in research."
+          ],
+          "contents": "Definition of the term ‘Animal Welfare’. Legal and regulatory framework for animal welfare including right to kill. Animal population dynamics in relation to animal welfare. Humane transportation, killing, disposal and harvesting. Care of animals during disaster. Animal freedom and behaviour (freedom from pain, injury and disease, fear, stress and discomfort and freedom to express normal behaviour). Animal care in research (International standards and best practices in research and training). Provisions in the criminal and penal codes on animal mishandling and welfare.",
+          "lab_work": null
+        },
+        {
+          "code": "VAN 201",
+          "title": "Gross Veterinary Anatomy I",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 29,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "explain the nomenclature of structures of the organ system;",
+            "describe relative positions of organs in the body and the relationships with one another; and",
+            "correlate the knowledge acquired to radiology and surgery courses at the clinical levels."
+          ],
+          "contents": "Definition of anatomic terms. The basic gross anatomy of the animal body, skeletal system, respiratory, digestive, circulatory and lymphatic systems of a type animal. Comparative anatomy of internal organs. General plan of circulation, heart, arterial and venous systems. Pulmonary and systemic circulation. Respiratory system; pleural cavity (visceral and parietal pleura). Larynx and tracheal anatomy, differences in sheep and goat. Digestive system (ruminant). Lymphatic system; major lymph nodes in thorax and abdomen. General osteology, myology, arthrology.",
+          "lab_work": null
+        },
+        {
+          "code": "VAN 202",
+          "title": "Gross Veterinary Anatomy II",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 29,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "explain the nomenclature of structures of the organ system;",
+            "describe relative positions of bones and organs in the body; and",
+            "demonstrate competence in dissection to see, in situ, the organs of the body and their relationships with one another."
+          ],
+          "contents": "Urogenital System (Ruminant): Kidney (Large and Small Ruminants), ureter, bladder, and urethra. Male urogenital peculiarities (urethra to glans penis), urogenital folds, spermatic cord, testes and epididymis, inguinal canal, accessory sex organs. Female urogenital system, urethra to vulva, ovaries to vagina. Broad ligament. Recap blood and nerve supply to reproductive system. Neuroanatomy and structures in the head (Ruminant): superficial structures of the head, horn, canthus, commissures, nasal anatomy. Bones of the skull, special joints of the skull. Muscles of the head. Major blood and nerve supply to the head. Structures of the brain. Circle of Willis.",
+          "lab_work": null
+        },
+        {
+          "code": "VAN 203",
+          "title": "Histology",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 30,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "identify each organ microscopically;",
+            "demonstrate the practical skill to use the microscope; and",
+            "identify histological uniqueness of some organs across species."
+          ],
+          "contents": "History and introduction to microscopy and microscopic techniques: History and introduction to the cell, membrane structure, and cell surface modification, nucleus, principle of protein synthesis, exocytosis and endocytosis, gap junction and cytoskeleton. Organelles: mitochondria, ribosomes, endoplasmic reticulum, Golgi apparatus, lysosomes. Epithelia tissue: different types, examples of where they are found, glandular epithelium (exocrine and endocrine). Connective tissue: Cells, fibres, ground substance. Muscular tissue: Skeletal, smooth, cardiac, basic ultrastructure of muscle unit. Nervous tissue: Basic neuron, neuron types, ultrastructure of neuron, myelin, synapse, glial cells, peripheral nerve ganglion, choroid plexus, sensory receptors, blood brain barrier. Systemic Histology: Microscopic study of the organ systems of the body of animals. Comparative Histology of the organ systems of animals.",
+          "lab_work": null
+        },
+        {
+          "code": "VBC 201",
+          "title": "Biochemistry I (Chemistry and Biochemistry of Carbohydrate and Protein. Abnormalities of Carbohydrate and Protein Metabolism)",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 30,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "explain the chemistry and biochemistry of carbohydrates and proteins;",
+            "describe the abnormalities of carbohydrates, protein, amino acids; and",
+            "explain haemoglobin metabolism."
+          ],
+          "contents": "Pathways of metabolism of glucose and fructose, and control of carbohydrate metabolism. The electron transport chain (ETC) and oxidative phosphorylation. Chemistry and structure of amino acids, peptides and peptic bonds, and metabolism of amino acids and amino sugars. Essential and non-essential amino acids. Classification, structure and functions of proteins. Urea cycle and its biochemical importance. Glucose-6-phosphate dehydrogenase (G6PD) deficiency. Inborn errors of metabolism of some amino acids e.g. (phenylketonuria, tyrosinosis, alkaptonuria, albinism, cystinuria). Structure, properties, and biochemical functions of Haemoglobin, Porphyrins and Porphynurias. Functions of bile pigments; jaundice. Haemoglobinopathies, HBS, thalassemias, heamophilia, etc.",
+          "lab_work": null
+        },
+        {
+          "code": "VBC 202",
+          "title": "Biochemistry II (Chemistry and Biochemistry of Lipids. Nutritional Biochemistry. Fluid and Electrolyte Balance)",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 31,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "explain the chemistry and biochemistry of lipids, nutritional biochemistry, fluid and electrolyte balance; and",
+            "describe major nutritional, vitamins, fluid and electrolyte deficiencies."
+          ],
+          "contents": "Introduction, classification, chemistry, and functions of lipids. Digestion and absorption of lipids, formation of chylomicrons, transport of lipids in blood stream, lipoproteins. Biosynthesis of fatty acids, the triacylglycerols, phospholipids, sphingolipids and regulatory mechanism involved. Metabolism of cholesterol, biosynthesis and deregulation into bile acids and bile salts, etc. Biochemistry of prostaglandins and nutritional biochemistry: General nutritional requirements. Energy aspects of diets, basal metabolic rates (BMR), and specific dynamic action. Major nutritional disorders e.g. obesity, marasmus, kwashiorkor, and marasmic- kwashiokor. The water-soluble vitamins, vitamin C and their biochemical importance in the body. The fat-soluble vitamins: A, D, E and K and their biochemical functions. Calcium and phosphorus metabolism and significance in the body. Trace elements: Mg2+, Mn2+, Zn2+, P, Co, Li2+, etc. Fluid and electrolyte balance: Fluid intake and output, total body water distribution in intracellular and extracellular fluids. Functions of electrolytes, dehydration, and its correction. Water and the major ions: HCO3 -, Cl-, Na+, K+, H+ Regulations of water balance. Iron: sources, absorption, distribution in the body and biochemical functions and excretion. Anaemia, heamochromatosis. Chemistry and biochemistry of carotenoid. Biochemistry of Vision. Coenzyme, structure, and roles in cellular metabolism.",
+          "lab_work": null
+        },
+        {
+          "code": "VBC 204",
+          "title": "Introductory Molecular Biology",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 31,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe the principles and explain the interrelationships between structure, functions and molecular mechanisms that underlie the functions of a normal cell; and",
+            "acquire basic techniques in cell and molecular biology."
+          ],
+          "contents": "Sub-cellular and molecular basis of cell function and mode by which cells multiply, replicate and pass genetic information including DNA structure and protein synthesis. Methods of gene splicing and genetic engineering. Chemistry and structures of nucleic acids. Nomenclature of bases, nucleotides and nucleotide biosynthesis. Composition of DNA and RNA. The Watson- Crick DNA double helix. Genetic regulation of metabolism. Introduction to genetic engineering in veterinary medicine. Virus and oncogenes. Programmed cell death, Biochemistry of free radicals.",
+          "lab_work": null
+        },
+        {
+          "code": "VPY 201",
+          "title": "Veterinary Physiology I (Blood, Circulatory and Respiratory Systems)",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 32,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe morphology, function and disorders of blood cells;",
+            "describe oxygen supply to tissues and exchange of gasses in tissues; and",
+            "explain control of breathing and mechanisms of body temperature regulation."
+          ],
+          "contents": "Structure and functions of blood, production, degradation of blood cells. Anaemia, blood coagulation, plasma proteins and blood volume measurement. Cardiovascular physiology: structure and functions of the heart; the dynamics of blood and lymph flow. Blood pressure and heart rate control and regulation. Circulation of blood through special organs e.g., lungs, heart, brain, liver, and kidneys. Respiratory Physiology involves the function of the respiratory system and properties of gas. Mechanism of respiration and gas exchange in the lungs Regulation of respiratory and buffers in the blood.",
+          "lab_work": null
+        },
+        {
+          "code": "VPY 202",
+          "title": "Veterinary Physiology II (Endocrinology, Renal and Digestive Systems)",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 32,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "determine the location of different endocrine glands;",
+            "describe the functions of endocrine factors;",
+            "explain the interrelationship between endocrine and nervous system;",
+            "explain the involvement of endocrine system in animal production and glomerular filtration;",
+            "describe the functions of the kidneys, glomerular filtration, water excretion, acidification of urine and bicarbonate excretion; and",
+            "explain electrolyte (e.g., potassium and sodium) excretion."
+          ],
+          "contents": "Introduction to endocrine system as a control system in the body; endocrine organs and their secretions. Characteristics and mode of action of hormones. Mechanism of secretion, regulation and function of hormones from the pituitary, thyroid, parathyroid, adrenal, pancreas and thymus glands. Effects of hypo- and hyper-secretions of the above-named glands in various animals. Physiological control systems and feedback mechanisms. The role of the kidney in homeostasis. Nephron - the functional unit of the kidney. Glomerular filtration and tubular functions. Water and electrolyte excretion and absorption. Digestion in monogastric animals, prehension, mastication and swallowing. Saliva production and function. Gastric juice production, digestion, and absorption of food items. Digestion in the ruminant stomach and intestinal motility. Hormones of the gut Avian digestion.",
+          "lab_work": null
+        },
+        {
+          "code": "VPY 204",
+          "title": "Veterinary Physiology III (Neuromuscular Physiology and Special Senses)",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 32,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe the role of the nervous system in maintaining homeostasis;",
+            "explain nerve cell communication;",
+            "outline the structures and divisions of the nervous system including their roles;",
+            "describe how the brain and the spinal cord are protected and nourished;",
+            "distinguish between the parasympathetic and sympathetic division of the autonomic nervous system;",
+            "identify the special senses, their structure and function; and",
+            "relate types of sensory receptors to their function and the nervous pathways to the central nervous system."
+          ],
+          "contents": "Impulse propagation and conduction. Central and autonomic nervous systems. Reflex mechanisms and types. Neurotransmitters, motor functions of the spinal cord, ascending and descending fibre tracts of the spinal cord. The brain, hypothalamus, and limbic systems. Sleep and wakefulness. Physiological properties and functions of the autonomic nervous system, muscles and bones. Physiology of special senses, olfaction, gustation, hearing and vision.",
+          "lab_work": null
+        },
+        {
+          "code": "VEX 299",
+          "title": "Externship I (Animal Husbandry) (6weeks)",
+          "units": 2,
+          "status": "C",
+          "lh": null,
+          "ph": 90,
+          "page": 33,
+          "level": 200,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe farm settings for specific animal species.",
+            "handle and restrain farm animals for specific procedures.",
+            "carry out specific farm practices like grooming, feeding, housing, etc."
+          ],
+          "contents": "A long vacation field practice of six weeks duration in a livestock, poultry or fish farm. Students are to participate in animal husbandry and health management activities on the farm under the supervision of the farm veterinary officer. Inspection visits may be conducted to such places by the staff of relevant departments to assess students’ participation.",
+          "lab_work": null
+        },
+        {
+          "code": "GST 312",
+          "title": "Peace and Conflict Resolution",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 33,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the end of the course, students should be able to:",
+          "outcomes": [
+            "explain the concepts of peace, conflict and security;",
+            "list major forms, types and root causes of conflict and violence;",
+            "differentiate between conflict and terrorism;",
+            "enumerate security and peace building strategies; and",
+            "describe roles of international organisations, media and traditional institutions in peace building."
+          ],
+          "contents": "Concepts of peace, conflict and security in a multi-ethnic nation. Types and theories of conflicts: ethnic, religious, economic, geo-political conflicts. Structural conflict theory, realist theory of conflict, frustration-aggression conflict theory. Root causes of conflict and violence in Africa: indigene and settlers’ phenomena; boundary/boarder disputes; political disputes; ethnic disputes and rivalries. Economic inequalities; social dispute. Nationalist movements and agitations. Selected conflict case studies – Tiv-Junkun; Zango Kartaf. Chieftaincy and land disputes, etc. Peace building, management of conflicts and security. Peace and human development. Approaches to peace & conflict management --- (religious, government, community leaders etc.). elements of peace studies and conflict resolution. Conflict dynamics assessment scales. Constructive and destructive, justice and legal framework. Concepts of social justice; the Nigerian legal system. Insurgency and terrorism. Peace mediation and peace keeping. Peace and Security Council (international, national and local levels). Agents of conflict resolution – conventions, treaties, community policing. evolution and imperatives. Alternative Dispute Resolution (ADR). Dialogue, arbitration, negotiation, collaboration, etc. Roles of international organizations in conflict resolution - (a). the United Nations (UN) and its conflict resolution organs; the African Union and Peace Security Council. ECOWAS in peace keeping. The media and traditional institutions in peace building. Managing post-conflict situations; refugees. Internally Displaced Persons (IDPS). The role of NGOs in post-conflict situations.",
+          "lab_work": null
+        },
+        {
+          "code": "ENT 312",
+          "title": "Venture Creation",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 34,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the end of this course, students, through case study and practical approaches, should be able to:",
+          "outcomes": [
+            "describe the key steps in venture creation;",
+            "identify opportunities in problems and in high potential sectors regardless of geographical location;",
+            "state how original products, ideas, and concepts are developed;",
+            "develop business concept for further incubation or pitching for funding;",
+            "identify key sources of entrepreneurial finance;",
+            "implement the requirements for establishing and managing micro and small enterprises;",
+            "conduct entrepreneurial marketing and e-commerce;",
+            "apply a wide variety of emerging technological solutions to entrepreneurship, and",
+            "appreciate why ventures fail due to lack of planning and poor implementation."
+          ],
+          "contents": "Opportunity identification: sources of business opportunities in Nigeria, environmental scanning. Demand and supply gap/unmet needs/market gaps/market research. Unutilised resources, social and climate conditions and technology adoption gap. New business development: business planning, market research, etc. Entrepreneurial finance: venture capital, equity finance. Micro finance, personal savings, small business investment organizations and business plan competition. Entrepreneurial marketing and e-commerce. Principles of marketing, customer acquisition and retention. B2B, C2C and B2C models of e- commerce. First mover advantage, e-commerce business models and successful e-commerce companies. Small business management/family business. Leadership & management: basic book keeping, nature of family business and Family Business Growth Model. Negotiations and business communication: strategy and tactics of negotiation/bargaining. Traditional and modern business communication methods. Opportunity Discovery Demonstrations: business idea generation and presentations. Business idea contest, brainstorming sessions, idea pitching, etc. Technological Solutions: the concepts of market/customer solution, customer solution and emerging technologies. Business Applications of new technologies: Artificial Intelligence (AI), Virtual/Mixed Reality (VR), Internet of Things (IoTs), Blockchain, Cloud Computing, Renewable Energy, etc. Digital business and e-commerce strategies).",
+          "lab_work": null
+        },
+        {
+          "code": "VAN 305",
+          "title": "Embryology",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 34,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "discuss embryological origin of mammalian and avian organs; and",
+            "identify embryonic tissue and organ morphology and structure in clinical specimens."
+          ],
+          "contents": "Introduction to embryology, fertilization, cleavage, establishment of germ layers, primitive streak. Basic formation of body configuration, nervous system, digestive and respiratory systems, mesoderm differentiation, mesonephrosis formation, circulatory system, extra- embryonic membranes. Differentiation and regulation. Mutation, radiation effect and teratogenesis. Normal development of mammalian and avian organ systems.",
+          "lab_work": null
+        },
+        {
+          "code": "VAN 307",
+          "title": "Comparative Gross Anatomy",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 35,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "compare gross anatomy of different animal species;",
+            "apply the knowledge of anatomy acquired to clinical exercises including surgery;",
+            "delineate the gross topographical and comparative gross anatomy of major domestic animals and birds;",
+            "identify the features of normal equine, ruminant, porcine, canine and avian gross anatomy; and",
+            "demonstrate further knowledge of the interrelationships among anatomical structures and functions of the animal body."
+          ],
+          "contents": "General and Comparative studies of the digestive, reproductive, respiratory and circulatory systems, nervous, urogenital, endocrine, sense, and sex organs and integument of domestic animals. Basic differences in organ gross morphology amongst major domestic animals (pigs, cattle, dogs, horses) and birds. Comparative osteology and arthrology. Dental formula, buccal wall anatomy, simple versus complex stomachs, differences in small and large intestines. Foetal circulation. Anatomy of avian organ systems: Skeleton, myology, joints, digestive, circulatory, respiratory, urogenital and integument.",
+          "lab_work": null
+        },
+        {
+          "code": "VPY 305",
+          "title": "Environmental Physiology",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 35,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "explain various components of the environment and their impact on animal physiology;",
+            "discuss how adaptation (biochemical, behavioural and ecological) techniques allow animals to cope especially in extreme environments;",
+            "explain the concept of homeostasis and allostatic techniques in various conditions;",
+            "identify the role of epigenetic changes in developmental plasticity and how it could foster adaptation in an extreme environment; and",
+            "identify various environmental stressors and their effects on animal survival.",
+            "Thermoregulation and short-term responses to exposure to heat and cold."
+          ],
+          "contents": "Physiologic response to heat and cold temperature regulation: body temperature. Function of renal system. Micturition, structure and general physiology of the skin. Water, electrolyte, and acid-base balance. Environment and its effects on animal adaptation and survival. Mechanisms adopted by animals to adjust to changes in environmental conditions including climate, weather, environmental temperature, humidity and pressure; salinity and altitude (sudden change or over a period). The impacts of animal and other biotic factors such as predation, desertification and pollution.",
+          "lab_work": null
+        },
+        {
+          "code": "VPY 307",
+          "title": "Reproductive Physiology and Endocrinology",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 36,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe changes that occur in the reproductive system over the lifetime of an animal;",
+            "distinguish the major hormones involved in reproduction and describe their role in regulating reproduction in male and female animals;",
+            "describe processes that can lead to dysfunction of the reproductive system;",
+            "describe the basic properties of muscles;",
+            "explain isotonic and isometric contraction; and",
+            "describe electromyography."
+          ],
+          "contents": "Functions of male and female reproductive systems. The role of reproductive hormones in reproductive functions. Oestrus cycle, puberty, and lactation. Reproduction in males and females. Pregnancy. Spinal cord and brain stem functions.",
+          "lab_work": null
+        },
+        {
+          "code": "VBC 305",
+          "title": "Biochemistry III (Hormones and their Characteristics)",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 36,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "discuss the general characteristics of hormones, their biosynthesis and molecular mechanisms of action; and",
+            "explain how their synthesis is regulated and their assay methods."
+          ],
+          "contents": "General characteristics of hormones and the molecular mechanisms of action. Hormones of the adrenal cortex: the glucocorticoids and the mineralocorticoids-biosynthesis, regulation of biosynthesis and metabolic functions. Adrenocortical insufficiency: Addison’s disease, hyper-aldosteronism. Hormones of testes, ovary, and the placental testosterone, androgens, estrogens, progesterone; biosynthesis, functions, metabolism, and regulations. Assay of hormones-biological, chemical, and radio-displacement assay. Hormones of the adrenohypophysis; ACTH, GH, TSH, LH, Prolactin, and MSH. The neurohypophysis; vasopressin and oxytocin.",
+          "lab_work": null
+        },
+        {
+          "code": "VPC 301",
+          "title": "General Pharmacology",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 36,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "define pharmacology and drug, and identify their sources;",
+            "describe routes of drug administration, their disposition in the body and how they are excreted;",
+            "explain drug interaction and toxic effects on the whole animal and the environment;",
+            "explain basic concepts of mechanism of drug action, misuse, and abuse; and",
+            "enumerate the legislations governing the development and use of drugs in animals."
+          ],
+          "contents": "Definitions and historical development of Pharmacology. Sources and formulations of drugs. Mode of drug administration and disposition in the body (absorption, distribution, biotransformation and excretion). Mechanisms of drug action. Groups of chemotherapeutic agents, dosages, routes of administration, labelling and packaging. Prescription, interpretation and dispensing. The concept of drug misuse and abuse, and toxicity.",
+          "lab_work": null
+        },
+        {
+          "code": "VMB 302",
+          "title": "Introductory Microbiology",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 37,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "explain the contributions of scientists to microbiology;",
+            "identify key features of prokaryotes, eukaryotes and viruses;",
+            "recognize the key features of microscopy and techniques for staining microbes;",
+            "discuss the physiology and biochemistry of microbial respiration and cell division;",
+            "identify growth and biochemical characteristics of bacteria;",
+            "list the agents for sterilisation and disinfection of surfaces and explain their effects on viability of microbes; and",
+            "explain the concept of antimicrobial resistance."
+          ],
+          "contents": "History of microbiology. Introduction to bacteriology, virology and mycology. Classification, nomenclature and morphology of bacteria, viruses, fungi and other pathogens of veterinary importance. Growth, enumeration, reproduction, isolation and identification of bacteria and viruses. Purification of viruses. Control of microbial population (sterilisation and disinfection). Environmental bacteriology. morphology and classification of viruses. Interference and interferon. Growth of viruses in tissue culture.",
+          "lab_work": null
+        },
+        {
+          "code": "VMB 304",
+          "title": "Principles of Immunology",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 37,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "define antigen, immunogen, and hapten;",
+            "explain the concept of self or non-self, and relate the anatomy of immune organs and tissues, to their functions;",
+            "compare innate and acquired immune responses;",
+            "explain antigen-antibody interactions in vitro and their diagnostic applications;",
+            "determine the differences in immune responses to various pathogens including parasites and tumor cells as well as the different mechanisms; and",
+            "explain the different mechanisms involved in hypersensitivity reactions, immune defects and autoimmunity."
+          ],
+          "contents": "Historical perspectives. Anatomy and histology of Immunological organs, macrophages, lymphocytes, and plasma cells. Immune responses. Antibody–antigen reaction, hypersensitivity reactions, auto-immune diseases, and immune-deficiency diseases. Principles of immunotherapy and vaccination; immunisation and immunological aspects of cancer. Immunological methods for diagnosis of diseases.",
+          "lab_work": null
+        },
+        {
+          "code": "VMB 306",
+          "title": "Pathogenic Bacteriology",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 37,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe different types of bacteria in relation to the diseases they cause in animals;",
+            "explain key virulence factors associated with the different genera and species of pathogenic bacteria including antimicrobial resistance;",
+            "prepare culture and isolation of bacteria from clinical specimens and other samples",
+            "use bacterial growth characteristics, microscopic appearances and dichotomous biochemical tests to identify pathogenic Gram-positive, Gram-negative and higher bacteria; and",
+            "interpret other appropriate diagnostic assays for bacterial identifications and antimicrobial sensitivity tests"
+          ],
+          "contents": "Bacterial agents of veterinary importance with emphasis on mechanisms of disease production. Class of bacterial agents for each body system. Establishing different diagnostics for disease syndrome and developing diagnostic approach.",
+          "lab_work": null
+        },
+        {
+          "code": "VPE 302",
+          "title": "General Veterinary Parasitology",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 38,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate knowledge of basic concepts and terminologies used in parasitology;",
+            "determine parasites of veterinary and medical importance infecting organs of domestic and non-domestic animals; and",
+            "describe basic distinguishing features of parasites of veterinary importance."
+          ],
+          "contents": "Definitions, concepts and terminologies related to parasitology. Classification and economic importance of parasites of domestic animals. Specific parasites of the gastrointestinal tract and respiratory system. Structure, classification, life cycle and transmission of protozoan and other tick-borne parasites of domestic stock. Insects and ectoparasites of veterinary importance. Vectors and vector-borne diseases. Basic information on prevention and control of parasites of veterinary and medical importance.",
+          "lab_work": null
+        },
+        {
+          "code": "VPT 302",
+          "title": "Principles of General Pathology",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 38,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "explain the nature of disease processes from the standpoint of interactions of causation and effects on tissue and organ morphology and function: and",
+            "classify these processes into degenerative, inflammatory, neoplastic, etc."
+          ],
+          "contents": "History of pathology. Definitions and terminologies in Veterinary Pathology. Degeneration and necrosis, circulatory disturbances. Inflammations and repair. Disturbances of growth. Neoplasia. Fundamental immunopathology. Lectures and practical demonstrations of veterinary disease processes with emphasis on degeneration and necrosis, circulatory disturbances, inflammation and repair. Disturbances of growth and neoplasia. Tissue reaction to injury and basic immunopathology.",
+          "lab_work": null
+        },
+        {
+          "code": "VSR 302",
+          "title": "Wound Management",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 38,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe categories of wounds and decide the treatment required based on level of contamination;",
+            "identify signs of healing in wounds; and",
+            "determine the therapy for malignant wounds and concurrent blood tests to preclude toxicity during cancer therapy."
+          ],
+          "contents": "Signs and symptoms of wounds. Types of wounds. Wound dressing and management, types of bandages, their uses and management. Uses of honey in wound treatment. Cancer, causes of cancer. Carcinogens. Treatment of cancer.",
+          "lab_work": null
+        },
+        {
+          "code": "VEX 399",
+          "title": "Externship II (Diagnostics) (6 weeks)",
+          "units": 2,
+          "status": "C",
+          "lh": null,
+          "ph": 90,
+          "page": 39,
+          "level": 300,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "relate topics in Veterinary microbiology and pathology to disease diagnosis.",
+            "carry out diagnostic procedures towards making confirmatory diagnosis in disease occurrence.",
+            "demonstrate laboratory ethics and conduct."
+          ],
+          "contents": "A long vacation field practice of six weeks duration in diagnostic laboratories during the long vacation following 300 level. Inspection visits may be conducted to such places by lecturers from the coordinating departments to assess student's participation.",
+          "lab_work": null
+        },
+        {
+          "code": "VPC 403",
+          "title": "Systemic Pharmacology",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 39,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "explain drug actions on different body systems including cardiovascular, respiratory, etc;",
+            "determine dosage regimens of these drugs in the management of organ dysfunction;",
+            "discuss the use of fluids, minerals, and vitamins to correct deficiencies; and",
+            "explain adverse and secondary effects of drugs in the animal body. Couse Contents Drugs affecting organ systems and the reproductive systems. Vitamins, minerals, fluids and hormones influencing metabolism and body growth. Locally acting drugs as well as drugs used in treating non-infectious diseases."
+          ],
+          "contents": "",
+          "lab_work": null
+        },
+        {
+          "code": "VPC 404",
+          "title": "Chemotherapy",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 39,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the end of this course, students should be able to:",
+          "outcomes": [
+            "define chemotherapy and chemotherapeutics and relate the history of chemotherapy;",
+            "explain the basic mechanisms of action of chemotherapeutic agents (antibacterials, anthelmintics, ectoparasitics, antiseptics/disinfectants, antiviral and antineoplastics);",
+            "explain antimicrobial drug resistance and prudent use of anti-infectious agents; and",
+            "discuss immunological treatment of diseases as well as gene therapy."
+          ],
+          "contents": "History and development of modern chemotherapeutic agents. Use and misuse of chemotherapeutic agents in infectious disease control and neoplasia. Drug tolerance, drug resistance and hypersensitivity reactions in the use of antimicrobial and antitumour agents. Immunotherapy and gene therapy.",
+          "lab_work": null
+        },
+        {
+          "code": "VPC 405",
+          "title": "Toxicology",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 40,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "define toxicology;",
+            "explain and provide information on how to assess the likelihood of poisoning and possible differential diagnoses;",
+            "describe the procedures and therapy to implement in the event of poisoning;",
+            "explain the agents that cause poisoning in animals and the environment;",
+            "describe and carryout sample collection from both live and dead animals to obtain laboratory confirmation of toxic agents in question; and",
+            "carry out simple tests to determine potential toxicant and degree of toxicity."
+          ],
+          "contents": "General principles of toxicity and toxicological evaluation. Pesticide use and misuse. Heavy metal and chemical poisoning. Teratogenic toxicity. Poisonous plants in the environment. Mycotoxins. Animal venoms. Environmental toxicology including persistent organic pollutants. Study of diagnostic methods in poisoning, use of antidotes and preventive measures.",
+          "lab_work": null
+        },
+        {
+          "code": "VHM 406",
+          "title": "Farm Animal Breeding and Genetics",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 40,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe the concepts of breeding and genetics and related terminologies;",
+            "demonstrate the estimation of genetic parameters; and",
+            "enumerate the importance of quality foundation to livestock production."
+          ],
+          "contents": "Variance, co-variances, partitioning of phenotypic variance. Genotype by environmental interaction. Statistical tools for studying inheritance. Estimation of genetic parameters (heritability, repeatability, genetic correlations); inbreeding, linebreeding and relationships, cross-breeding in practice, selection principles and methods; breeding (mating) systems; breeding plans for different farm animal species; foundation stock development. Genetic improvement for various livestock traits",
+          "lab_work": null
+        },
+        {
+          "code": "VSR 403",
+          "title": "Anaesthesiology and Intensive Care",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 40,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "distinguish between anaesthesia and sedation and the drugs to achieve either;",
+            "differentiate between classes of drugs and contraindications; and",
+            "analyse emergencies and respond appropriately."
+          ],
+          "contents": "General principles of anaesthesia and analgesia. Mode of administration of inhalant anaesthetics; effect on operational procedure, complications, and management of general anaesthesia in various species. Instrumentation and anaesthetic drugs commonly used as well as drugs for controlling pain. Crash cart drugs and supplies. Simple calculations of drug dosages.",
+          "lab_work": null
+        },
+        {
+          "code": "VSR 404",
+          "title": "Introductory Surgery and Basic Radiology",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 42,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "conduct themselves professionally in surgical theatre and prepare for surgery;",
+            "perform basic skills required to carry out surgical operations;",
+            "explain the principles of image formation with every imaging modality;",
+            "explain the meaning and distinction of radiology from diagnostic imaging; and",
+            "demonstrate the use of diagnostic imaging instruments."
+          ],
+          "contents": "Definitions. Surgical preparation of the surgeon and patient, and instrumentation. Hospital design; clean and contaminated areas. Citing of specialised surgical areas like the radiology suite, intensive care unit and neonatal wards. Pre-and Post-operative management. Suture materials and patterns. Uses of radiology, instrumentation in radiology. Preparing and positioning patients for x-ray. Exposure and developing techniques. Exposure to ultrasonography, fluoroscopy, scintigraphy. Safety and techniques in radiology.",
+          "lab_work": null
+        },
+        {
+          "code": "VMB 407",
+          "title": "Systemic Virology and Mycology",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 42,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate knowledge of the morphology of various families of viruses and fungi of veterinary and zoonotic importance;",
+            "describe the pathogenesis of important viral and fungal diseases of domestic and wild animals;",
+            "demonstrate competence in laboratory tests for isolation, identification and characterization of viruses and fungi; and",
+            "demonstrate knowledge of vaccination and control of viral diseases of domestic and companion animals."
+          ],
+          "contents": "Specific viruses of veterinary importance including viruses of Foot-and-mouth disease, Marek’s disease, Equine encephalomyelitis, Canine parvovirus, Canine distemper, Feline pankoleukopaenia, Porcine circovirus, Severe acute respiratory syndrome (SARS-CoVs), etc. Fungi of veterinary importance including Dermatophytes, Aspergillus, and toxic fungi.",
+          "lab_work": null
+        },
+        {
+          "code": "VPE 403",
+          "title": "Protozoology",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 42,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "classify protozoa of veterinary and medical importance;",
+            "describe distinguishing features of parasites, host preferences and predilection sites.",
+            "illustrate life cycles of protozoa of veterinary importance;",
+            "demonstrate basic laboratory and field diagnostic procedures for detecting protozoa of veterinary importance; and",
+            "propose appropriate control and preventive measures for protozoa of veterinary and public health importance."
+          ],
+          "contents": "Introduction and classification of protozoa of Veterinary importance. Protozoa transmitted by insects – Trypanosome, Plasmodium, Leishmania, Leucocytozoon and Haemobartonella. Protozoa transmitted by resistant cysts: Eimeria, Balantidium, Giardia, Toxoplasma, Entamoeba, Sarcocystis and Bedsonia.",
+          "lab_work": null
+        },
+        {
+          "code": "VPE 404",
+          "title": "Helminthology",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 43,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "classify helminths of veterinary and medical importance;",
+            "discuss the distinguishing features of parasites, host preferences and predilection sites;",
+            "illustrate life cycles of helminths of veterinary and medical importance;",
+            "demonstrate basic laboratory and field diagnostic procedures for detecting helminths of veterinary and medical importance; and",
+            "propose appropriate control and preventive measures for helminths of veterinary and public health importance."
+          ],
+          "contents": "Identification, classification, and study of life cycle of helminths of veterinary and medical importance. Morphology, pathogenicity and control of helminths including: Platyhelminths, trematodes (Digenea and Aspidobothria) cestodes (Pseudophyllidea, Cyclophylidea); Nemathyhelminths. Nematodes (Trichostrongylloidea, Strongyloidea, Rhabdoitidea, Spirurids, Filaroidea). Aphasmida parasites. Laboratory tests which include egg counting techniques, larval culture, worm recovery and preservation of the helminths.",
+          "lab_work": null
+        },
+        {
+          "code": "VPE 405",
+          "title": "Entomology",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 43,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "classify ectoparasites of veterinary and medical importance;",
+            "describe distinguishing features of ectoparasites, their host preferences and predilection sites;",
+            "illustrate life cycles of pathogens within various vectors of veterinary importance;",
+            "demonstrate basic laboratory and field procedures for the collection and identification of ectoparasites of veterinary importance; and",
+            "propose appropriate control and preventive measures for ectoparasites of veterinary and public health importance."
+          ],
+          "contents": "Introduction to phylum, Arthropoda, Order-Nematocera, Brachycera and Cyclorhapha, Acarology-Ixodidae, Argasidae, Siphonaptera (fleas), Phthiraptera (lice). Life cycles and vectorial capacity of members of phylum Arthropoda. Techniques needed for diagnosis. Binomial system of nomenclature. Ecology of vectors and their role in disease transmission, distribution (local and worldwide) and population dynamics. Ectoparasitic control methods and insecticide resistance in vectors of veterinary and medical importance.",
+          "lab_work": null
+        },
+        {
+          "code": "VPT 403",
+          "title": "Systemic Pathology",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 44,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "recognise the peculiarities of various body systems of animals in disease processes;",
+            "describe common diseases that affect various systems and be conversant with their gross- and histopathology;",
+            "obtain, preserve and process diagnostic materials from either live animals or at post- mortem;",
+            "record and present their observations and findings; and",
+            "conduct systematic derivation of morphological, tentative, differential, and definitive diagnoses."
+          ],
+          "contents": "System-based study of the pathology of congenital, hemodynamic, inflammatory, infectious, metabolic, environmental, and neoplastic diseases that affect various systems of the animal body. The systems include alimentary, respiratory, cardiovascular, skin, special senses, musculoskeletal, nervous, haemopoietic, urinary, genital and endocrine. Introduction to routine post-mortem diagnostic procedures in various species of animals. Biopsy techniques and routine post-mortem sample collection procedures. Disease reporting and formulation of appropriate morphological and disease diagnosis. Ancillary tools in disease diagnosis.",
+          "lab_work": null
+        },
+        {
+          "code": "VPT 404",
+          "title": "Pathology of Infectious and Non-infectious Diseases",
+          "units": 3,
+          "status": "C",
+          "lh": 30,
+          "ph": 45,
+          "page": 44,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "identify specific clinical signs and lesions associated with infectious and non-infectious diseases;",
+            "deduce relevant differential diagnoses; and",
+            "use knowledge acquired from Systemic Pathology and approach necropsy from disease point of view."
+          ],
+          "contents": "Pathology of endemic and emerging diseases of animals (including poultry and fish species) that are of importance in the tropical environment. Aetiology, clinical manifestation, pathology and diagnosis of infectious and non-infectious diseases.",
+          "lab_work": null
+        },
+        {
+          "code": "VMD 401",
+          "title": "Introductory Internal Medicine",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 44,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe the concept of disease;",
+            "identify diseased animals;",
+            "use common clinical/diagnostic instruments; and",
+            "interpret clinical findings."
+          ],
+          "contents": "General systemic disease conditions of domestic and wild animals: Cardiovascular, digestive, nervous system, endocrine, etc. Use of common diagnostic instruments and diagnostic methods. Cardiopulmonary resuscitation in domestic and wildlife. General systemic ailments: shock, fever, anorexia, etc. Vital signs, reference values and interpretation of aberrations. Principles of treatment and prognosis.",
+          "lab_work": null
+        },
+        {
+          "code": "VMD 402",
+          "title": "Clinical Management",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 45,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate competence at setting up veterinary clinic/hospital with its basic facilities;",
+            "exhibit customer service skills;",
+            "demonstrate skills for basic approach to examination of lethargic animals; and",
+            "demonstrate competency at sample collection and preservation as well as general hospital management."
+          ],
+          "contents": "The setting up of the veterinary clinic/hospital, client reception and basic facilities. Inpatient and outpatient management procedure. Clinic equipment for small and large animals. Cleaning and sterilisation of hospital equipment. Examination of sick animals. Collection and preservation of specimens from sick animals.",
+          "lab_work": null
+        },
+        {
+          "code": "VTP 401",
+          "title": "Veterinary Gynaecology",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 45,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "discuss causes and treatments of reproductive diseases in animals; and",
+            "explain reproductive implications of the diseases."
+          ],
+          "contents": "Functions and clinical examination of female reproductive organs of large animals. Puberty and sexual reproductive glands and hormones. Oestrous cycle. Act of copulation. Fertilisation and gestation. Anomalies of foetal development, including genetic and acquired causes. Oogenesis. Disturbances of ovulation and nidation. Causes of infertility and sterility in female animals. Diseases that influence sexual functions.",
+          "lab_work": null
+        },
+        {
+          "code": "VTP 402",
+          "title": "Veterinary Andrology and Artificial Insemination",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 45,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate clinical examination of male reproductive system;",
+            "explain service behaviours of male animals;",
+            "discuss male infertility and assisted reproductive techniques;",
+            "discuss Artificial Insemination, its advantages and disadvantages;",
+            "demonstrate semen collection, preservation, transportation, and insemination techniques; and",
+            "discuss reproductive disorders affecting insemination."
+          ],
+          "contents": "Clinical examination of the male reproductive system. Service behaviours. Male infertility. Diseases of testes and accessory sex organs. Servicing ability and semen disorders. Inability of male to copulate or fertilise. History of artificial insemination, its advantages and disadvantages. Semen collection, evaluation, processing, preservation, transportation, and insemination techniques. Reproductive disorders affecting insemination.",
+          "lab_work": null
+        },
+        {
+          "code": "VPH 401",
+          "title": "Wildlife Ecology and Conservation",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 46,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "identify species, characteristics, habitat requirements and life cycles of selected wildlife species;",
+            "discuss the general principles of ecology and how it relates to terrestrial and/or aquatic animal conservation;",
+            "apply knowledge acquired to solve problems related to wildlife conservation and management; and",
+            "explain the importance of wildlife as reservoirs of infectious diseases of man and domestic animals."
+          ],
+          "contents": "General principles of ecosystem and management. Ecology of wild animals. Challenges faced by wild animals while sharing the planet with humans and mitigation options. Wildlife conservation and its importance as reservoir of infectious diseases of domestic animals and man. Tools and techniques for monitoring wildlife habitats, communities, and population. Care and management of wild animal parks and zoological gardens.",
+          "lab_work": null
+        },
+        {
+          "code": "VPM 402",
+          "title": "Veterinary Extension and Rural Sociology",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 46,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students will be able to:",
+          "outcomes": [
+            "examine the model extension efforts taken by individuals, groups and communities and the reasons for success or failure of each effort;",
+            "discuss livestock rearing patterns in urban, rural and traditional settings;",
+            "explain perception, attitude and practices of rural dwellers and apply same to drive needed changes in animal health; and",
+            "execute farm, home and/or field visits to farmers to provide first-hand information on national goals."
+          ],
+          "contents": "Importance of Veterinary Extension in controlling diseases such as ticks and tick-borne diseases, helminths, etc. Rural sociology. Extension targets. Adoption of extension technologies. Components of livestock production and public health extension. Extension promotion and delivery.",
+          "lab_work": null
+        },
+        {
+          "code": "VEX 499",
+          "title": "Externship III (Clinics and Public Health) (6 weeks)",
+          "units": 2,
+          "status": "C",
+          "lh": null,
+          "ph": 90,
+          "page": 46,
+          "level": 400,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "receive and clerk clinical cases.",
+            "carry out basic examinations towards achieving clinical diagnosis.",
+            "collect clinical samples and handle appropriately.",
+            "identify lethargic food animals during ante-mortem inspection.",
+            "identify aberrations in animals slaughtered for meat."
+          ],
+          "contents": "A long vacation field practice of six-weeks duration in Clinics and Veterinary Hospitals including 2 weeks in abattoir and control posts (under the supervision of a qualified veterinarian) during the long vacation following 400 level. Inspection visits may be conducted to such places by lecturers from the coordinating departments to assess student's participation.",
+          "lab_work": null
+        },
+        {
+          "code": "VAN 509",
+          "title": "Applied and Radiographic Clinical Anatomy",
+          "units": 1,
+          "status": "C",
+          "lh": null,
+          "ph": 45,
+          "page": 47,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate a working translational knowledge of vital anatomical landmarks to clinical practice (medicine, surgery, and meat inspection); and",
+            "identify radiographic distinct features embedded in anatomical structures."
+          ],
+          "contents": "Application of Radiography in the study of normal bones of domestic animals. Topographic consideration of structures of domestic animals often involved in surgery and veterinary practice. A review of anatomy relevant to meat inspection such as the lymph nodes and internal organs. Topographic consideration of structures of domestic animals often involved in surgery and medical practice, bleeding sites in domestic and laboratory animals. Clinical anatomy of simple and ruminant stomachs and intestines. Applied anatomy of mammary gland and inguinal region. Osteology of the head and paranasal sinuses, landmarks for stunning in the head, and for regional anaesthesia in the cranial region. Anatomical basis of castration and spaying in domestic animals. Landmarks for intra-articular injection of joints. Anatomical consideration of avian anaesthesia. Landmarks of pelvis and pelvic cavity relative to reproductive functions of the female. Management of anatomical specimen, embalming techniques, preservation of fluids and tissue dissection facilities.",
+          "lab_work": null
+        },
+        {
+          "code": "VPT 505",
+          "title": "Clinical Pathology",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 47,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "employ the tools of Clinical Pathology to diagnose and monitor disease processes and response to treatment; and",
+            "describe the processes underlying abnormal laboratory results."
+          ],
+          "contents": "Laboratory testing and data interpretation in the areas of haematology, serum chemistry, urinalysis, organ function tests, body fluid analysis and diagnostic cytology. These processes are to confirm and/or support the disease processes and assess prognosis. They are also to assist in determining treatment options and monitoring response to treatment.",
+          "lab_work": null
+        },
+        {
+          "code": "VMD 503",
+          "title": "Aquatic and Wild Animal Medicine",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 48,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate knowledge of diseases and disorders of fish and other aquatic animals and their control measures;",
+            "explain the effects of poor water quality on the health of aquatic animals; and",
+            "demonstrate knowledge of diseases that are specific to wild and captive animals and their control measures."
+          ],
+          "contents": "Common bacterial, fungal, viral, and parasitic diseases of fish and other aquatic animals with emphasis on clinical signs, lesions, diagnosis and treatment. Vaccination regimes in aquaculture. Environmental conditions due to extremes of water quality parameters will be reviewed. Physical and chemical restraints of wild animals. Diseases specific to wild and captive animals.",
+          "lab_work": null
+        },
+        {
+          "code": "VMD 504",
+          "title": "Avian Medicine",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 48,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "recognise sick birds;",
+            "diagnose diseases and disorders of poultry and other birds using appropriate diagnostic tools and methods: and",
+            "treat and/or institute necessary measures to control their diseases."
+          ],
+          "contents": "Description, aetiology, clinical signs, diagnosis and treatment or management of diseases of poultry species e.g. bacterial (Salmonellosis, Pasteurellosis, Colisepticaemia, Mycoplasmosis, etc), viral (Newcastle disease, infectious bursal disease, avian encephalomyelitis, chicken infectious anaemia, avian influenza, etc), fungal (mycoses and mycotoxicoses), metabolic and nutritional (fatty liver syndrome, gout, nutritional deficiencies, etc), and diseases of pet/aviary birds.",
+          "lab_work": null
+        },
+        {
+          "code": "VMD 505",
+          "title": "Small/Laboratory Animal and Microlivestock Medicine",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 48,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "recognise sick dogs, cats, and micro-livestock such as grass-cutters;",
+            "diagnose diseases and disorders of these species using appropriate diagnostic tools and methods: and",
+            "institute treatment and other necessary control measures."
+          ],
+          "contents": "Lectures on infectious diseases viz bacterial, fungal and algal, protozoal, viral, prions and rickettsia. Diseases of organ systems, e.g., cardiovascular, gastroenteric, nervous, etc; metabolic and nutritional diseases of dogs, cats, rabbits, guinea pigs and experimental animals as well as micro-livestock such as grass-cutters. Emphasis will be placed on clinical signs, diagnosis, treatment and control.",
+          "lab_work": null
+        },
+        {
+          "code": "VMD 506",
+          "title": "Ruminant Medicine",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 49,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "identify sick domestic ruminants such as cattle, sheep and goats;",
+            "diagnose diseases and disorders of these species using appropriate diagnostic tools and methods; and",
+            "institute treatment and other necessary control measures."
+          ],
+          "contents": "Infectious diseases of cattle, buffaloes, elands, antelopes, sheep and goats e.g. (bacterial {such as tetanus, tuberculosis, black quarters, and anthrax}, viral {such as Foot and Mouth Disease and Peste des Petit Ruminants}, fungal {such as cutaneous lymphatic diseases}, protozoal {such as babesiosis, trypanosomiasis, theileriosis}, rickettsial {such as toxoplasmosis and anaplasmosis}). Non-infectious diseases e.g. metabolic (such as ketosis, toxaemia, and milk fever) and nutritional (such as bloat, diarrhoea, and constipation). Emphasis will be placed on the epidemiology, clinical signs, diagnosis, treatment, and control.",
+          "lab_work": null
+        },
+        {
+          "code": "VMD 507",
+          "title": "Porcine Medicine",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 49,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "identify sick pigs;",
+            "diagnose diseases and disorders of this species using appropriate diagnostic tools and methods; and",
+            "institute treatment and other necessary control measures."
+          ],
+          "contents": "Diseases of the porcine species e.g., bacterial (Swine erysipelas, Swine dysentery, Infectious atrophic rhinitis, Colibacillosis, Salmonellosis, Clostridiosis etc), viral (African Swine Fever, Swine influenza, Transmissible gastroenteritis, Foot and Mouth Disease etc), parasitic (internal parasites, external parasites, coccidia etc), fungal (mycoses and mycotoxicoses), metabolic and nutritional diseases of pigs will be covered. Emphasis will be placed on the epidemiology, clinical signs, diagnosis, treatment and control of relevant diseases of importance.",
+          "lab_work": null
+        },
+        {
+          "code": "VMD 508",
+          "title": "Equine Medicine",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 49,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "recognise sick horses and donkeys;",
+            "diagnose diseases and disorders of equidae using appropriate diagnostic tools and methods; and",
+            "institute treatment and other necessary control measures."
+          ],
+          "contents": "Infectious, non-infectious (including metabolic and nutritional) diseases of equidae with reference to horses used for polo and security patrols of the mounted troops. Emphasis will be placed on the clinical signs, diagnosis, treatment and control of specific diseases of economic importance in the tropics. The course highlights problem-oriented approach in the management of equine diseases and disorders.",
+          "lab_work": null
+        },
+        {
+          "code": "VSR 505",
+          "title": "Diagnostic Imaging",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 50,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "explain the principles of radiography and the process of taking radiographs using manual and digital methods;",
+            "use X-rays safely;",
+            "explain the basis of ultrasonography and its specialised use in cardiology;",
+            "state indications for Computed Tomography (CT) scan use and interpret images shown; and",
+            "recognise the use of imaging in theriogenology."
+          ],
+          "contents": "Introduction to X-rays, Radiation safety, X-ray film exposure and processing. Radiographic interpretation. Radiation therapy. Principles of ultrasound scanning. Applications of scanning in Veterinary Medicine. Echocardiography. Principles of CT scan. The uses of diagnostic imaging techniques in pregnancy diagnosis and in reproductive disorders. Review of clinical imaging cases.",
+          "lab_work": null
+        },
+        {
+          "code": "VSR 506",
+          "title": "Soft Tissue Surgery",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 50,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe the procedure required for preoperative assessment;",
+            "explain the history, clinical signs, laboratory tests and diagnostic imaging carried out; and",
+            "diagnose and treat lamenesses in animals."
+          ],
+          "contents": "Surgical management involving the head, neck and thorax as well as abdomen, limbs and lameness. Features of cosmetic surgery. Common operations of all regions will be discussed including indications and contraindications.",
+          "lab_work": null
+        },
+        {
+          "code": "VSR 507",
+          "title": "Orthopaedic Surgery",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 50,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students will be able to:",
+          "outcomes": [
+            "describe lesions and decide treatment options that best fit the presentation;",
+            "determine appropriate implants and treatment options; and",
+            "determine the diagnostic method that best fits the clinical presentation and apply treatment."
+          ],
+          "contents": "Fractures and fracture healing; examination and evaluation of the orthopaedic patient, reduction and fixation of fractures; nursing care, diagnosis and treatment of fractures of long bones, pelvis, spine and skull of animal species. Management of bone infections; nutritional, neoplastic bone and joint diseases. Use of implants and fixation devices.",
+          "lab_work": null
+        },
+        {
+          "code": "VSR 508",
+          "title": "Large Animal Lameness",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 51,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students will be able to:",
+          "outcomes": [
+            "determine diagnostic tests that are required in cases of large animal lameness.",
+            "institute therapy and evaluate the effectiveness of therapy;",
+            "discuss breed predisposition to lameness in categories of horses based on use; and",
+            "explain how the lameness impacts the presentation of each individual case."
+          ],
+          "contents": "Causes, diagnosis and treatment of lameness in large animals with emphasis in horses. Lameness examination and its components - history, standing exam, movement exam, flexion and hoof tester exams, diagnostic anaesthesia and imaging the site of injury.",
+          "lab_work": null
+        },
+        {
+          "code": "VTP 503",
+          "title": "Veterinary Obstetrics and Neonatology",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 51,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "acquire necessary skills in examining animals in order to detect conception, parturition and dystocia and its management;",
+            "conduct neonatal care to reduce neonatal loss; and",
+            "discuss neonatal periods in different animal species and physiological characteristics of neonates."
+          ],
+          "contents": "Pregnancy in cow, mare, ewe, doe, sow, bitch and queen. Parturition in different animal species. Management of dystocia. Care of the new-born in cattle, horses, pigs, dogs. Factors influencing neonatal mortality. The neonatal periods in different species. Physiological characteristics of the neonate. Clinical examination of healthy and sick new-born. Congenital malformations of the neonate. Premature birth and its management. Obstetrical injuries affecting neonates.",
+          "lab_work": null
+        },
+        {
+          "code": "VTP 504",
+          "title": "Large Animal Theriogenology",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 51,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate case-based problem-solving skills in ruminants, equidae and swine pregnancy and parturition; and",
+            "explain reproductive defects such as postpartum acyclicity and induction of ovulation."
+          ],
+          "contents": "Review of anatomy and functions of different reproductive structures in ruminant, equine, and swine; Puberty and factors affecting its timing. Induction of puberty. Ovarian cycle, Oestrous cycle patterns and Ovulation. Behavioural characteristics of Oestrous in different species, Oestrous detection accuracy; Oestrous detection aids; false Oestrous. Fertilisation, Conception and Pregnancy: Fertilisation process and types; embryo development; formation and function of embryonic membranes and pregnancy establishment; identification of embryos; placenta; pregnancy recognition and its maintenance. Pregnancy diagnosis: Relevant methods of pregnancy diagnosis in ruminants, Equidae and swine and their efficacy.",
+          "lab_work": null
+        },
+        {
+          "code": "VTP 505",
+          "title": "Small/Laboratory Animal and Microlivestock Theriogenology",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 52,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "differentiate the peculiarities of breeding, conception and parturition in dogs, cats, and microlivestock such as grass-cutters;",
+            "explain abnormal sexual behaviours of dogs and cats; and",
+            "discuss fertilisation processes in these animal species."
+          ],
+          "contents": "Review of reproductive anatomy and functions of different reproductive structures in canine, feline and microlivestock such as grass-cutter. Puberty in bitches and queens. Oestrous cycle, its induction and prevention in bitches and queens. Breeding management of the bitch and queen. Physiology and endocrinology of canine and feline pregnancy. Fertilisation, Conception and Pregnancy: Fertilisation process and types; embryo development; formation and function of embryonic membranes and pregnancy establishment; identification of embryos; placenta; pregnancy recognition and its maintenance. Pseudocyesis and its complications. Management of pregnancy in the bitch and queen. Relevant methods of pregnancy diagnosis in the bitch and queen. Normal and abnormal parturitions in the dog and the bitch. Developmental congenital anomalies of reproductive tract. Inherited lethal and non-lethal defects in dogs and cats. Relationship of ovaries and mammary gland diseases. Abnormal sexual behaviour in canine and feline species.",
+          "lab_work": null
+        },
+        {
+          "code": "VPH 503",
+          "title": "Food Hygiene and Safety",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 52,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "express their social responsibility for detecting pathogens and lesions in food animals and their products and how to control them;",
+            "discuss public health importance of animal hygiene;",
+            "conduct meat, milk, egg and fish inspection procedures; and",
+            "describe specific non-infectious agents, including drug residues which pose health risk to both humans and animals."
+          ],
+          "contents": "Principles of meat hygiene. Biological and chemical bases of meat hygiene. Ante-mortem and post-mortem inspection procedures. Inspection of poultry meat, eggs, milk, fish. Description of categories of slaughter facilities. Basic construction and principles of a functional abattoir. Methods of food preservation. Food micro-flora and spoilage. Food poisoning. Food-borne diseases. Detection of drug residues in meat, eggs and milk. Public health significance of food hygiene.",
+          "lab_work": null
+        },
+        {
+          "code": "VPH 504",
+          "title": "Zoonoses and Environmental Health",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 52,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "discuss diseases that are naturally transmitted from animals to man; and",
+            "discuss the importance of a healthy environment to human and animal health."
+          ],
+          "contents": "Concepts, definitions, and classification of zoonoses. Studies of specific bacterial, viral, prions, parasitic, rickettsial, protozoal and fungal zoonoses with emphasis on prevention, early detection, control, and eradication. Ecology, water sources and purification. Waste disposal. Public health significance of rodents, birds, flies and mosquitoes. Environment pollution and control.",
+          "lab_work": null
+        },
+        {
+          "code": "VPM 505",
+          "title": "Epidemiology and Principles of Disease Prevention",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 53,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "discuss model epidemiological efforts taken by individuals, groups and communities in the past and the reasons for success or failure of each effort;",
+            "explain various sources of epidemiologic data including household survey, clinics, farms and laboratories;",
+            "explain the determinants of diseases and set goals for their epidemiological survey on farms, homes and identified fields/communities; and",
+            "determine and report the monthly/annual incidence of specific animal and/or human illnesses and associated deaths in a given location."
+          ],
+          "contents": "Definition, scope and uses of epidemiology and disease prevention. Basic concepts of epidemiology. Ecology of disease. Disease-host-agent-environment. Web of causation. Statistical and biological significance of epidemiologic associations. Methods of epidemiologic investigations. Patterns of disease occurrence. Principles and procedures for screening diseases. Screening tests and evaluation. Vaccinations. Dairy Herd Health. Submission of specimens.",
+          "lab_work": null
+        },
+        {
+          "code": "VPM 506",
+          "title": "Veterinary Administration, Jurisprudence and Ethics",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 53,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate knowledge of the basic framework of animal health-related legislation in Nigeria and related global legislations;",
+            "discuss the application of these laws to animal health and enterprises, including the issue of health certificate, post-mortem certificate, clinical and professional practice certification, etc;",
+            "interpret and administer laws relating to ethical use of animals; and",
+            "explain cruelty to animals and common offenses committed by animal owners."
+          ],
+          "contents": "Organisation of veterinary services at national and international levels. Legislation on veterinary practice at national and international levels. Control of animal importation, exportation and movements. Dogs and public health. Laws regulating meat inspection, veterinary drugs, fish and wildlife. Disease Reporting. National and international public health administration.",
+          "lab_work": null
+        },
+        {
+          "code": "VPM 507",
+          "title": "Veterinary Biostatistics and Economics",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 54,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "conduct basic computer recording and be familiar with sampling methods;",
+            "explain micro- and macro-economic concepts of livestock production systems and cost of public health schemes;",
+            "compute and interpret epidemiological measures, formulate simple, measurable and relevant veterinary hypotheses;",
+            "demonstrate acquaintance with relevant statistical software for veterinary application; and",
+            "demonstrate knowledge and application of basic economic concepts in setting costs, benefits and prices in food and non-food animal health enterprise."
+          ],
+          "contents": "Veterinary recording and data types. Classification and tabulation of data. Descriptive and inferential statistics. Measures of central tendency and variability. Population and sample inferences. Test of hypotheses, chi-square tests, normal and other distribution, t-tests, introduction to simple linear regression, sampling methods. Uses of statistics in veterinary practice and research. Basic micro- and macro-economics concepts. Cost of public health schemes. Demand and supply of veterinary services. Economics of livestock production. Economics of operating a veterinary practice and managing veterinary clinic/hospital. Benefit- cost analysis. Business organisations, administration, and promotion. Business management. Project appraisal and feasibility reports.",
+          "lab_work": null
+        },
+        {
+          "code": "VEX 599",
+          "title": "Externship IV (Clinics) (6 weeks)",
+          "units": 2,
+          "status": "C",
+          "lh": null,
+          "ph": 90,
+          "page": 54,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "relate teachings in Veterinary medicine, surgery and theriogenology to cases presented at Veterinary hospitals/clinics.",
+            "analyze clinical presentations in lethargic animals and use ancillary diagnostic methods to achieve disease diagnosis.",
+            "demonstrate the knowledge of appropriate treatment regimen for diagnosed diseases."
+          ],
+          "contents": "A long vacation field practice of six weeks duration in Clinics and Veterinary Hospitals (under the supervision of a qualified veterinarian) during the long vacation following 500 level. Inspection visits may be conducted to such places by lecturers from the coordinating departments.",
+          "lab_work": null
+        },
+        {
+          "code": "VCH 503",
+          "title": "Clinics I",
+          "units": 2,
+          "status": "C",
+          "lh": null,
+          "ph": 90,
+          "page": 54,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students will be able to:",
+          "outcomes": [
+            "receive and clerk clinical cases presented at the different clinics;",
+            "examine animal patients clinically and utilize appropriate diagnostic tools to arrive at a confirmatory diagnosis;",
+            "institute treatment and make recommendations as necessary; and",
+            "carry out or organize prophylactic measures in Veterinary practice including vaccinations and biosecurity."
+          ],
+          "contents": "Clinics I is to be further divided into clinical modules in Medicine, Surgery, Theriogenology, Public Health and Preventive Medicine & Diagnostics. Clinical exercises involving familiarization with methods of case reception, clinical manipulations, sample collection from clinical cases, diagnosis, and treatment should be undertaken.",
+          "lab_work": null
+        },
+        {
+          "code": "VCH 504",
+          "title": "Clinics II",
+          "units": 2,
+          "status": "C",
+          "lh": null,
+          "ph": 90,
+          "page": 55,
+          "level": 500,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students will be able to:",
+          "outcomes": [
+            "receive and clerk clinical cases presented at the different clinics;",
+            "examine animal patients clinically and utilize appropriate diagnostic tools to arrive at a confirmatory diagnosis;",
+            "institute treatment and make recommendations as necessary; and",
+            "carry out or organize prophylactic measures in Veterinary practice including vaccinations and biosecurity."
+          ],
+          "contents": "Clinics II is to be further divided into clinical modules in Medicine, Surgery, Theriogenology, Public Health and Preventive Medicine. During the rotations, the students participate in clinical practice involving case reception, clerking, clinical manipulations, sample collection, diagnosis and treatment.",
+          "lab_work": null
+        },
+        {
+          "code": "VPC 607",
+          "title": "Applied Pharmacology",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 55,
+          "level": 600,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate ability to accurately calculate and safely administer enteral, parenteral, and percutaneous medications to patients in various clinical settings after making definitive diagnosis; and",
+            "demonstrate knowledge of the principles of drug action, interaction, correct dosing regimen, adverse reactions, and other interactions."
+          ],
+          "contents": "Rational use and choice of drug therapy in specific treatments. Drug formulation and incompatibilities. Iatrogenic illnesses and prevention of drug toxicities. Principles of drug dependency, compounding and prescription. Common drug abbreviations. Apothecary and Avoirdupois weights, household equivalents of weights and measures. Therapeutic strategies in a veterinary hospital. Medicinal plants of veterinary importance.",
+          "lab_work": null
+        },
+        {
+          "code": "VPC 608",
+          "title": "Veterinary Pharmacy, Agrochemicals and Quality Control of Veterinary Pharmaceuticals",
+          "units": 2,
+          "status": "C",
+          "lh": 30,
+          "ph": null,
+          "page": 55,
+          "level": 600,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "define pharmacy with special reference to Veterinary Medicine and Agrochemicals;",
+            "have intimate knowledge of Veterinary Drug Formulations and storage;,animal growth promoters and agrochemicals;",
+            "explain all the relevant aspects of veterinary drugs dosage forms and routes of drug administration in veterinary practice;",
+            "demonstrate knowledge of veterinary vaccines and other biologic preparations as well as veterinary supplements.",
+            "produce some Nigerian medicinal herbal compounds; and",
+            "ascertain the requirements for registration and standardisation of Nigerian medicinal herbs."
+          ],
+          "contents": "Definition and introduction to Veterinary pharmacy. Formulation and storage of Veterinary drugs and agrochemicals. Administration of Veterinary drugs. Growth promoters. Agrochemicals. Veterinary dosage forms and routes of drug administration in veterinary practice. Vaccines and other biologics. Vitamins, haematinics, dietary supplements, digestants Equipment, raw materials and facilities required for the production of Veterinary pharmaceuticals. Production, quality control of Veterinary products and some Nigerian medicinal herbs. Requirements for registration and standardisation of Nigerian medicinal herbs. Veterinary dosage forms. Formulations, packaging, labelling and storage of veterinary drugs and vaccines. Official specifications and standardisation of Veterinary dosage forms. and other feed additives. Insecticides, ascaricides and rodenticides. Disinfectants/antiseptics (topical and urinary).",
+          "lab_work": null
+        },
+        {
+          "code": "VPM 609",
+          "title": "Computer Application in Veterinary Practice",
+          "units": 2,
+          "status": "C",
+          "lh": 15,
+          "ph": 45,
+          "page": 56,
+          "level": 600,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "describe computer hardware and software features;",
+            "design and operate computer-based disease reporting systems;",
+            "apply geographic information system in biologic risk management;",
+            "use global positioning system in estimating pattern of spread of disease; and",
+            "conduct digital animal population census."
+          ],
+          "contents": "History of computers. Hardware components. Operating and application software. Features and uses of word processing packages. Introduction to Spreadsheets. Database Management Systems and designing Computer-based veterinary disease reporting systems. Introduction to Geographic Information System (GIS) and its use in biological risk management. Use of Global Positioning System (GPS) in geo-referencing and estimating pattern of spread of disease. Computer aided animal population census and ecosystem health. Other uses of microcomputers in veterinary practice.",
+          "lab_work": null
+        },
+        {
+          "code": "VEX 698",
+          "title": "Rural Posting",
+          "units": 1,
+          "status": "C",
+          "lh": null,
+          "ph": null,
+          "page": 56,
+          "level": 600,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "apply knowledge of treatment of animal diseases in rural settings.",
+            "demonstrate ability to communicate animal health issues with animal owners in rural arears."
+          ],
+          "contents": "A two-week posting of students to serve in a rural area starting from the last two weeks of the long vacation after the 500 level. Students will be involved in rural veterinary practice and extension services. Student's participation and report is to be assessed by lecturers from the coordinating departments.",
+          "lab_work": null
+        },
+        {
+          "code": "VCH 603",
+          "title": "Clinics I",
+          "units": 10,
+          "status": "C",
+          "lh": null,
+          "ph": 450,
+          "page": 57,
+          "level": 600,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "receive and clerk clinical cases presented at the different clinics.",
+            "examine animal patients clinically and utilize appropriate diagnostic tools to arrive at a confirmatory diagnosis.",
+            "institute treatment and make recommendations as necessary.",
+            "carry out or organize prophylactic measures in Veterinary practice including vaccinations and biosecurity."
+          ],
+          "contents": "Clinics I is to be further divided into clinical modules in Medicine, Surgery, Theriogenology, Public Health and Preventive Medicine & Diagnostics. Clinical exercises involving familiarization with methods of case reception, clinical manipulations, sample collection from clinical cases, diagnosis, hands-on training on surgical procedures, and treatment should be undertaken.",
+          "lab_work": null
+        },
+        {
+          "code": "VCH 604",
+          "title": "Clinics II",
+          "units": 10,
+          "status": "C",
+          "lh": null,
+          "ph": 450,
+          "page": 57,
+          "level": 600,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "receive and clerk clinical cases presented at the different clinics.",
+            "examine animal patients clinically and utilize appropriate diagnostic tools to arrive at a confirmatory diagnosis.",
+            "institute treatment and make recommendations as necessary.",
+            "manage emergencies and intensive cares in animals;",
+            "carry out or organize prophylactic measures in Veterinary practice including vaccinations and biosecurity."
+          ],
+          "contents": "Clinics II is to be further divided into clinical modules in Medicine, Surgery, Theriogenology, Public Health and Preventive Medicine. During the rotations, the students participate in clinical practice involving case reception, clerking, clinical manipulations, sample collection, diagnosis, hands-on training on surgical procedures, and treatment.",
+          "lab_work": null
+        },
+        {
+          "code": "VCH 605",
+          "title": "Clinical Seminar I",
+          "units": 1,
+          "status": "C",
+          "lh": null,
+          "ph": 45,
+          "page": 57,
+          "level": 600,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate the art of clinical case investigation, treatment, documentation, and presentation.",
+            "demonstrate collaboration and teamwork skills.",
+            "discuss clinical cases handled each week."
+          ],
+          "contents": "A course involving case workups and seminar presentations by each student during the first semester, to be coordinated by the Faculty. The course shall be assessed by lecturers in all clinical departments.",
+          "lab_work": null
+        },
+        {
+          "code": "VCH 606",
+          "title": "Clinical Seminar II",
+          "units": 1,
+          "status": "C",
+          "lh": null,
+          "ph": 45,
+          "page": 58,
+          "level": 600,
+          "prerequisites": null,
+          "outcomes_intro": "At the completion of this course, students should be able to:",
+          "outcomes": [
+            "demonstrate the art of clinical case investigation, treatment, documentation, and presentation.",
+            "demonstrate collaboration and teamwork skills.",
+            "discuss clinical cases handled each week."
+          ],
+          "contents": "A course involving case workups and seminar presentations by each student during the second semester, to be coordinated by the Faculty. The course shall be assessed by lecturers in all clinical departments.",
+          "lab_work": null
+        },
+        {
+          "code": "VRP 608",
+          "title": "Research Project",
+          "units": 4,
+          "status": "C",
+          "lh": null,
+          "ph": 180,
+          "page": 58,
+          "level": 600,
+          "prerequisites": null,
+          "outcomes_intro": null,
+          "outcomes": [],
+          "contents": "A project involving a research topic in any subject area in Veterinary Medicine. Each student shall be allowed to carry out the study in his/her area of interest as may be moderated by the Faculty and the relevant Department.",
+          "lab_work": null
+        }
+      ]
+    }
+  ]
+}

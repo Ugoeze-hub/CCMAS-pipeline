@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>CCMAS Course Outlines</title>
+<meta name="description" content="Course outlines from the NUC Core Curriculum and Minimum Academic Standards (CCMAS), by faculty and department.">
+<style>
+  :root {
+    --text: #1f2430;
+    --muted: #6b6558;
+    --line: #e4dccb;
+    --bg: #faf6ec;
+    --field: #fffdf8;
+    --accent: #1e3a8a;
+    --link: #1d4ed8;
+    color-scheme: light;
+  }
+  body {
+    margin: 0 auto;
+    max-width: 860px;
+    padding: 24px 16px 64px;
+    font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    color: var(--text);
+    background: var(--bg);
+  }
+  h1 { font-size: 1.5rem; margin: 0 0 4px; color: var(--accent); }
+  h2 { font-size: 1.2rem; margin: 32px 0 4px; color: var(--accent); }
+  h3 { font-size: 1rem; margin: 28px 0 8px; padding-bottom: 4px; border-bottom: 2px solid var(--accent); color: var(--accent); }
+  p { margin: 0 0 12px; }
+  a { color: var(--link); }
+  .muted { color: var(--muted); font-size: 0.9rem; }
+  .controls { display: flex; flex-wrap: wrap; gap: 12px; margin: 20px 0; }
+  .controls label { display: flex; flex-direction: column; font-size: 0.85rem; color: var(--muted); flex: 1 1 220px; }
+  select, input {
+    font: inherit;
+    color: var(--text);
+    background: var(--field);
+    border: 1px solid var(--line);
+    border-radius: 4px;
+    padding: 6px 8px;
+    margin-top: 4px;
+  }
+  details { border-bottom: 1px solid var(--line); }
+  summary {
+    display: grid;
+    grid-template-columns: 6.5em 1fr auto;
+    gap: 12px;
+    padding: 8px 0;
+    cursor: pointer;
+    list-style: none;
+  }
+  summary::-webkit-details-marker { display: none; }
+  summary .code { font-weight: 600; white-space: nowrap; color: var(--accent); }
+  summary:hover { background: var(--field); }
+  select:focus, input:focus { outline: 2px solid var(--accent); outline-offset: 0; }
+  summary .units { color: var(--muted); font-size: 0.9rem; white-space: nowrap; }
+  details[open] summary { font-weight: 600; }
+  .body { padding: 0 0 16px 0; }
+  .body h4 { font-size: 0.9rem; margin: 12px 0 4px; }
+  .body ol { margin: 0; padding-left: 1.4em; }
+  @media (max-width: 520px) {
+    summary { grid-template-columns: 5.5em 1fr; }
+    summary .units { grid-column: 2; }
+  }
+</style>
+</head>
+<body>
+
+<h1>CCMAS Course Outlines</h1>
+<p class="muted">
+  Course outlines from the National Universities Commission's
+  <a href="https://www.nuc.edu.ng/ccmas/">Core Curriculum and Minimum Academic Standards</a> (2023),
+  by faculty and department. CCMAS covers the core of each programme (about 70%); universities add the rest.
+  The text is extracted automatically from the PDFs, so check the linked PDF page when it matters.
+</p>
+
+<div class="controls">
+  <label>Faculty <select id="faculty"></select></label>
+  <label>Department <select id="programme"></select></label>
+  <label>Search <input id="search" type="search" placeholder="Course code or title"></label>
+</div>
+
+<div id="out"><p class="muted">Loading…</p></div>
+
+<script>
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
+const STATUS = { C: "Compulsory", E: "Elective", R: "Required" };
+
+let index = [];
+const cache = {};
+let faculty = null; // full faculty data
+let programme = null;
+
+async function getJson(path) {
+  const res = await fetch(path);
+  if (!res.ok) throw new Error(res.status + " " + path);
+  return res.json();
+}
+
+function setHash() {
+  const p = faculty && programme ? faculty.programmes.indexOf(programme) : -1;
+  history.replaceState(null, "", faculty ? "#" + faculty.slug + (p >= 0 ? "/" + p : "") : "#");
+}
+
+async function selectFaculty(slug, progIdx) {
+  $("out").innerHTML = '<p class="muted">Loading…</p>';
+  faculty = cache[slug] ??= await getJson("data/" + slug + ".json");
+  $("faculty").value = slug;
+  $("programme").innerHTML = faculty.programmes
+    .map((p, i) => `<option value="${i}">${esc(p.name)} (${esc(p.degree)})</option>`)
+    .join("");
+  selectProgramme(progIdx ?? 0);
+}
+
+function selectProgramme(i) {
+  programme = faculty.programmes[i] ?? faculty.programmes[0];
+  $("programme").value = faculty.programmes.indexOf(programme);
+  setHash();
+  render();
+}
+
+function pdfLink(page, label) {
+  return `<a href="${esc(faculty.source_url)}#page=${page}" target="_blank" rel="noopener">${label}</a>`;
+}
+
+function courseHtml(c) {
+  const meta = [
+    c.units + (c.units === 1 ? " unit" : " units"),
+    STATUS[c.status],
+    c.lh != null ? "LH " + c.lh : null,
+    c.ph != null ? "PH " + c.ph : null,
+  ].filter(Boolean).join(" · ");
+  let body = `<p class="muted">${meta} · ${pdfLink(c.page, "PDF page " + c.page)}</p>`;
+  if (c.prerequisites) body += `<p><strong>Prerequisite:</strong> ${esc(c.prerequisites)}</p>`;
+  if (c.outcomes.length) {
+    body += `<h4>Learning outcomes</h4>`;
+    if (c.outcomes_intro) body += `<p>${esc(c.outcomes_intro)}</p>`;
+    body += `<ol>${c.outcomes.map((o) => `<li>${esc(o)}</li>`).join("")}</ol>`;
+  }
+  if (c.contents) body += `<h4>Course contents</h4><p>${esc(c.contents)}</p>`;
+  if (c.lab_work) body += `<h4>Lab work</h4><p>${esc(c.lab_work)}</p>`;
+  return `<details><summary><span class="code">${esc(c.code)}</span><span>${esc(c.title)}</span>` +
+    `<span class="units">${c.units} ${c.units === 1 ? "unit" : "units"}${c.status ? ", " + c.status : ""}</span></summary>` +
+    `<div class="body">${body}</div></details>`;
+}
+
+function render() {
+  const p = programme;
+  const q = $("search").value.trim().toLowerCase().replace(/\s+/g, " ");
+  const match = (c) => !q || c.code.toLowerCase().includes(q) || c.code.toLowerCase().replace(" ", "").includes(q) || c.title.toLowerCase().includes(q);
+  const courses = p.courses.filter(match);
+  const levels = [...new Set(courses.map((c) => c.level))].sort((a, b) => a - b);
+
+  let html = `<h2>${esc(p.degree)} ${esc(p.name)}</h2>` +
+    `<p class="muted">${esc(faculty.discipline)} · ${p.courses.length} courses · ${pdfLink(p.start_page, `PDF pages ${p.start_page}–${p.end_page}`)}</p>`;
+  if (!courses.length) html += `<p>No courses match “${esc(q)}”.</p>`;
+  for (const level of levels) {
+    html += `<h3>${level} Level</h3>` + courses.filter((c) => c.level === level).map(courseHtml).join("");
+  }
+  $("out").innerHTML = html;
+}
+
+async function init() {
+  try {
+    index = await getJson("data/index.json");
+  } catch (e) {
+    $("out").innerHTML = `<p>Could not load data (${esc(e.message)}).</p>`;
+    return;
+  }
+  $("faculty").innerHTML = index.map((d) => `<option value="${esc(d.slug)}">${esc(d.discipline)}</option>`).join("");
+  $("faculty").onchange = () => { $("search").value = ""; selectFaculty($("faculty").value, 0); };
+  $("programme").onchange = () => { $("search").value = ""; selectProgramme(Number($("programme").value)); };
+  $("search").oninput = render;
+
+  const [slug, prog] = location.hash.slice(1).split("/");
+  const start = index.find((d) => d.slug === slug) ? slug : index[0].slug;
+  try {
+    await selectFaculty(start, prog ? Number(prog) : 0);
+  } catch (e) {
+    $("out").innerHTML = `<p>Could not load data (${esc(e.message)}).</p>`;
+  }
+}
+
+init();
+</script>
+</body>
+</html>

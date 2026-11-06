@@ -1,0 +1,1311 @@
+[
+  {
+    "discipline": "Administration and Management",
+    "slug": "administration-and-management",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Administration-and-Management.pdf",
+    "programmes": [
+      {
+        "name": "Accounting",
+        "degree": "B.Sc.",
+        "courses": 30
+      },
+      {
+        "name": "Actuarial Science",
+        "degree": "B.Sc.",
+        "courses": 35
+      },
+      {
+        "name": "Aviation Management",
+        "degree": "B.Sc.",
+        "courses": 47
+      },
+      {
+        "name": "Business Information Technology",
+        "degree": "B.Sc.",
+        "courses": 35
+      },
+      {
+        "name": "Business Administration",
+        "degree": "B.Sc.",
+        "courses": 34
+      },
+      {
+        "name": "Cooperatives and Rural Development",
+        "degree": "B.Sc.",
+        "courses": 39
+      },
+      {
+        "name": "Employment Relations and Human Resource Management",
+        "degree": "B.Sc.",
+        "courses": 41
+      },
+      {
+        "name": "Entrepreneurship",
+        "degree": "B.Sc.",
+        "courses": 37
+      },
+      {
+        "name": "Finance/Banking and Finance",
+        "degree": "B.Sc.",
+        "courses": 13
+      },
+      {
+        "name": "Hospitality and Tourism Management",
+        "degree": "B.Sc.",
+        "courses": 46
+      },
+      {
+        "name": "Information Resources Management",
+        "degree": "B.Sc.",
+        "courses": 28
+      },
+      {
+        "name": "Insurance",
+        "degree": "B.Sc.",
+        "courses": 31
+      },
+      {
+        "name": "Local Government and Development Studies",
+        "degree": "B.Sc.",
+        "courses": 36
+      },
+      {
+        "name": "Logistics and Supply Chain Management",
+        "degree": "B.Sc.",
+        "courses": 36
+      },
+      {
+        "name": "Marketing",
+        "degree": "B.Sc.",
+        "courses": 23
+      },
+      {
+        "name": "Office and Information Management",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Petroleum Information Management",
+        "degree": "B.Sc.",
+        "courses": 43
+      },
+      {
+        "name": "Procurement Management",
+        "degree": "B.Sc.",
+        "courses": 34
+      },
+      {
+        "name": "Project Management",
+        "degree": "B.Sc.",
+        "courses": 31
+      },
+      {
+        "name": "Public Administration",
+        "degree": "B.Sc.",
+        "courses": 37
+      },
+      {
+        "name": "Securities and Investments Management",
+        "degree": "B.Sc.",
+        "courses": 34
+      },
+      {
+        "name": "Taxation",
+        "degree": "B.Sc.",
+        "courses": 33
+      },
+      {
+        "name": "Transport Management",
+        "degree": "B.Sc.",
+        "courses": 46
+      }
+    ]
+  },
+  {
+    "discipline": "Agriculture",
+    "slug": "agriculture",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Agriculture-2023.pdf",
+    "programmes": [
+      {
+        "name": "Agribusiness",
+        "degree": "B.Sc.",
+        "courses": 42
+      },
+      {
+        "name": "Agriculture",
+        "degree": "B.Agric.",
+        "courses": 66
+      },
+      {
+        "name": "Agricultural Economics",
+        "degree": "B.Sc.",
+        "courses": 40
+      },
+      {
+        "name": "Agricultural Extension",
+        "degree": "B.Sc.",
+        "courses": 42
+      },
+      {
+        "name": "Animal Science",
+        "degree": "B.Sc.",
+        "courses": 41
+      },
+      {
+        "name": "Crop Science",
+        "degree": "B.Sc.",
+        "courses": 40
+      },
+      {
+        "name": "Family and Consumer Sciences",
+        "degree": "B.Sc.",
+        "courses": 49
+      },
+      {
+        "name": "Fisheries and Aquaculture",
+        "degree": "B.Sc.",
+        "courses": 39
+      },
+      {
+        "name": "Food Science and Technology",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 44
+      },
+      {
+        "name": "Forest Resources and Wildlife Management",
+        "degree": "B.Sc.",
+        "courses": 49
+      },
+      {
+        "name": "Horticulture and Landscape Management",
+        "degree": "B.Sc.",
+        "courses": 48
+      },
+      {
+        "name": "Soil Science",
+        "degree": "B.Sc.",
+        "courses": 44
+      },
+      {
+        "name": "Water Resources Management and Agro-Meteorology",
+        "degree": "B.Sc.",
+        "courses": 43
+      }
+    ]
+  },
+  {
+    "discipline": "Allied Health Sciences",
+    "slug": "allied-health-sciences",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Allied-Health-Sciences-2023.pdf",
+    "programmes": [
+      {
+        "name": "Audiology",
+        "degree": "B.Aud.",
+        "courses": 60
+      },
+      {
+        "name": "Complementary and Alternative Medicine",
+        "degree": "B.Sc.",
+        "courses": 40
+      },
+      {
+        "name": "Dental Technology",
+        "degree": "B.Sc.",
+        "courses": 51
+      },
+      {
+        "name": "Dental Therapy",
+        "degree": "B.DT",
+        "courses": 51
+      },
+      {
+        "name": "Environmental Health Science",
+        "degree": "B.EHS",
+        "courses": 53
+      },
+      {
+        "name": "Health Care Administration and Hospital Management",
+        "degree": "B.Sc.",
+        "courses": 41
+      },
+      {
+        "name": "Health Information Management",
+        "degree": "B.HIM.",
+        "courses": 47
+      },
+      {
+        "name": "Information Technology and Health Informatics",
+        "degree": "B.Sc.",
+        "courses": 51
+      },
+      {
+        "name": "Medical Laboratory Science",
+        "degree": "B.MLS.",
+        "courses": 61
+      },
+      {
+        "name": "Nursing Science",
+        "degree": "B.N.Sc.",
+        "courses": 62
+      },
+      {
+        "name": "Human Nutrition and Dietetics",
+        "degree": "B.Sc.",
+        "courses": 51
+      },
+      {
+        "name": "Occupational Therapy",
+        "degree": "B.OT",
+        "courses": 54
+      },
+      {
+        "name": "Optometry",
+        "degree": "O.D",
+        "courses": 89
+      },
+      {
+        "name": "Pharmacology",
+        "degree": "B.Sc.",
+        "courses": 51
+      },
+      {
+        "name": "Physiotherapy",
+        "degree": "DPT.",
+        "courses": 74
+      },
+      {
+        "name": "Prosthetics and Orthotics",
+        "degree": "B.Sc.",
+        "courses": 44
+      },
+      {
+        "name": "Public Health",
+        "degree": "B.Sc.",
+        "courses": 39
+      },
+      {
+        "name": "Radiography",
+        "degree": "B.Rad.",
+        "courses": 59
+      },
+      {
+        "name": "Speech-Language Therapy",
+        "degree": "B.SLT.",
+        "courses": 54
+      }
+    ]
+  },
+  {
+    "discipline": "Architecture",
+    "slug": "architecture",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Architecture-CCMAS-2023-FINAL.pdf",
+    "programmes": [
+      {
+        "name": "Architecture",
+        "degree": "B.Sc.",
+        "courses": 35
+      },
+      {
+        "name": "Architecture",
+        "degree": "B.Sc.Tech.",
+        "courses": 15
+      },
+      {
+        "name": "Furniture Design",
+        "degree": "B.Sc.",
+        "courses": 35
+      },
+      {
+        "name": "Interior Architecture and Design",
+        "degree": "B.Sc.",
+        "courses": 35
+      },
+      {
+        "name": "Landscape Architecture",
+        "degree": "B.Sc.",
+        "courses": 36
+      },
+      {
+        "name": "Naval Architecture",
+        "degree": "B.Sc.",
+        "courses": 13
+      }
+    ]
+  },
+  {
+    "discipline": "Arts",
+    "slug": "arts",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Arts-CCMAS-2023-FINAL.pdf",
+    "programmes": [
+      {
+        "name": "Arabic",
+        "degree": "B.A.",
+        "courses": 43
+      },
+      {
+        "name": "Archaeology",
+        "degree": "B.A.",
+        "courses": 34
+      },
+      {
+        "name": "African Tradition Religion",
+        "degree": "B.A.",
+        "courses": 31
+      },
+      {
+        "name": "Chinese Studies",
+        "degree": "B.A.",
+        "courses": 9
+      },
+      {
+        "name": "Christian Religious Studies",
+        "degree": "B.A.",
+        "courses": 33
+      },
+      {
+        "name": "Christian Theology",
+        "degree": "B.A.",
+        "courses": 39
+      },
+      {
+        "name": "Classics",
+        "degree": "B.A.",
+        "courses": 31
+      },
+      {
+        "name": "Efik",
+        "degree": "B.A.",
+        "courses": 41
+      },
+      {
+        "name": "English Language and Literature",
+        "degree": "B.A.",
+        "courses": 58
+      },
+      {
+        "name": "Film Production",
+        "degree": "B.A.",
+        "courses": 37
+      },
+      {
+        "name": "Folklore Studies",
+        "degree": "B.A.",
+        "courses": 37
+      },
+      {
+        "name": "Hausa",
+        "degree": "B.A.",
+        "courses": 39
+      },
+      {
+        "name": "History/History and Diplomatic Studies",
+        "degree": "B.A.",
+        "courses": 33
+      },
+      {
+        "name": "Ibibio",
+        "degree": "B.A.",
+        "courses": 41
+      },
+      {
+        "name": "Igbo",
+        "degree": "B.A.",
+        "courses": 40
+      },
+      {
+        "name": "Islamic Studies",
+        "degree": "B.A.",
+        "courses": 41
+      },
+      {
+        "name": "Linguistics",
+        "degree": "B.A.",
+        "courses": 37
+      },
+      {
+        "name": "Modern European Languages (French)",
+        "degree": "B.A.",
+        "courses": 41
+      },
+      {
+        "name": "Modern European Languages (German)",
+        "degree": "B.A.",
+        "courses": 41
+      },
+      {
+        "name": "Modern European Languages (Russian)",
+        "degree": "B.A.",
+        "courses": 53
+      },
+      {
+        "name": "Music",
+        "degree": "B.A.",
+        "courses": 51
+      },
+      {
+        "name": "Philosophy",
+        "degree": "B.A.",
+        "courses": 39
+      },
+      {
+        "name": "Religious Studies",
+        "degree": "B.A.",
+        "courses": 41
+      },
+      {
+        "name": "Sharīcah",
+        "degree": "B.A.",
+        "courses": 43
+      },
+      {
+        "name": "Theatre Arts",
+        "degree": "B.A.",
+        "courses": 36
+      },
+      {
+        "name": "Yorùbá",
+        "degree": "B.A.",
+        "courses": 37
+      }
+    ]
+  },
+  {
+    "discipline": "Basic Medical Sciences",
+    "slug": "basic-medical-sciences",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Basic-Medical-Sciences-CCMAS-FINAL-December-26-2022.pdf",
+    "programmes": [
+      {
+        "name": "Human Anatomy",
+        "degree": "B.Sc.",
+        "courses": 45
+      },
+      {
+        "name": "Physiology",
+        "degree": "B.Sc.",
+        "courses": 43
+      }
+    ]
+  },
+  {
+    "discipline": "Communication and Media Studies",
+    "slug": "communication-and-media-studies",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Communication-and-Media-Studies-CCMAS-2023-FINAL.pdf",
+    "programmes": [
+      {
+        "name": "Advertising",
+        "degree": "B.Sc.",
+        "courses": 43
+      },
+      {
+        "name": "Broadcasting",
+        "degree": "B.Sc.",
+        "courses": 44
+      },
+      {
+        "name": "Development Communication Studies",
+        "degree": "B.Sc.",
+        "courses": 43
+      },
+      {
+        "name": "Film & Multimedia",
+        "degree": "B.Sc.",
+        "courses": 40
+      },
+      {
+        "name": "Information and Media Studies",
+        "degree": "B.Sc.",
+        "courses": 41
+      },
+      {
+        "name": "Journalism and Media Studies",
+        "degree": "B.Sc.",
+        "courses": 42
+      },
+      {
+        "name": "Mass Communication",
+        "degree": "B.Sc.",
+        "courses": 59
+      },
+      {
+        "name": "Public Relations",
+        "degree": "B.Sc.",
+        "courses": 40
+      },
+      {
+        "name": "Strategic Communication",
+        "degree": "B.Sc.",
+        "courses": 40
+      }
+    ]
+  },
+  {
+    "discipline": "Computing",
+    "slug": "computing",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Computing-CCMAS-2023-FINAL.pdf",
+    "programmes": [
+      {
+        "name": "Computer Science",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Cybersecurity",
+        "degree": "B.Sc.",
+        "courses": 36
+      },
+      {
+        "name": "Data Science",
+        "degree": "B.Sc.",
+        "courses": 36
+      },
+      {
+        "name": "Information and Communication Technology",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Information Systems",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Information Technology",
+        "degree": "B.Sc.",
+        "courses": 39
+      },
+      {
+        "name": "Software Engineering",
+        "degree": "B.Sc.",
+        "courses": 38
+      }
+    ]
+  },
+  {
+    "discipline": "Education",
+    "slug": "education",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Education-CCMAS-2023-New.pdf",
+    "programmes": [
+      {
+        "name": "Adult and Continuing Education",
+        "degree": "B.Sc. (Ed)",
+        "courses": 82
+      },
+      {
+        "name": "Agricultural Education",
+        "degree": "B.Sc.Ed.",
+        "courses": 42
+      },
+      {
+        "name": "Arabic",
+        "degree": "B.A.Ed.",
+        "courses": 37
+      },
+      {
+        "name": "Biology",
+        "degree": "B.Sc.Ed.",
+        "courses": 45
+      },
+      {
+        "name": "Business Education",
+        "degree": "B.Sc.Ed.",
+        "courses": 47
+      },
+      {
+        "name": "Chemistry",
+        "degree": "B.Sc.Ed.",
+        "courses": 44
+      },
+      {
+        "name": "Christian Religious Studies",
+        "degree": "B.A.Ed.",
+        "courses": 29
+      },
+      {
+        "name": "Computer Science",
+        "degree": "B.Sc.Ed.",
+        "courses": 34
+      },
+      {
+        "name": "Creative Arts Education",
+        "degree": "B.A.Ed.",
+        "courses": 38
+      },
+      {
+        "name": "Early Childhood Education",
+        "degree": "B.Ed.",
+        "courses": 31
+      },
+      {
+        "name": "Economics",
+        "degree": "B.Sc.Ed.",
+        "courses": 37
+      },
+      {
+        "name": "Educational Management",
+        "degree": "B.Ed.",
+        "courses": 31
+      },
+      {
+        "name": "Efik-Ibibio Education",
+        "degree": "B.A.Ed.",
+        "courses": 40
+      },
+      {
+        "name": "English Language/Literature in English",
+        "degree": "B.A.Ed.",
+        "courses": 40
+      },
+      {
+        "name": "Entreprenuership Education",
+        "degree": "B.Ed.",
+        "courses": 31
+      },
+      {
+        "name": "Environmental Education",
+        "degree": "B.Ed.",
+        "courses": 39
+      },
+      {
+        "name": "French",
+        "degree": "B.A.Ed.",
+        "courses": 37
+      },
+      {
+        "name": "Geography",
+        "degree": "B.Sc.Ed.",
+        "courses": 35
+      },
+      {
+        "name": "Guidance and Counselling",
+        "degree": "B.Ed.",
+        "courses": 29
+      },
+      {
+        "name": "Hausa",
+        "degree": "B.A.Ed.",
+        "courses": 17
+      },
+      {
+        "name": "Health Education",
+        "degree": "B.Ed.",
+        "courses": 42
+      },
+      {
+        "name": "History",
+        "degree": "B.A.Ed.",
+        "courses": 32
+      },
+      {
+        "name": "Home Economics",
+        "degree": "B.Ed.",
+        "courses": 31
+      },
+      {
+        "name": "Human Kinetics/Physical Education",
+        "degree": "B.Sc.Ed.",
+        "courses": 12
+      },
+      {
+        "name": "Igbo",
+        "degree": "B.A.Ed.",
+        "courses": 32
+      },
+      {
+        "name": "Integrated Science",
+        "degree": "B.Sc.Ed.",
+        "courses": 42
+      },
+      {
+        "name": "Islamic Studies",
+        "degree": "B.A.Ed.",
+        "courses": 43
+      },
+      {
+        "name": "Language Arts and Communication",
+        "degree": "B.A.Ed.",
+        "courses": 29
+      },
+      {
+        "name": "Library and Information Science",
+        "degree": "B.Ed.",
+        "courses": 29
+      },
+      {
+        "name": "Mathematics",
+        "degree": "B.Sc.Ed.",
+        "courses": 40
+      },
+      {
+        "name": "Music",
+        "degree": "B.A.Ed.",
+        "courses": 40
+      },
+      {
+        "name": "Physics",
+        "degree": "B.Sc.Ed.",
+        "courses": 38
+      },
+      {
+        "name": "Political Science",
+        "degree": "B.Sc.Ed.",
+        "courses": 40
+      },
+      {
+        "name": "Primary Education",
+        "degree": "B.Ed.",
+        "courses": 31
+      },
+      {
+        "name": "Social Studies and Civic Education",
+        "degree": "B.Ed.",
+        "courses": 39
+      },
+      {
+        "name": "Special Needs Education",
+        "degree": "B.Ed.",
+        "courses": 32
+      },
+      {
+        "name": "Sustainable Development Studies",
+        "degree": "B.Sc.Ed.",
+        "courses": 31
+      },
+      {
+        "name": "Technology Education",
+        "degree": "B.Tech.",
+        "courses": 64
+      },
+      {
+        "name": "Yorùbá",
+        "degree": "B.A.Ed.",
+        "courses": 39
+      },
+      {
+        "name": "Educational Technology",
+        "degree": "B.Ed.",
+        "courses": 30
+      }
+    ]
+  },
+  {
+    "discipline": "Engineering Technology",
+    "slug": "engineering-technology",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Engineering-Technology-CCMAS-2023-FINAL.pdf",
+    "programmes": [
+      {
+        "name": "Aerospace Engineering",
+        "degree": "B.Eng.",
+        "courses": 52
+      },
+      {
+        "name": "Agricultural and Biosystems Engineering",
+        "degree": "B.Eng.",
+        "courses": 53
+      },
+      {
+        "name": "Automotive Engineering",
+        "degree": "B.Eng.",
+        "courses": 48
+      },
+      {
+        "name": "Biomedical Engineering",
+        "degree": "B.Eng.",
+        "courses": 54
+      },
+      {
+        "name": "Chemical Engineering",
+        "degree": "B.Eng.",
+        "courses": 53
+      },
+      {
+        "name": "Civil Engineering",
+        "degree": "B.Eng.",
+        "courses": 52
+      },
+      {
+        "name": "Computer Engineering",
+        "degree": "B.Eng.",
+        "courses": 54
+      },
+      {
+        "name": "Electrical Engineering",
+        "degree": "B.Eng.",
+        "courses": 52
+      },
+      {
+        "name": "Electronic Engineering",
+        "degree": "B.Eng.",
+        "courses": 50
+      },
+      {
+        "name": "Electrical and Electronic Engineering",
+        "degree": "B.Eng.",
+        "courses": 46
+      },
+      {
+        "name": "Environmental Engineering",
+        "degree": "B.Eng.",
+        "courses": 52
+      },
+      {
+        "name": "Food Engineering",
+        "degree": "B.Eng.",
+        "courses": 54
+      },
+      {
+        "name": "Food Science and Technology",
+        "degree": "B.Sc.",
+        "courses": 57
+      },
+      {
+        "name": "Information and Communication Engineering",
+        "degree": "B.Eng.",
+        "courses": 55
+      },
+      {
+        "name": "Industrial and Production Engineering",
+        "degree": "B.Eng.",
+        "courses": 49
+      },
+      {
+        "name": "Marine and Offshore Engineering",
+        "degree": "B.Eng.",
+        "courses": 62
+      },
+      {
+        "name": "Materials and Metallurgical Engineering",
+        "degree": "B.Eng.",
+        "courses": 51
+      },
+      {
+        "name": "Mineral Processing and Chemical Metallurgical Engineering",
+        "degree": "B.Eng.",
+        "courses": 50
+      },
+      {
+        "name": "Mechanical Engineering",
+        "degree": "B.Eng.",
+        "courses": 49
+      },
+      {
+        "name": "Mechatronics Engineering",
+        "degree": "B.Eng.",
+        "courses": 48
+      },
+      {
+        "name": "Metallurgical Engineering",
+        "degree": "B.Eng.",
+        "courses": 60
+      },
+      {
+        "name": "Materials Engineering",
+        "degree": "B.Eng.",
+        "courses": 50
+      },
+      {
+        "name": "Mining Engineering",
+        "degree": "B.Eng.",
+        "courses": 49
+      },
+      {
+        "name": "Natural Gas Engineering",
+        "degree": "B.Eng.",
+        "courses": 49
+      },
+      {
+        "name": "Nuclear Engineering",
+        "degree": "B.Eng.",
+        "courses": 52
+      },
+      {
+        "name": "Petrochemical Engineering",
+        "degree": "B.Eng.",
+        "courses": 56
+      },
+      {
+        "name": "Petroleum and Gas Engineering",
+        "degree": "B.Eng.",
+        "courses": 50
+      },
+      {
+        "name": "Petroleum Engineering",
+        "degree": "B.Eng.",
+        "courses": 51
+      },
+      {
+        "name": "Railway Engineering",
+        "degree": "B.Eng.",
+        "courses": 53
+      },
+      {
+        "name": "Structural Engineering",
+        "degree": "B.Eng.",
+        "courses": 46
+      },
+      {
+        "name": "Systems Engineering",
+        "degree": "B.Eng.",
+        "courses": 47
+      },
+      {
+        "name": "Telecommunications Engineering",
+        "degree": "B.Eng.",
+        "courses": 49
+      },
+      {
+        "name": "Water Resources Engineering",
+        "degree": "B.Eng.",
+        "courses": 48
+      },
+      {
+        "name": "Wood Products Engineering",
+        "degree": "B.Eng.",
+        "courses": 51
+      }
+    ]
+  },
+  {
+    "discipline": "Environmental Sciences",
+    "slug": "environmental-sciences",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Environmental-Sciences-CCMAS-2023-FINAL.pdf",
+    "programmes": [
+      {
+        "name": "Building",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 72
+      },
+      {
+        "name": "Clothing and Textile Design",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 39
+      },
+      {
+        "name": "Environmental Management",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 44
+      },
+      {
+        "name": "Environmental Standards",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 49
+      },
+      {
+        "name": "Estate Management",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 43
+      },
+      {
+        "name": "Fashion Design",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 45
+      },
+      {
+        "name": "Fine and Applied Arts",
+        "degree": "B.A./B.Sc./B.Tech.",
+        "courses": 75
+      },
+      {
+        "name": "Geography",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 37
+      },
+      {
+        "name": "Industrial Design",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 144
+      },
+      {
+        "name": "Quantity Surveying",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 53
+      },
+      {
+        "name": "Surveying and Geoinformatics",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 45
+      },
+      {
+        "name": "Urban and Regional Planning",
+        "degree": "B.Sc./B.Tech.",
+        "courses": 41
+      }
+    ]
+  },
+  {
+    "discipline": "Law",
+    "slug": "law",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Law-ALL.pdf",
+    "programmes": [
+      {
+        "name": "Law",
+        "degree": "LL.B",
+        "courses": 34
+      },
+      {
+        "name": "Common and Islamic Law Combined",
+        "degree": "LL.B",
+        "courses": 44
+      }
+    ]
+  },
+  {
+    "discipline": "Medicine and Dentistry",
+    "slug": "medicine-and-dentistry",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Medicine-and-Dentistry-CCMAS-2023-FINAL.pdf",
+    "programmes": [
+      {
+        "name": "Medicine and Surgery",
+        "degree": "MBBS/MBChB",
+        "courses": 220
+      },
+      {
+        "name": "Dental Surgery",
+        "degree": "BDS/BChD",
+        "courses": 174
+      }
+    ]
+  },
+  {
+    "discipline": "Pharmacy and Pharmaceutical Sciences",
+    "slug": "pharmacy-and-pharmaceutical-sciences",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Pharmacy-and-Pharmaceutical-Sciences-CCMAS-2023-FINAL.pdf",
+    "programmes": [
+      {
+        "name": "Pharmacy",
+        "degree": "B.Pharm.",
+        "courses": 90
+      },
+      {
+        "name": "Pharmacy",
+        "degree": "Pharm.D",
+        "courses": 102
+      }
+    ]
+  },
+  {
+    "discipline": "Sciences",
+    "slug": "sciences",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Sciences-CCMAS-2023-FINAL.pdf",
+    "programmes": [
+      {
+        "name": "Applied Geophysics",
+        "degree": "B.Sc.",
+        "courses": 45
+      },
+      {
+        "name": "Biochemistry",
+        "degree": "B.Sc.",
+        "courses": 43
+      },
+      {
+        "name": "Biology",
+        "degree": "B.Sc.",
+        "courses": 41
+      },
+      {
+        "name": "Biotechnology",
+        "degree": "B.Sc.",
+        "courses": 42
+      },
+      {
+        "name": "Botany",
+        "degree": "B.Sc.",
+        "courses": 52
+      },
+      {
+        "name": "Brewing Science and Technology",
+        "degree": "B.Sc.",
+        "courses": 47
+      },
+      {
+        "name": "Chemistry",
+        "degree": "B.Sc.",
+        "courses": 43
+      },
+      {
+        "name": "Environmental Management and Toxicology",
+        "degree": "B.Sc.",
+        "courses": 53
+      },
+      {
+        "name": "Forensic Science",
+        "degree": "B.Sc.",
+        "courses": 39
+      },
+      {
+        "name": "Geology",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Industrial Chemistry",
+        "degree": "B.Sc.",
+        "courses": 43
+      },
+      {
+        "name": "Industrial Mathematics",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Industrial Physics",
+        "degree": "B.Sc.",
+        "courses": 36
+      },
+      {
+        "name": "Marine Science",
+        "degree": "B.Sc.",
+        "courses": 37
+      },
+      {
+        "name": "Maritime Science",
+        "degree": "B.Sc.",
+        "courses": 42
+      },
+      {
+        "name": "Mathematics",
+        "degree": "B.Sc.",
+        "courses": 39
+      },
+      {
+        "name": "Medical Physics",
+        "degree": "B.Sc.",
+        "courses": 42
+      },
+      {
+        "name": "Medicinal Chemistry",
+        "degree": "B.Sc.",
+        "courses": 45
+      },
+      {
+        "name": "Meteorology",
+        "degree": "B.Sc.",
+        "courses": 51
+      },
+      {
+        "name": "Microbiology",
+        "degree": "B.Sc.",
+        "courses": 39
+      },
+      {
+        "name": "Petroleum Chemistry",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Physics with Electronics",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Physics",
+        "degree": "B.Sc.",
+        "courses": 43
+      },
+      {
+        "name": "Science Laboratory Technology",
+        "degree": "B.Sc.",
+        "courses": 136
+      },
+      {
+        "name": "Statistics",
+        "degree": "B.Sc.",
+        "courses": 33
+      },
+      {
+        "name": "Zoology",
+        "degree": "B.Sc.",
+        "courses": 42
+      }
+    ]
+  },
+  {
+    "discipline": "Social Sciences",
+    "slug": "social-sciences",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Social-Sciences-CCMAS-FINAL-2023-A.pdf",
+    "programmes": [
+      {
+        "name": "Criminology and Security Studies",
+        "degree": "B.Sc.",
+        "courses": 32
+      },
+      {
+        "name": "Demography and Social Statistics",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Development Studies",
+        "degree": "B.Sc.",
+        "courses": 40
+      },
+      {
+        "name": "Economics",
+        "degree": "B.Sc.",
+        "courses": 36
+      },
+      {
+        "name": "International Relations",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Library and Information Science",
+        "degree": "B.Sc.",
+        "courses": 30
+      },
+      {
+        "name": "Peace Studies and Conflict Resolution",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Petroleum Economics and Policy Studies",
+        "degree": "B.Sc.",
+        "courses": 35
+      },
+      {
+        "name": "Political Science",
+        "degree": "B.Sc.",
+        "courses": 41
+      },
+      {
+        "name": "Politics, Philosophy and Economics (PPE)",
+        "degree": "B.Sc.",
+        "courses": 38
+      },
+      {
+        "name": "Psychology",
+        "degree": "B.Sc.",
+        "courses": 41
+      },
+      {
+        "name": "Social Standards",
+        "degree": "B.Sc.",
+        "courses": 40
+      },
+      {
+        "name": "Social Work",
+        "degree": "B.Sc.",
+        "courses": 33
+      },
+      {
+        "name": "Sociology",
+        "degree": "B.Sc.",
+        "courses": 34
+      }
+    ]
+  },
+  {
+    "discipline": "Veterinary Medicine",
+    "slug": "veterinary-medicine",
+    "source_url": "https://www.nuc.edu.ng/wp-content/uploads/2026/03/Veterinary-Medicine-CCMAS-2023-FINAL.pdf",
+    "programmes": [
+      {
+        "name": "Veterinary Medicine",
+        "degree": "DVM",
+        "courses": 97
+      }
+    ]
+  }
+]

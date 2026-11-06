@@ -1,6 +1,6 @@
 # CCMAS extraction — handoff notes
 
-Started 2026-11-06 in a Claude Code session in the Wekoya_Frontend_v1 window; continued here.
+Started 2026-11-06. Standalone repo: github.com/Ugoeze-hub/CCMAS-pipeline (public).
 Read this first, then carry on from "Next steps".
 
 ## Goal
@@ -14,11 +14,10 @@ source PDF page). A PDF export per department can be made later from the same da
 
 ## Decisions so far
 
-- Work lives in `Academy/ccmas/`, on its own branch (`ccmas`), so `main` is untouched.
-- Never commit/merge/push on the user's behalf — leave changes uncommitted and give them the commands.
-- Keep PDFs out of git: add `ccmas/pdfs/` to `.gitignore` (not done yet — `.gitignore` is tracked).
-- Academy already has an untracked `.github/` folder on `main` — don't commit it with this work.
-- The webpage can be published as a private claude.ai Artifact link; no need to deploy via Academy's Render setup.
+- Standalone repo, `main` branch. Layout: code in `scripts/`, output JSON in `data/`, PDFs cached in
+  `pdfs/` (gitignored).
+- The user does all commits/pushes — leave changes uncommitted and give them the commands.
+- Hosting: **GitHub Pages** from this public repo (`index.html` at the repo root reads `data/*.json`).
 - Explain each step and *why* before running it — the user wants to follow the process.
 
 ## Source: NUC CCMAS page
@@ -59,21 +58,35 @@ Other sources are listed in the user's Google Doc "CCMAS" (Federal BRIDGE course
 
 ## Pipeline (built 2026-11-06)
 
-- Code is TypeScript in `ccmas/scripts/` (repo is TS; Node 24 runs `.ts` directly; `ccmas/scripts` added to
-  tsconfig `include` so `npm run typecheck` covers it). No npm packages; needs `pdftotext` on PATH.
-- `node ccmas/scripts/pipeline.ts [--only <name>] [--cache] [--dump-text]` does everything: scrapes the NUC page
-  (17 PDF links found), fetches each PDF (temp file, deleted after; `--cache` keeps it in `ccmas/pdfs/`),
-  extracts text, parses TOC -> programmes -> courses, writes `ccmas/data/<slug>.json`.
-- `node ccmas/scripts/spotcheck.ts <slug> ["COS 101" ...]` flags incomplete courses and prints samples.
+- Code is TypeScript in `scripts/` (Node 24 runs `.ts` directly; `npm run typecheck` covers it).
+  No runtime npm packages; needs `pdftotext` on PATH.
+- `npm run pipeline -- [--only <name>] [--cache] [--dump-text]` does everything: scrapes the NUC page
+  (17 PDF links), fetches each PDF (temp file, deleted after; uses/keeps a copy in `pdfs/` with `--cache`),
+  extracts text, parses TOC -> programmes -> courses, writes `data/<slug>.json`.
+- `npm run spotcheck -- <slug> ["COS 101" ...]` flags incomplete courses and prints samples.
+- `npm run serve` previews the page at http://localhost:8000 (no packages; file:// can't fetch the JSON).
+- `data/index.json` (faculties + programmes, written at the end of each pipeline run) lets the page list
+  everything without loading all 18 MB; each faculty's JSON loads when picked.
 - Computing: 7 programmes, 260 courses. Fixed: wide-spaced footers leaking into text, "C1:" status typo,
   SIWES courses (description only, no section headers -> stored as contents). Only SIWES lack outcomes (genuine).
-- `ccmas/pdfs/` is gitignored on branch `ccmas` (branch already existed at main's commit).
 
 ## Next steps
 
-1. ~~Branch + ignore PDFs~~ done.
-2. ~~Computing extraction~~ done -> `ccmas/data/computing.json`.
+1. ~~Repo setup, ignore PDFs~~ done.
+2. ~~Computing extraction~~ done -> `data/computing.json`.
 3. User spot-checks samples (CSC 309 p44, CYB 305 p76, DTS 304 p111, ICT 309 p138, SEN 304 p219, COS 201 p38).
-4. Run on all 16 other PDFs; check text quality (scanned?) and adapt TOC/heading regexes for other degrees
-   (B.Eng., MBBS, LL.B., B.Ed., B.A., …) — TOC regex currently only accepts names starting "B.".
-5. Build the interactive webpage from `ccmas/data/` and publish it as a private link.
+4. ~~All 17 faculties~~ done: 238 programmes, ~10,700 courses. Fixes: TOC programmes = entry before
+   "Overview" (handles LL.B, MBBS, Pharm.D, DVM, dash leaders); programmes anchored on their own Overview
+   page (Arts TOC page numbers drift ~14 pages); courses bounded by "Course Contents and Learning Outcomes"
+   (else "Global Course Structure") .. "Minimum Academic Standards"; headings wrapped over up to 4 lines,
+   "(2 Units; C) (LH 30)", "UnitsC"/"Unite" typos, text after the heading; prerequisites captured.
+5. ~~`index.html`~~ done (plain page: faculty -> department -> courses by level, search, PDF page links).
+6. Turn on GitHub Pages (Settings -> Pages -> main / root).
+
+## Known gaps
+
+- Chinese Studies (Arts): headings use full-width brackets `（2 Units` -> only 9 courses parsed. One-line fix
+  (normalise （ ） in cleanLines).
+- Short programmes to check against the PDF: Finance/Banking (13), Education Hausa (17), Human Kinetics (12)
+  — may list some courses only in the structure table, without descriptions.
+- ~300 courses (3%) lack outcomes/contents/status; many are projects, SIWES, seminars.
