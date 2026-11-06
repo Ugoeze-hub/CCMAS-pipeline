@@ -1,0 +1,19 @@
+{
+  "name": "ccmas-pipeline",
+  "version": "1.0.0",
+  "description": "Extract NUC CCMAS course outlines (department, level, curriculum) from the official PDFs into JSON, browsable as a static page",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "pipeline": "node scripts/pipeline.ts",
+    "spotcheck": "node scripts/spotcheck.ts",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

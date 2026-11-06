@@ -1,0 +1,3 @@
+node_modules/
+# Source PDFs: fetched by the pipeline, re-downloadable from nuc.edu.ng
+pdfs/
